@@ -14,7 +14,7 @@ Available online at http://asjp.clld.org
 [![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 97%](https://img.shields.io/badge/Source-97%25-green.svg "Source: 97%")
 
 - **Varieties:** 7,652
 - **Concepts:** 100
@@ -28,5 +28,5 @@ Available online at http://asjp.clld.org
 
 ## Possible Improvements:
 
-- Entries missing sources: 307396/307396 (100.00%)
+- Entries missing sources: 7929/307396 (2.58%)
 

@@ -11,7 +11,7 @@ from pylexibank.providers import clld
 
 
 class Dataset(clld.CLLD):
-    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-E32A-2C2D-B777-0/asjp_dataset.cldf.zip"
+    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-CFA9-F536-516C-0/asjp_dataset.cldf.zip"
     dir = Path(__file__).parent
 
     def split_forms(self, row, value):
