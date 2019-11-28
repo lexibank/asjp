@@ -8,8 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at http://asjp.clld.org
 
-Conceptlist in Concepticon: [Wichmann-2010-40](http://concepticon.clld.org/contributions/Wichmann-2010-40)
 
+Conceptlists in Concepticon:
+- [Wichmann-2010-40](https://concepticon.clld.org/contributions/Wichmann-2010-40)
 ## Notes
 
 The database of the Automated Similarity Judgment Program (ASJP) aims to
@@ -21,19 +22,15 @@ contain 40-item word lists of all the world's languages.
 
 
 [![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
+![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
 ![Source: 97%](https://img.shields.io/badge/Source-97%25-green.svg "Source: 97%")
 
 - **Varieties:** 7,653
 - **Concepts:** 100
 - **Lexemes:** 307,396
+- **Sources:** 4,102
 - **Synonymy:** 1.10
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
