@@ -25,12 +25,18 @@ contain 40-item word lists of all the world's languages.
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
 ![Source: 97%](https://img.shields.io/badge/Source-97%25-green.svg "Source: 97%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 7,653
 - **Concepts:** 100
 - **Lexemes:** 307,396
 - **Sources:** 4,102
 - **Synonymy:** 1.10
+- **Invalid lexemes:** 0
+- **Tokens:** 1,262,120
+- **Segments:** 317 (0 BIPA errors, 0 CTLS sound class errors, 317 CLTS modified)
+- **Inventory size (avg):** 23.38
 
 ## Possible Improvements:
 
