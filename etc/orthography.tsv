@@ -1,0 +1,623 @@
+Grapheme	IPA
+^	NULL
+$	NULL
+-	NULL
+!	!
+3	ə
+4	n̪
+5	ɲ
+7	ʔ
+8	θ
+a	ɐ
+b	b
+c	ts
+C	tʃ
+d	d
+E	a
+e	e
+f	f
+g	g
+G	ɢ
+h	h
+i	i
+j	dʒ
+k	k
+l	l
+L	ʎ
+m	m
+n	n
+N	ŋ
+o	o
+p	p
+q	q
+r	r
+s	s
+S	ʃ
+T	c
+t	t
+u	u
+v	v
+w	w
+x	x
+X	χ
+y	j
+z	z
+Z	ʒ
+3*	ə̃
+a*	ɐ̃
+a*7~	ɐ̃ˀ
+E*	ã
+e*	ẽ
+i*	ĩ
+o*	õ
+u*	ũ
+5"	ɲʼ
+7"	ʔʼ
+8"	θʼ
+b"	bʼ
+c"	tsʼ
+C"	tʃʼ
+d"	dʼ
+f"	fʼ
+g"	gʼ
+h"	hʼ
+j"	dʒʼ
+k"	kʼ
+l"	lʼ
+L"	ʎʼ
+m"	mʼ
+n"	nʼ
+N"	ŋʼ
+p"	pʼ
+q"	qʼ
+r"	rʼ
+s"	sʼ
+S"	ʃʼ
+T"	cʼ
+t"	tʼ
+w"	wʼ
+x"	xʼ
+X"	χʼ
+y"	jʼ
+z"	zʼ
+Z"	ʒʼ
+mb~	ⁿb
+Ng~	ⁿg
+ng~	ⁿg
+my~	mʲ
+ny~	nʲ
+Nw~	ŋʷ
+gw~	gʷ
+hy~	hʲ
+nd~	ⁿd
+nt~	ⁿt
+gy~	gʲ
+nz~	ⁿz
+N7~	ⁿʔ
+5C~	ⁿtʃ
+Ny~	ŋʲ
+cy~	tsʲ
+Nk~	ⁿk
+mh~	mʰ
+sh~	sʰ
+ph~	pʰ
+kh~	kʰ
+dh~	dʰ
+dh~g~	dʰ g
+th~	tʰ
+Ch~	tʃʰ
+ch~	tsʰ
+vh~	vʰ
+Th~	cʰ
+Tw~	cʷ
+py~	pʲ
+7y~	ʔʲ
+Xw~	χʷ
+xw~	xʷ
+mw~	mʷ
+nw~	nʷ
+kw~	kʷ
+bw~	bʷ
+qw~	qʷ
+hw~	hʷ
+Sw~	ʃʷ
+Zw~	ʒʷ
+lw~	lʷ
+tw~	tʷ
+ty~	tʲ
+dy~	dʲ
+ly~	lʲ
+by~	bʲ
+nj~	ⁿdʒ
+hn~	ʰn
+7m~	ʔ m
+md~	ⁿd
+k7~	kˀ
+4h~	n̪ʰ
+nh~	nʰ
+qh~	qʰ
+gh~	gʰ
+rh~	rʰ
+zh~	zʰ
+bh~	bʰ
+hl~	ʰl
+rx~	rˠ
+gb~	g b
+h7~	h ʔ
+Xk~	χ k
+tc~	ts
+pm~	p m
+y7~	jˀ
+nk~	ⁿk
+c7~	tsˀ
+r7~	rˀ
+ns~	ⁿs
+nX~	n χ
+tX~	t χ
+cX~	ts χ
+fw~	fʷ
+pw~	pʷ
+sw~	sʷ
+zw~	zʷ
+rw~	rʷ
+!w~	!ʷ
+cw~	tsʷ
+NG~	ⁿɢ
+nv~	ⁿv
+k"w~	kʷʼ
+n5~	n ɲ
+8y~	θʲ
+sy~	sʲ
+zy~	zʲ
+qy~	qʲ
+xy~	xʲ
+fy~	fʲ
+ky~	kʲ
+mp~	mp
+tn~	t n
+dr~	d r
+kn~	k n
+nc~	ⁿts
+C7~	tʃˀ
+l7~	lˀ
+Cw~	tʃʷ
+7w~	ʔʷ
+dw~	dʷ
+Cih~	tʃ i h
+tx~	tˠ
+nC~	ⁿtʃ
+a5~	ɐ ɲ
+np~	ⁿp
+5y~	ɲʲ
+jy~	dʒʲ
+cx~	tsˠ
+Cy~	tʃʲ
+ry~	rʲ
+vy~	vʲ
+ps~	p s
+kp~	kp
+nT~	ⁿc
+7d~	ˀd
+mf~	m f
+L7~	ʎˀ
+p7~	pˀ
+bg~	bˠ
+nS~	ⁿʃ
+Sy~	ʃʲ
+n!~	ⁿ!
+dZ~	dʒ
+hC~	ʰtʃ
+!7~	!ˀ
+g!~	ǂ
+g7~	gˀ
+d7~	dˀ
+Z7~	ʒˀ
+!h~	!ʰ
+^CZ~$	tʃ ʒ
+Nn~	ŋ
+Nh~	ŋʰ
+lh~	lʰ
+m7~	mˀ
+n7~	nˀ
+t7~	tˀ
+7n~	ˀn
+q"X~	qˠʼ
+nlh~	ⁿlʰ
+sZ~	s ʒ
+n8~	ⁿθ
+t8~	t θ
+n5w~	ɲʷ
+nx~	nˠ
+zn~	z n
+x"w~	xʷʼ
+q"w~	qʷʼ
+t"w~	tʷʼ
+C"w~	tʃʷʼ
+lX~	lˠ
+!N~	!ⁿ
+!n~	!ⁿ
+hv~	ʰv
+kN~	kˠ
+tk~	t k
+h5~	ʰɲ
+hNq~	ʰŋˠ
+jw~	dʒʷ
+mv~	m v
+vw~	v w
+kx~	kˠ
+rX~	rˠ
+tv~	t v
+bv~	b v
+tr~	t r
+!"~	!ʼ
+!"	!ʼ
+fl~	f l
+ht~	ʰt
+hk~	ʰk
+tj~	tʲ
+hm~	ʰm
+lx~	lˠ
+sx~	sˠ
+sX~	sˠ
+mx~	mˠ
+tf~	t f
+nZ~	ⁿʒ
+w*e	w ẽ
+w*i	w ĩ
+w*u	w ũ
+wh~at	w ɐ t
+dn~	dⁿ
+ss~	sː
+ik~	i k
+yh~	i h
+Cr~	tʃ r
+7C~	ˀtʃ
+7s~	ˀs
+!k~	ǂ
+sr~	s r
+to7oSyh~3y	t o ʔ o ʃʰ ə j
+gN~	g ŋ
+dz~	dz
+kwh~	kʷʰ
+SX~	ʃˠ
+cyw~	tsʷʲ
+nt"~	ⁿtʼ
+dL~	d ʎ
+yw~	i w
+wy~	w i
+pl~	p l
+87~	θˀ
+8h~	θʰ
+Sh~	ʃʰ
+x7~	xˀ
+s7~	sˀ
+n3t"8~37	n ə tʼ θ ə ʔ
+k"y~	kʲʼ
+%	ɲ
+wh~aN	w ɐ ŋ
+wh~o	w o
+!"w~	!ʷʼ
+gr~	g r
+sc~	s ts
+rj~	rʲ
+ZX~	ʒˠ
+bX~	bˠ
+aw~	a w
+5w~	ɲʷ
+rr~	rː
+XX~	χː
+gv~	g v
+pv~	p v
+5T~	ⁿc
+hN~	ʰŋ
+hr~	ʰr
+Nm~	ŋ m
+tL~	t ʎ
+ay*	ɐ̃ j
+Ns~	ⁿs
+5n~	ŋ n
+kl~	k l
+tl~	t l
+Nb~	ⁿb
+own~e*i*	o w n ẽ ĩ
+8w~	θ w
+5j~	ɲ dʒ
+ow7~	o w ʔ
+pX~	pˠ
+px~	pˠ
+Sv~	ʃ v
+sv~	s v
+nr~	n r
+!g~	ǂ
+^yz$	i z
+mt~	m t
+mZ~	m ʒ
+mz~	m z
+Cx~	tʃˠ
+nN~	n ŋ
+C"y~	tʃʲʼ
+T"y~	cʲʼ
+t"y~	tʲʼ
+fv~	f v
+pS~	pʃ
+i*w*a*	ĩ w ɐ̃
+SZ~	ʃ ʒ
+7j~	ˀdʒ
+Sk~	ʃ k
+sz~cz~	s z ts z
+SZ~cz~	ʃ ʒ ts z
+wn~	w n
+aN~	ɐ ŋ
+ow~	o w
+e*y*	ẽ j
+Zh~	ʒʰ
+q7~	qˀ
+jh~	dʒʰ
+5h~	ɲʰ
+^yz~$	i z
+Nx~	ŋˠ
+mX~	mˠ
+ih~	i h
+rt~	r t
+N!~	ᵑǂ
+sz~	s z
+gn~	g n
+7b~	ˀb
+^Ngw*$a*$	ŋ g w ɐ̃
+wm~	w m
+p"y~	pʲʼ
+kx"~	kˠʼ
+b"w~	bʷʼ
+vr~	v r
+t"8~	tθʼ
+^ocz$	o ts z
+wr~	u r
+wk~	u k
+wX~	u χ
+Zj~	ʒʲ
+Zy~	ʒʲ
+Ty~	cʲ
+wh~	w h
+S7~	ʃˀ
+b7~	bˀ
+ah~	a h
+7g~	ˀg
+e7~	e ʔ
+tL"~	t ʎʼ
+cz~	ts z
+!x~	ǂ
+m!~	ᵑǂ
+rl~	r l
+oh~	o h
+uw~	u w
+^wr$	u r
+Lw~	ʎʷ
+p"X~	pχʼ
+dj~	dʒ
+rn~	r n
+qX~	qχ
+ml~	m l
+dX~	dˠ
+st~	s t
+gx~	gˠ
+vx~	vˠ
+dl~	d l
+Sb~	ʃ b
+r5~	r ɲ
+yn~	ɲ
+nb~	n b
+sl~	s l
+4d~	n d
+q!~	ǂ
+mm~	mː
+Sf~	ʃ f
+Ly~	ʎʲ
+a*g~	ɐ̃ g
+Xs~	χ s
+nq~	n q
+!r~	! r
+tS~	tʃ
+hs~	ʰs
+pf~	pf
+bm~	b m
+7"w~	ʔʷʼ
+nC"~	n tʃʼ
+thw~	tʰʷ
+^hw*~a*$	h w ɐ̃
+hp~	ʰp
+xh~	xʰ
+dt~	d t
+^Sh~eS~oNg~a$	ʃʰ e ʃ o ⁿg ɐ
+Sx~	ʃˠ
+bl~	b l
+S8~	ʃ θ
+yk~	i k
+sf~	s f
+nm~	n m
+mr~	m r
+S"h~	ʃʰʼ
+kX~	kˠ
+Gw~	ɢʷ
+qX"~	q χʼ
+zX~	zˠ
+w7~	wˀ
+ts~	ts
+8X~	θˠ
+k"7~	kʼ ʔ
+xk~	x k
+lZ~	ɮ
+cv~	ts v
+gl~	g l
+nf~	n f
+hX~	ʰχ
+pk~	p k
+kv~	k v
+h"w~	hʷʼ
+pd~	p d
+kf~	k f
+Xy~	χʲ
+!X~	ǂ χ
+Nq~	ⁿq
+^sethw*$a*$	s e tʰʷ ɐ̃
+^i8iw*$	i θ ĩ w
+7h~	ʔʰ
+wd~	u d
+ms~	m s
+wj~	u dʒ
+nk"~	ⁿkʼ
+mj~	m dʒ
+oS~	o ʃ
+at~	ɐ t
+y*E	j ã
+y*i	j ĩ
+a*y*	ã j
+5v~	ⁿv
+hS~	ʰʃ
+ty*	t ĩ
+hx~	ʰx
+rd~	r d
+Nd~	ⁿd
+Sr~	ʃ r
+4y~	n̪ j
+un~	u n
+bq~	b q
+^ww~a$	u w a
+dx~	dˠ
+CCf~	tʃ f
+jjv~	dʒ v
+t8"~	t θʼ
+Ey~	a j
+tT~	t c
+p"r~	pʼ r
+mk~	m k
+i*7~	ĩ ʔ
+Nr~	ⁿr
+nc"~	ⁿtsʼ
+ij*	ĩ j
+fh~	fʰ
+xc~	x ts
+NC~	ⁿtʃ
+qx~	q x
+jX~	dʒˠ
+c"X~	tʃˠʼ
+ew~	e w
+tl"~	t lʼ
+NT~	ⁿc
+ks~	k s
+nl~	n l
+xv~	x v
+4t~	n̪ t
+lv~	l v
+CZ~	tʃ ʒ
+nL~	n ʎ
+oy~	o j
+kS~	k ʃ
+lm~	l m
+gk~	g k
+Cv~	tʃ v
+zr~	z r
+ax~	ɐ x
+zl~	z l
+jZ~	dʒ
+7S~	ˀʃ
+5d~	ⁿd
+Tj~	cʲ
+kr~	k r
+t"h~	tʰʼ
+dv~	d v
+yt~	j t
+X"w~	χʷʼ
+Cf~	tʃ f
+pn~	p n
+rp~	r p
+j7~	dʒˀ
+S"w~	ʃʷʼ
+kj~	kʲ
+c"w~	tsʷʼ
+!t~	ǀ
+!S~	ǂ
+t"X~	tˠʼ
+iy*	ĩ j
+ov~	o v
+St~	ʃ t
+iv~	i v
+57~	ɲ ʔ
+bx~	bˠ
+LX~	ʎˠ
+a*d~	ɐ̃ d
+ay~	a j
+rg~	r g
+^w*oN$	w õ ŋ
+wl~	u l
+y*o	j õ
+w*o	w õ
+mC~	m tʃ
+sn~	s n
+iX~	i χ
+Xm~	χ m
+ky"~	kʲʼ
+Lh~	ʎʰ
+kwx~	k u x
+zz~	zː
+kw*$	k ũ
+Nt~	ⁿt
+Zv~	ʒ v
+Tv~	c v
+ow*	õ w
+u7~	uˀ
+3y*	ə̃ j
+^yww~a$	j u w a
+xww~	x u
+vl~	v l
+c"y~	tsʲʼ
+b"y~	bʲʼ
+CS~	tʃ
+ZZ~	ʒː
+Np~	ⁿp
+pf"~	pfʼ
+ux~	u x
+k"v~	kʼ v
+5X~	ⁿχ
+^sw*$	s ũ
+^qwv~$	q u v
+lw"	lʷʼ
+fk~	f k
+NX~	ŋ χ
+GX~	ɢ χ
+pr~	p r
+v7~	vˀ
+hc~	ʰts
+Nk"~	ⁿkʼ
+uh~	u h
+aq~	ɐ q
+fs~	f s
+qw"~	qʷʼ
+d8~	d θ
+xw"~	xʷʼ
+iw*a	i w ɐ̃
+w*a	w ɐ̃
+w*a*	w ɐ̃
+tt~	tː
+!d~	! d
+xS~	x ʃ
+vn~	v n
+fr~	f r
+^lw"v~lw$	lʷʼ v l w
+CX~	tʃˠ
+mN~	m ŋ
+Xt~	χ t
+7x~	ˀx
+4j~	n̪ dʒ
+dT~	d c
+T5~	c ɲ
+^hyX~$	h i χ
+cb~	ts b
+a*w*	ɐ̃ w
+hq~	ʰq
+sC~	s tʃ
+5Z~	ⁿʒ
+xq~	x q
+TX~	c χ
+^weyy~e$	w e j e
+^Xl~w$	χ l u
+^Nw*~e*$	ŋ w ẽ
