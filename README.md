@@ -63,3 +63,11 @@ contain 40-item word lists of all the world's languages.
 
 
 - Entries missing sources: 7929/307396 (2.58%)
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Robert Forkel | @xrotwang | maintainer
+
+
