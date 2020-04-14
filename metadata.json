@@ -2,7 +2,7 @@
     "citation": "Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2018. The ASJP Database (version 18).",
     "lingpy_schema": "asjp",
     "license": "https://creativecommons.org/licenses/by/4.0/",
-    "title": "The ASJP Database",
+    "title": "CLDF dataset derived from \"The ASJP Database\" from 2018",
     "url": "http://asjp.clld.org",
     "conceptlist": "Wichmann-2010-40"
 }
