@@ -1,4 +1,4 @@
-# The ASJP Database
+# CLDF dataset derived from Wichmann et al.'s "ASJP Database" from 2018
 
 Cite the source dataset as
 
@@ -68,6 +68,9 @@ contain 40-item word lists of all the world's languages.
 
 Name | GitHub user | Role
 --- | --- | ---
-Robert Forkel | @xrotwang | maintainer
+Robert Forkel | @xrotwang | patron, code | Author
+Tiago Tresoldi | @tresoldi | profile | Author
+Søren Wichmann | | Distributor, DataCurator
+
 
 

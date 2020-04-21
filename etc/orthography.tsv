@@ -1,623 +1,623 @@
-Grapheme	IPA
-^	NULL
-$	NULL
--	NULL
-!	!
-3	ə
-4	n̪
-5	ɲ
-7	ʔ
-8	θ
-a	ɐ
-b	b
-c	ts
-C	tʃ
-d	d
-E	a
-e	e
-f	f
-g	g
-G	ɢ
-h	h
-i	i
-j	dʒ
-k	k
-l	l
-L	ʎ
-m	m
-n	n
-N	ŋ
-o	o
-p	p
-q	q
-r	r
-s	s
-S	ʃ
-T	c
-t	t
-u	u
-v	v
-w	w
-x	x
-X	χ
-y	j
-z	z
-Z	ʒ
-3*	ə̃
-a*	ɐ̃
-a*7~	ɐ̃ˀ
-E*	ã
-e*	ẽ
-i*	ĩ
-o*	õ
-u*	ũ
-5"	ɲʼ
-7"	ʔʼ
-8"	θʼ
-b"	bʼ
-c"	tsʼ
-C"	tʃʼ
-d"	dʼ
-f"	fʼ
-g"	gʼ
-h"	hʼ
-j"	dʒʼ
-k"	kʼ
-l"	lʼ
-L"	ʎʼ
-m"	mʼ
-n"	nʼ
-N"	ŋʼ
-p"	pʼ
-q"	qʼ
-r"	rʼ
-s"	sʼ
-S"	ʃʼ
-T"	cʼ
-t"	tʼ
-w"	wʼ
-x"	xʼ
-X"	χʼ
-y"	jʼ
-z"	zʼ
-Z"	ʒʼ
-mb~	ⁿb
-Ng~	ⁿg
-ng~	ⁿg
-my~	mʲ
-ny~	nʲ
-Nw~	ŋʷ
-gw~	gʷ
-hy~	hʲ
-nd~	ⁿd
-nt~	ⁿt
-gy~	gʲ
-nz~	ⁿz
-N7~	ⁿʔ
-5C~	ⁿtʃ
-Ny~	ŋʲ
-cy~	tsʲ
-Nk~	ⁿk
-mh~	mʰ
-sh~	sʰ
-ph~	pʰ
-kh~	kʰ
-dh~	dʰ
-dh~g~	dʰ g
-th~	tʰ
-Ch~	tʃʰ
-ch~	tsʰ
-vh~	vʰ
-Th~	cʰ
-Tw~	cʷ
-py~	pʲ
-7y~	ʔʲ
-Xw~	χʷ
-xw~	xʷ
-mw~	mʷ
-nw~	nʷ
-kw~	kʷ
-bw~	bʷ
-qw~	qʷ
-hw~	hʷ
-Sw~	ʃʷ
-Zw~	ʒʷ
-lw~	lʷ
-tw~	tʷ
-ty~	tʲ
-dy~	dʲ
-ly~	lʲ
-by~	bʲ
-nj~	ⁿdʒ
-hn~	ʰn
-7m~	ʔ m
-md~	ⁿd
-k7~	kˀ
-4h~	n̪ʰ
-nh~	nʰ
-qh~	qʰ
-gh~	gʰ
-rh~	rʰ
-zh~	zʰ
-bh~	bʰ
-hl~	ʰl
-rx~	rˠ
-gb~	g b
-h7~	h ʔ
-Xk~	χ k
-tc~	ts
-pm~	p m
-y7~	jˀ
-nk~	ⁿk
-c7~	tsˀ
-r7~	rˀ
-ns~	ⁿs
-nX~	n χ
-tX~	t χ
-cX~	ts χ
-fw~	fʷ
-pw~	pʷ
-sw~	sʷ
-zw~	zʷ
-rw~	rʷ
-!w~	!ʷ
-cw~	tsʷ
-NG~	ⁿɢ
-nv~	ⁿv
-k"w~	kʷʼ
-n5~	n ɲ
-8y~	θʲ
-sy~	sʲ
-zy~	zʲ
-qy~	qʲ
-xy~	xʲ
-fy~	fʲ
-ky~	kʲ
-mp~	mp
-tn~	t n
-dr~	d r
-kn~	k n
-nc~	ⁿts
-C7~	tʃˀ
-l7~	lˀ
-Cw~	tʃʷ
-7w~	ʔʷ
-dw~	dʷ
-Cih~	tʃ i h
-tx~	tˠ
-nC~	ⁿtʃ
-a5~	ɐ ɲ
-np~	ⁿp
-5y~	ɲʲ
-jy~	dʒʲ
-cx~	tsˠ
-Cy~	tʃʲ
-ry~	rʲ
-vy~	vʲ
-ps~	p s
-kp~	kp
-nT~	ⁿc
-7d~	ˀd
-mf~	m f
-L7~	ʎˀ
-p7~	pˀ
-bg~	bˠ
-nS~	ⁿʃ
-Sy~	ʃʲ
-n!~	ⁿ!
-dZ~	dʒ
-hC~	ʰtʃ
-!7~	!ˀ
-g!~	ǂ
-g7~	gˀ
-d7~	dˀ
-Z7~	ʒˀ
-!h~	!ʰ
-^CZ~$	tʃ ʒ
-Nn~	ŋ
-Nh~	ŋʰ
-lh~	lʰ
-m7~	mˀ
-n7~	nˀ
-t7~	tˀ
-7n~	ˀn
-q"X~	qˠʼ
-nlh~	ⁿlʰ
-sZ~	s ʒ
-n8~	ⁿθ
-t8~	t θ
-n5w~	ɲʷ
-nx~	nˠ
-zn~	z n
-x"w~	xʷʼ
-q"w~	qʷʼ
-t"w~	tʷʼ
-C"w~	tʃʷʼ
-lX~	lˠ
-!N~	!ⁿ
-!n~	!ⁿ
-hv~	ʰv
-kN~	kˠ
-tk~	t k
-h5~	ʰɲ
-hNq~	ʰŋˠ
-jw~	dʒʷ
-mv~	m v
-vw~	v w
-kx~	kˠ
-rX~	rˠ
-tv~	t v
-bv~	b v
-tr~	t r
-!"~	!ʼ
-!"	!ʼ
-fl~	f l
-ht~	ʰt
-hk~	ʰk
-tj~	tʲ
-hm~	ʰm
-lx~	lˠ
-sx~	sˠ
-sX~	sˠ
-mx~	mˠ
-tf~	t f
-nZ~	ⁿʒ
-w*e	w ẽ
-w*i	w ĩ
-w*u	w ũ
-wh~at	w ɐ t
-dn~	dⁿ
-ss~	sː
-ik~	i k
-yh~	i h
-Cr~	tʃ r
-7C~	ˀtʃ
-7s~	ˀs
-!k~	ǂ
-sr~	s r
-to7oSyh~3y	t o ʔ o ʃʰ ə j
-gN~	g ŋ
-dz~	dz
-kwh~	kʷʰ
-SX~	ʃˠ
-cyw~	tsʷʲ
-nt"~	ⁿtʼ
-dL~	d ʎ
-yw~	i w
-wy~	w i
-pl~	p l
-87~	θˀ
-8h~	θʰ
-Sh~	ʃʰ
-x7~	xˀ
-s7~	sˀ
-n3t"8~37	n ə tʼ θ ə ʔ
-k"y~	kʲʼ
-%	ɲ
-wh~aN	w ɐ ŋ
-wh~o	w o
-!"w~	!ʷʼ
-gr~	g r
-sc~	s ts
-rj~	rʲ
-ZX~	ʒˠ
-bX~	bˠ
-aw~	a w
-5w~	ɲʷ
-rr~	rː
-XX~	χː
-gv~	g v
-pv~	p v
-5T~	ⁿc
-hN~	ʰŋ
-hr~	ʰr
-Nm~	ŋ m
-tL~	t ʎ
-ay*	ɐ̃ j
-Ns~	ⁿs
-5n~	ŋ n
-kl~	k l
-tl~	t l
-Nb~	ⁿb
-own~e*i*	o w n ẽ ĩ
-8w~	θ w
-5j~	ɲ dʒ
-ow7~	o w ʔ
-pX~	pˠ
-px~	pˠ
-Sv~	ʃ v
-sv~	s v
-nr~	n r
-!g~	ǂ
-^yz$	i z
-mt~	m t
-mZ~	m ʒ
-mz~	m z
-Cx~	tʃˠ
-nN~	n ŋ
-C"y~	tʃʲʼ
-T"y~	cʲʼ
-t"y~	tʲʼ
-fv~	f v
-pS~	pʃ
-i*w*a*	ĩ w ɐ̃
-SZ~	ʃ ʒ
-7j~	ˀdʒ
-Sk~	ʃ k
-sz~cz~	s z ts z
-SZ~cz~	ʃ ʒ ts z
-wn~	w n
-aN~	ɐ ŋ
-ow~	o w
-e*y*	ẽ j
-Zh~	ʒʰ
-q7~	qˀ
-jh~	dʒʰ
-5h~	ɲʰ
-^yz~$	i z
-Nx~	ŋˠ
-mX~	mˠ
-ih~	i h
-rt~	r t
-N!~	ᵑǂ
-sz~	s z
-gn~	g n
-7b~	ˀb
-^Ngw*$a*$	ŋ g w ɐ̃
-wm~	w m
-p"y~	pʲʼ
-kx"~	kˠʼ
-b"w~	bʷʼ
-vr~	v r
-t"8~	tθʼ
-^ocz$	o ts z
-wr~	u r
-wk~	u k
-wX~	u χ
-Zj~	ʒʲ
-Zy~	ʒʲ
-Ty~	cʲ
-wh~	w h
-S7~	ʃˀ
-b7~	bˀ
-ah~	a h
-7g~	ˀg
-e7~	e ʔ
-tL"~	t ʎʼ
-cz~	ts z
-!x~	ǂ
-m!~	ᵑǂ
-rl~	r l
-oh~	o h
-uw~	u w
-^wr$	u r
-Lw~	ʎʷ
-p"X~	pχʼ
-dj~	dʒ
-rn~	r n
-qX~	qχ
-ml~	m l
-dX~	dˠ
-st~	s t
-gx~	gˠ
-vx~	vˠ
-dl~	d l
-Sb~	ʃ b
-r5~	r ɲ
-yn~	ɲ
-nb~	n b
-sl~	s l
-4d~	n d
-q!~	ǂ
-mm~	mː
-Sf~	ʃ f
-Ly~	ʎʲ
-a*g~	ɐ̃ g
-Xs~	χ s
-nq~	n q
-!r~	! r
-tS~	tʃ
-hs~	ʰs
-pf~	pf
-bm~	b m
-7"w~	ʔʷʼ
-nC"~	n tʃʼ
-thw~	tʰʷ
-^hw*~a*$	h w ɐ̃
-hp~	ʰp
-xh~	xʰ
-dt~	d t
-^Sh~eS~oNg~a$	ʃʰ e ʃ o ⁿg ɐ
-Sx~	ʃˠ
-bl~	b l
-S8~	ʃ θ
-yk~	i k
-sf~	s f
-nm~	n m
-mr~	m r
-S"h~	ʃʰʼ
-kX~	kˠ
-Gw~	ɢʷ
-qX"~	q χʼ
-zX~	zˠ
-w7~	wˀ
-ts~	ts
-8X~	θˠ
-k"7~	kʼ ʔ
-xk~	x k
-lZ~	ɮ
-cv~	ts v
-gl~	g l
-nf~	n f
-hX~	ʰχ
-pk~	p k
-kv~	k v
-h"w~	hʷʼ
-pd~	p d
-kf~	k f
-Xy~	χʲ
-!X~	ǂ χ
-Nq~	ⁿq
-^sethw*$a*$	s e tʰʷ ɐ̃
-^i8iw*$	i θ ĩ w
-7h~	ʔʰ
-wd~	u d
-ms~	m s
-wj~	u dʒ
-nk"~	ⁿkʼ
-mj~	m dʒ
-oS~	o ʃ
-at~	ɐ t
-y*E	j ã
-y*i	j ĩ
-a*y*	ã j
-5v~	ⁿv
-hS~	ʰʃ
-ty*	t ĩ
-hx~	ʰx
-rd~	r d
-Nd~	ⁿd
-Sr~	ʃ r
-4y~	n̪ j
-un~	u n
-bq~	b q
-^ww~a$	u w a
-dx~	dˠ
-CCf~	tʃ f
-jjv~	dʒ v
-t8"~	t θʼ
-Ey~	a j
-tT~	t c
-p"r~	pʼ r
-mk~	m k
-i*7~	ĩ ʔ
-Nr~	ⁿr
-nc"~	ⁿtsʼ
-ij*	ĩ j
-fh~	fʰ
-xc~	x ts
-NC~	ⁿtʃ
-qx~	q x
-jX~	dʒˠ
-c"X~	tʃˠʼ
-ew~	e w
-tl"~	t lʼ
-NT~	ⁿc
-ks~	k s
-nl~	n l
-xv~	x v
-4t~	n̪ t
-lv~	l v
-CZ~	tʃ ʒ
-nL~	n ʎ
-oy~	o j
-kS~	k ʃ
-lm~	l m
-gk~	g k
-Cv~	tʃ v
-zr~	z r
-ax~	ɐ x
-zl~	z l
-jZ~	dʒ
-7S~	ˀʃ
-5d~	ⁿd
-Tj~	cʲ
-kr~	k r
-t"h~	tʰʼ
-dv~	d v
-yt~	j t
-X"w~	χʷʼ
-Cf~	tʃ f
-pn~	p n
-rp~	r p
-j7~	dʒˀ
-S"w~	ʃʷʼ
-kj~	kʲ
-c"w~	tsʷʼ
-!t~	ǀ
-!S~	ǂ
-t"X~	tˠʼ
-iy*	ĩ j
-ov~	o v
-St~	ʃ t
-iv~	i v
-57~	ɲ ʔ
-bx~	bˠ
-LX~	ʎˠ
-a*d~	ɐ̃ d
-ay~	a j
-rg~	r g
-^w*oN$	w õ ŋ
-wl~	u l
-y*o	j õ
-w*o	w õ
-mC~	m tʃ
-sn~	s n
-iX~	i χ
-Xm~	χ m
-ky"~	kʲʼ
-Lh~	ʎʰ
-kwx~	k u x
-zz~	zː
-kw*$	k ũ
-Nt~	ⁿt
-Zv~	ʒ v
-Tv~	c v
-ow*	õ w
-u7~	uˀ
-3y*	ə̃ j
-^yww~a$	j u w a
-xww~	x u
-vl~	v l
-c"y~	tsʲʼ
-b"y~	bʲʼ
-CS~	tʃ
-ZZ~	ʒː
-Np~	ⁿp
-pf"~	pfʼ
-ux~	u x
-k"v~	kʼ v
-5X~	ⁿχ
-^sw*$	s ũ
-^qwv~$	q u v
-lw"	lʷʼ
-fk~	f k
-NX~	ŋ χ
-GX~	ɢ χ
-pr~	p r
-v7~	vˀ
-hc~	ʰts
-Nk"~	ⁿkʼ
-uh~	u h
-aq~	ɐ q
-fs~	f s
-qw"~	qʷʼ
-d8~	d θ
-xw"~	xʷʼ
-iw*a	i w ɐ̃
-w*a	w ɐ̃
-w*a*	w ɐ̃
-tt~	tː
-!d~	! d
-xS~	x ʃ
-vn~	v n
-fr~	f r
-^lw"v~lw$	lʷʼ v l w
-CX~	tʃˠ
-mN~	m ŋ
-Xt~	χ t
-7x~	ˀx
-4j~	n̪ dʒ
-dT~	d c
-T5~	c ɲ
-^hyX~$	h i χ
-cb~	ts b
-a*w*	ɐ̃ w
-hq~	ʰq
-sC~	s tʃ
-5Z~	ⁿʒ
-xq~	x q
-TX~	c χ
-^weyy~e$	w e j e
-^Xl~w$	χ l u
-^Nw*~e*$	ŋ w ẽ
+Grapheme	FREQUENCY	SCA	CODEPOINTS	EXAMPLES	IPA
+^	307369			N;NN;N;aN;am	NULL
+$	308640			N;NN;N;aN;am	NULL
+-	2			-;-	NULL
+^yz$	0	I S	U+005E U+0079 U+007A U+0024		i z
+^yz~$	1	I S	U+005E U+0079 U+007A U+007E U+0024	yz~	i z
+^sw*$	1	S Y	U+005E U+0073 U+0077 U+002A U+0024	sw*	s ũ
+^CZ~$	4	T S	U+005E U+0043 U+005A U+007E U+0024	CZ~;CZ~;CZ~;CZ~	tʃ ʒ
+^wr$	0	Y R	U+005E U+0077 U+0072 U+0024		u r
+^Xl~w$	1	G L Y	U+005E U+0058 U+006C U+007E U+0077 U+0024	Xl~w	χ l u
+^hyX~$	1	H I G	U+005E U+0068 U+0079 U+0058 U+007E U+0024	hyX~	h i χ
+^hw*~a*$	1	H W E	U+005E U+0068 U+0077 U+002A U+007E U+0061 U+002A U+0024	hw*~a*	h w ɐ̃
+^qwv~$	1	K Y B	U+005E U+0071 U+0077 U+0076 U+007E U+0024	qwv~	q u v
+^Nw*~e*$	1	N W E	U+005E U+004E U+0077 U+002A U+007E U+0065 U+002A U+0024	Nw*~e*	ŋ w ẽ
+^ocz$	0	U C S	U+005E U+006F U+0063 U+007A U+0024		o ts z
+^w*oN$	8	W U N	U+005E U+0077 U+002A U+006F U+004E U+0024	w*oN;w*oN;w*oN;w*oN;w*oN	w õ ŋ
+^ww~a$	1	Y W A	U+005E U+0077 U+0077 U+007E U+0061 U+0024	ww~a	u w a
+^i8iw*$	1	I D I W	U+005E U+0069 U+0038 U+0069 U+0077 U+002A U+0024	i8iw*	i θ ĩ w
+^yww~a$	1	J Y W A	U+005E U+0079 U+0077 U+0077 U+007E U+0061 U+0024	yww~a	j u w a
+"^lw""v~lw$"	1	L B L W	U+005E U+006C U+0077 U+0022 U+0076 U+007E U+006C U+0077 U+0024	"lw""v~lw"	l’ʷ v l w
+^Ngw*$a*$	1	N K W E	U+005E U+004E U+0067 U+0077 U+002A U+0024 U+0061 U+002A U+0024	Ngw*$a*	ŋ g w ɐ̃
+^sethw*$a*$	1	S E T E	U+005E U+0073 U+0065 U+0074 U+0068 U+0077 U+002A U+0024 U+0061 U+002A U+0024	sethw*$a*	s e tʷʰ ɐ̃
+^weyy~e$	1	W E J E	U+005E U+0077 U+0065 U+0079 U+0079 U+007E U+0065 U+0024	weyy~e	w e j e
+^Sh~eS~oNg~a$	1	S E S U K E	U+005E U+0053 U+0068 U+007E U+0065 U+0053 U+007E U+006F U+004E U+0067 U+007E U+0061 U+0024	Sh~eS~oNg~a	ʃʰ e ʃ o ⁿg ɐ
+!	690	!	U+0021	!a;!e;Si!kei;n!a;m!a	ǃ
+"!"""	42	!	U+0021 U+0022	"!""ua*;!""amkoe;!""au;N!""ama;N!""ala"	ǃ’
+"!""~"	0	!	U+0021 U+0022 U+007E		ǃ’
+!7~	21	!	U+0021 U+0037 U+007E	!7~oe;!7~u;!7~au;!7~Eu;!7~3u	ǃˀ
+!N~	9	!	U+0021 U+004E U+007E	!N~e7e;!N~a;!N~u7ubu;!N~o;!N~ah	ǃⁿ
+!S~	1	!	U+0021 U+0053 U+007E	e!S~o	ǂ
+!g~	12	!	U+0021 U+0067 U+007E	!g~hoe;!g~E;!g~a7a;!g~E7E;!g~3u	ǂ
+!h~	23	!	U+0021 U+0068 U+007E	!h~iki;!h~i;!h~oi*;!h~oe;!h~a7ano	ǃʰ
+!k~	2	!	U+0021 U+006B U+007E	!k~Enu;!k~EhN	ǂ
+!n~	4	!	U+0021 U+006E U+007E	!n~e7e;!n~o;!n~au;!n~um	ǃⁿ
+!t~	1	!	U+0021 U+0074 U+007E	E!t~a	ǀ
+!w~	8	!	U+0021 U+0077 U+007E	!w~i;!w~i;!w~e;!w~anate;!w~ebe	ǃʷ
+!x~	12	!	U+0021 U+0078 U+007E	!x~ai;!x~au;!x~o;!x~ei;!x~ei	ǂ
+N!~	8	!	U+004E U+0021 U+007E	N!~usi;N!~ui*si;N!~uTu;N!~usi;N!~one	ⁿǂ
+g!~	8	!	U+0067 U+0021 U+007E	g!~ui;g!~ae;g!~abi;g!~ae;g!~ui	ǂ
+m!~	1	!	U+006D U+0021 U+007E	m!~oe	ⁿǂ
+n!~	39	!	U+006E U+0021 U+007E	n!~u*;n!~um;n!~um;n!~um;n!~u*	ⁿǃ
+q!~	3	!	U+0071 U+0021 U+007E	q!~i;q!~oesi;q!~u	ǂ
+"!""w~"	2	!	U+0021 U+0022 U+0077 U+007E	"!""w~e;!""w~e*"	ǃ’ʷ
+E	15781	A	U+0045	mEk;mE;mE;imE;mE	a
+E*	494	A	U+0045 U+002A	mEwE*;mE*;mE*;mE*;mE*	ã
+f	7009	B	U+0066	mfo;mafa;didif;dedef;nafea	f
+v	5977	B	U+0076	var win;hav;vo;va;va	v
+"f"""	2	B	U+0066 U+0022	"bulaf""ka7;maf""3"	fʼ
+5v~	2	B	U+0035 U+0076 U+007E	fy~i5v~3;5v~u*	ⁿv
+fh~	8	B	U+0066 U+0068 U+007E	fh~ig;fh~asan kun wa;fh~u zE Ton;fh~ulan bara;yafh~	fʰ
+fw~	119	B	U+0066 U+0077 U+007E	ufw~e;fw~e;fw~efw~e;fw~efw~e;fw~Eyo	fʷ
+fy~	38	B	U+0066 U+0079 U+007E	fy~E;fy~a;fy~tu*;fy~o;fy~e	fʲ
+hv~	4	B	U+0068 U+0076 U+007E	hv~ile;hv~olo;hv~ar3;hv~E	ʰv
+nv~	19	B	U+006E U+0076 U+007E	nv~;nv~;nv~;nv~;nv~o	ⁿv
+pf~	33	B	U+0070 U+0066 U+007E	pf~u;pf~oy;pf~oy;pf~uha;pf~upa	pf
+v7~	1	B	U+0076 U+0037 U+007E	v7~luluCen	vˀ
+vh~	8	B	U+0076 U+0068 U+007E	vh~o*;ninehovh~ema;vh~e7;vh~iya;jivh~a	vʰ
+vx~	1	B	U+0076 U+0078 U+007E	nacevx~tan	vˠ
+vy~	34	B	U+0076 U+0079 U+007E	tvy~i;vy~3kti;vy~akti;vy~3kti;CaLavy~Ek	vʲ
+T	3184	C	U+0054	Tom;Tewe;Te;a5Te;ihy~eTi	c
+c	6656	C	U+0063	ci;nec;necaya;necayen;u*c	ts
+"T"""	84	C	U+0054 U+0022	"T""ihal;T""3L;T""3L;T""eLq""ey;T""3L"	cʼ
+5T~	11	C	U+0035 U+0054 U+007E	5T~ili;pi5T~oaN;mi5T~oaN;oNo5T~e;5T~u	ⁿc
+NT~	1	C	U+004E U+0054 U+007E	kuNT~i	ⁿc
+Th~	173	C	U+0054 U+0068 U+007E	Th~an;Th~an;Th~i;Th~i;Th~i	cʰ
+Tj~	2	C	U+0054 U+006A U+007E	Tj~anu;Tj~3l3m	cʲ
+Tw~	17	C	U+0054 U+0077 U+007E	naTw~o;Tw~e;Tw~ayizi;pliTw~ai;Tw~ara	cʷ
+Ty~	11	C	U+0054 U+0079 U+007E	mTy~e;Ty~amal wi7;Ty~Eby~E;Ty~oN;Ty~ar	cʲ
+c7~	15	C	U+0063 U+0037 U+007E	noc7~ih;nuc7~k7~e;hiroc7~orih;c7~a*;c7~o*	tsˀ
+ch~	392	C	U+0063 U+0068 U+007E	iny~ech~;ch~i;ch~e raN;ch~3;many~ch~	tsʰ
+cw~	25	C	U+0063 U+0077 U+007E	yEcw~E;icw~u;ucw~u;acw~3;cw~ei	tsʷ
+cx~	12	C	U+0063 U+0078 U+007E	cx~a7;wecx~uk;dicx~iri;dincx~iri;cx~i7i	tsˠ
+dz~	10	C	U+0064 U+007A U+007E	"asdz~ani;dz~a;sq""3dz~u7;dz~3dis;pidz~es"	dz
+nT~	69	C	U+006E U+0054 U+007E	TiNg~eTurunT~ia;nT~3;nT~uo;kunT~iri;inT~eN	ⁿc
+tc~	1	C	U+0074 U+0063 U+007E	tc~a	ts
+ts~	1	C	U+0074 U+0073 U+007E	ts~ix	ts
+"T""y~"	2	C	U+0054 U+0022 U+0079 U+007E	"T""y~an;T""y~an"	c’ʲ
+"c""w~"	12	C	U+0063 U+0022 U+0077 U+007E	"c""w~ari;c""w~a;c""w~a;c""w~a;c""w~a"	ts’ʷ
+cyw~	1	C	U+0063 U+0079 U+0077 U+007E	cyw~o	tsʲʷ
+8	1614	D	U+0038	8i;8ami;83;8aku7;a8ak	θ
+"8"""	37	D	U+0038 U+0022	"n3t8""37;s8""uqi7;s8""oqw~o;8""i8""38""3m"";8""i8""38""3m"""	θ’
+87~	2	D	U+0038 U+0037 U+007E	ni87~i*w*a*;wa87~	θˀ
+8X~	6	D	U+0038 U+0058 U+007E	Xa8X~m;Xa8X~ma;Xa8X~im;Xa8X~m;X8X~m	θˠ
+8h~	11	D	U+0038 U+0068 U+007E	8h~u;8h~u;8h~u;ka8h~a;ka8h~oN	θʰ
+8y~	8	D	U+0038 U+0079 U+007E	i8y~e;8y~o;u8y~ama;Si8y~aw;8y~euNk~au	θʲ
+n8~	26	D	U+006E U+0038 U+007E	wen8~;n8~u;an8~ropos;smun8~E;Sun8~E	ⁿθ
+3	27343	E	U+0033	m3;m3;m3;m3;m3	ə
+a	186041	E	U+0061	aN;am;ka;na;a	ɐ
+e	60823	E	U+0065	kere;kere;ke;kyedi;tire	e
+3*	495	E	U+0033 U+002A	h3*m;z3*;z3*;3*;m3*	ə̃
+a*	2864	E	U+0061 U+002A	na*;mi*na*;ma*i*;a*;ma*i*	ɐ̃
+e*	963	E	U+0065 U+002A	me*;me*;me*;me*;me*	ẽ
+a*7~	2	E	U+0061 U+002A U+0037 U+007E	ha*7~a*;ya*7~a*	ɐ̃ˀ
+X	2567	G	U+0058	eX;iX;iX;egXom;Xna	χ
+x	7335	G	U+0078	xono;mi oxe;axe;xEn;xEn	x
+"X"""	5	G	U+0058 U+0022	"yaX""yaX""tu;yaX""yaX""tu;X""abX""i;X""abX""i;bX""3"	χʼ
+"x"""	10	G	U+0078 U+0022	"!x""o*si;!x""a;kx""ac""a;kx""ai*;nax""u*"	xʼ
+5X~	1	G	U+0035 U+0058 U+007E	i5X~iq	ⁿχ
+7x~	2	G	U+0037 U+0078 U+007E	no7x~naq;7x~an	ˀx
+XX~	11	G	U+0058 U+0058 U+007E	"XX~abX~i7;XX~ady~;XX~aC""an;XX~aC""lan;XX~ub"	χː
+Xw~	114	G	U+0058 U+0077 U+007E	s3Xw~a;w3Xw~a;yXw~su;siXw~;yuXw~e	χʷ
+Xy~	6	G	U+0058 U+0079 U+007E	aXy~a;aXy~a;Xy~exw~;Xy~um;Xy~an	χʲ
+hX~	1	G	U+0068 U+0058 U+007E	a*hX~a	ʰχ
+hx~	4	G	U+0068 U+0078 U+007E	hx~ak;hx~op;hx~aeSika;hx~aeSika	ʰx
+x7~	4	G	U+0078 U+0037 U+007E	tleix7~;scax7~;sdax7~;x7~an	xˀ
+xh~	18	G	U+0078 U+0068 U+007E	ixh~unnut;ho xh~iyo;nxh~ipami;xh~i;xh~in	xʰ
+xw~	466	G	U+0078 U+0077 U+007E	xw~i;xw~aNa;xuxuxw~x;uxw~e;uxw~e	xʷ
+xy~	49	G	U+0078 U+0079 U+007E	waxy~a;t7~oixy~u;nixy~u;xy~a;xy~a	xʲ
+"X""w~"	1	G	U+0058 U+0022 U+0077 U+007E	"c""oX""w~kses"	χ’ʷ
+"x""w~"	1	G	U+0078 U+0022 U+0077 U+007E	"x""w~et"	x’ʷ
+"xw""~"	1	G	U+0078 U+0077 U+0022 U+007E	"xw""~el"	x’ʷ
+7	15153	H	U+0037	a7a;a7a;a7a;a7a;a7a	ʔ
+h	20771	H	U+0068	mihi;mihi;hi5;behya;heni	h
+"7"""	2	H	U+0037 U+0022	"aay7"";s7""kw~ansaN"	ʔ’
+"h"""	13	H	U+0068 U+0022	"h""e;ah""3n;guh""o;h""ati;h""lgw~m"	h’
+7h~	2	H	U+0037 U+0068 U+007E	!7h~ui;i7h~o	ʔʰ
+7w~	23	H	U+0037 U+0077 U+007E	nu7w~i*;a7w~;xucu7w~un;7w~apina;u7w~a	ʔʷ
+7y~	36	H	U+0037 U+0079 U+007E	7y~e;7y~a;7y~a;7y~a;lu7y~	ʔʲ
+N7~	16	H	U+004E U+0037 U+007E	mioN7~;zaN7~;SuN7~;th~eN7~;tuN7~al	ⁿʔ
+hw~	146	H	U+0068 U+0077 U+007E	nu*hw~a*;hw~o;hw~ehw~e;hw~ehw~e;hw~etu	hʷ
+hy~	101	H	U+0068 U+0079 U+007E	ihy~eji;ihy~eTi;hy~e;ihy~ero;ihy~ero	hʲ
+"7""w~"	1	H	U+0037 U+0022 U+0077 U+007E	"s7""w~ip"	ʔ’ʷ
+"h""w~"	1	H	U+0068 U+0022 U+0077 U+007E	"sci7ih""w~"	h’ʷ
+i	121367	I	U+0069	ni;tita;tir;ti;kyedi	i
+i*	2184	I	U+0069 U+002A	mi*;mi*yo;mi*5o;i*;mi*	ĩ
+y	24543	J	U+0079	kyedi;miya;behya;miy;iyo	j
+"y"""	100	J	U+0079 U+0022	"siy""a;siy""a;siy""a;n""iy"";Sey"""	j’
+y7~	36	J	U+0079 U+0037 U+007E	qw~uy7~e;Nay7~;sqmay7~;yay7~o;tEy7~	jˀ
+G	177	K	U+0047	Gon;Gam;Gan;nuGanCiX;mw~inGi	ɢ
+g	19173	K	U+0067	neNga;iNgy$e;nga;nenga;gem	g
+k	54360	K	U+006B	ka;kere;ke;kyedi;meko	k
+q	4570	K	U+0071	ngaq;qo;qa;qa;qa	q
+"g"""	11	K	U+0067 U+0022	"rig""3;g""Et;g""Eg;no*h g""od;no*h g""Ed"	g’
+"k"""	2020	K	U+006B U+0022	"nuck""e;nuck""e;hi3k"";huk"";huk"""	kʼ
+"q"""	790	K	U+0071 U+0022	"q""ay;q""aCa;T""eLq""ey;q""iy"";q""ona"	qʼ
+7g~	1	K	U+0037 U+0067 U+007E	yal7g~i	ˀg
+Gw~	1	K	U+0047 U+0077 U+007E	Gw~on	ɢʷ
+NG~	5	K	U+004E U+0047 U+007E	NG~3;NG~olon;NG~eL;5eNG~;sENG~	ⁿɢ
+Ng~	1055	K	U+004E U+0067 U+007E	Ng~ai;neNg~a;naNg~u;aNg~E;neNg~a	ⁿg
+Nk~	266	K	U+004E U+006B U+007E	aNk~3;oNk~ue;seNk~o7;kinaNk~;iNk~o	ⁿk
+Nq~	6	K	U+004E U+0071 U+007E	Nq~oyo;Nq~oyo;pind~iNq~;qaNq~;Nq~alu	ⁿq
+g7~	8	K	U+0067 U+0037 U+007E	nug7~be;r3n3g7~;bag7~uh;bag7~o;bag7~u	gˀ
+gh~	134	K	U+0067 U+0068 U+007E	gh~i;iagh~o;gh~oi;agh~;gh~ehati	gʰ
+gw~	550	K	U+0067 U+0077 U+007E	Ngw~e;gw~eni;yegw~;igw~a;nugw~a	gʷ
+gx~	3	K	U+0067 U+0078 U+007E	gx~u;gx~up;gx~ip	gɣ
+gy~	197	K	U+0067 U+0079 U+007E	gy~ewe;gy~e;biroegy~i;yigy~an;gy~al	gʲ
+hk~	17	K	U+0068 U+006B U+007E	hk~e;nihk~a;nihk~aSie;ehk~ua;ehk~uak	ʰk
+hq~	1	K	U+0068 U+0071 U+007E	"ahq~ab"""	ʰq
+k7~	11	K	U+006B U+0037 U+007E	sak7~3n;nuc7~k7~e;k7~is;ik7~a;tik7~e7	kˀ
+kN~	13	K	U+006B U+004E U+007E	wekN~;Z7~akN~;turakN~;pNl3kN~;nuNk~ulkN~	kˠ
+kX~	5	K	U+006B U+0058 U+007E	kX~arnu;kX~atu;kX~ara;kX~a;kX~a	kˠ
+kh~	2192	K	U+006B U+0068 U+007E	kh~i;kh~u;kh~oy;kh~oy;kawkh~a	kʰ
+kj~	3	K	U+006B U+006A U+007E	kj~a*;kj~aw3j;kj~aw3j	kʲ
+kp~	546	K	U+006B U+0070 U+007E	kp~ahop;kp~aho;kp~akp~ak;kp~akp~ak;kp~aN	kp
+kw~	2014	K	U+006B U+0077 U+007E	kw~e;kw~a;kw~a;kw~a;nakw~	kʷ
+kx~	26	K	U+006B U+0078 U+007E	gekx~3;kx~oN;kx~uri;akx~iyuk;kx~o	kˠ
+ky~	480	K	U+006B U+0079 U+007E	ky~a;ky~o;ky~e;ky~7;ky~el8liNky~ip	kʲ
+ng~	279	K	U+006E U+0067 U+007E	yang~;yang~ ya;ng~i;ng~ai;ng~a7a*	ⁿg
+nk~	93	K	U+006E U+006B U+007E	"ink~o;ink~a;d""ank~o;kuranank~ke;nk~oth~"	ⁿk
+q7~	3	K	U+0071 U+0037 U+007E	salh~aq7~tay;naq7~a;sq7~em	qˀ
+qX~	47	K	U+0071 U+0058 U+007E	qX~iXe;qX~alu;qX~ali;qX~al;qX~al	qχ
+qh~	117	K	U+0071 U+0068 U+007E	qh~uye7e;qh~adi;qh~e7uph~3le;raqh~;qh~o	qʰ
+qw~	301	K	U+0071 U+0077 U+007E	qw~oy7e;qw~uy7~e;niqw~a;qw~unt;xX3qw~	qʷ
+qy~	11	K	U+0071 U+0079 U+007E	qy~a;sqy~etyn;qy~oro;qy~a;qy~awe	qʲ
+"Nk""~"	2	K	U+004E U+006B U+0022 U+007E	"muguNk""~ia;g3Nk""~u7"	ⁿk’
+"k""w~"	185	K	U+006B U+0022 U+0077 U+007E	"k""w~En;niLk""w~;niLk""w~3wce7e;b3k""w~;m3k""w~"	kʼʷ
+"k""y~"	41	K	U+006B U+0022 U+0079 U+007E	"k""y~eb"";k""y~eq Ckop;t""ak""y~;Cik""y~;Cik""y~"	k’ʲ
+kwh~	1	K	U+006B U+0077 U+0068 U+007E	kwh~iripu	kʷʰ
+"kx""~"	7	K	U+006B U+0078 U+0022 U+007E	"kx""~uni;kx""~uni;kx""~a*i*;kx""~a*i*;kx""~a"	k’ˠ
+"ky""~"	1	K	U+006B U+0079 U+0022 U+007E	"ky""~o7o"	k’ʲ
+"nk""~"	3	K	U+006E U+006B U+0022 U+007E	"sunk""~a;sink""~i;Xink""~il"	ⁿk’
+"q""X~"	8	K	U+0071 U+0022 U+0058 U+007E	"q""X~unE;q""X~ano;q""X~ud;q""X~ub;q""X~od"	q’ˠ
+"q""w~"	148	K	U+0071 U+0022 U+0077 U+007E	"q""w~ad;q""w~ed;q""w~Ed;q""w~ed;q""w~ac""aqakw~"	qʼʷ
+"qw""~"	1	K	U+0071 U+0077 U+0022 U+007E	"ant""qw""~asg"	qʼʷ
+L	3468	L	U+004C	aL;iLa3;LEo;newaL;nehwaL	ʎ
+l	42483	L	U+006C	lim;lo;ali;male;yelo	l
+"L"""	211	L	U+004C U+0022	"L""o;L""o;L""o;luL"";L""aqt"	ʎ’
+"l"""	94	L	U+006C U+0022	"tl""aN;itl""a;l""agruw;n3assal""l"";n3assal""l"""	l’
+L7~	7	L	U+004C U+0037 U+007E	3m3L7~o;orawetL7~an;naL7~;orawetL7~an;Ch~aL7~	ʎˀ
+LX~	3	L	U+004C U+0058 U+007E	LX~e;LX~eyl3xy~;LX~el3xy~	ʎˠ
+Lh~	1	L	U+004C U+0068 U+007E	teqeLh~o	ʎʰ
+Lw~	2	L	U+004C U+0077 U+007E	Lw~a5elo;uLw~a	ʎʷ
+Ly~	9	L	U+004C U+0079 U+007E	toLy~;peLy~;paLy~au;3m Ly~a;apkiLy~akmi	ʎʲ
+hl~	17	L	U+0068 U+006C U+007E	"hl~un;hl~a;sk""ahl~aN;hl~a;hl~a"	ʰl
+l7~	34	L	U+006C U+0037 U+007E	alval7~in;k3l7~ot;bulal7~;Xuyamtawil7~3n;mol7~	lˀ
+lX~	18	L	U+006C U+0058 U+007E	malX~uk;malX~uk;XuyemtewilX~3n;XuyemtewilX~3n;gamlX~a	lˠ
+lZ~	1	L	U+006C U+005A U+007E	lZ~3m	ɮ
+lh~	49	L	U+006C U+0068 U+007E	lh~o;lh~i;lh~uy;alh~;lh~a	lʰ
+"lw"""	0	L	U+006C U+0077 U+0022		l’ʷ
+lw~	62	L	U+006C U+0077 U+007E	lw~E7;lw~at;calw~a;alw~ah;alw~a	lʷ
+lx~	9	L	U+006C U+0078 U+007E	gbElx~a;lx~ok;ilx~a;alx~8aL;lx~a	lˠ
+ly~	311	L	U+006C U+0079 U+007E	ily~a;ly~3;5uly~a;ely~e;ly~e	lʲ
+nlh~	1	L	U+006E U+006C U+0068 U+007E	7inlh~i	ⁿlʰ
+m	54416	M	U+006D	am;m;m;m;ma	m
+"m"""	109	M	U+006D U+0022	"hisum""e;hinum""e;stam"";stem"";stem""i"	m’
+hm~	16	M	U+0068 U+006D U+007E	ahm~a;hm~ari;hm~;hm~;hm~eke	ʰm
+m7~	32	M	U+006D U+0037 U+007E	m7~o7;nam7~e;nam7~a;lEm7~o;nam7~i	mˀ
+mX~	14	M	U+006D U+0058 U+007E	mX~aso;mX~a7o;mX~anE;mX~ali;s3mX~a	mˠ
+mh~	57	M	U+006D U+0068 U+007E	mh~u*;mh~u;mh~3;mh~i;mh~3	mʰ
+mm~	2	M	U+006D U+006D U+007E	mm~e;mm~ili	mː
+mp~	278	M	U+006D U+0070 U+007E	mp~o;mp~E;nomp~ela;namp~er;omp~awa	mp
+mw~	406	M	U+006D U+0077 U+007E	mw~en;mw~e*;mw~E*;mw~oy;mw~e	mʷ
+mx~	7	M	U+006D U+0078 U+007E	elmx~olas;3mx~ut;Xdx~o*mx~;XEdx~mx~o;mx~oy	mˠ
+my~	202	M	U+006D U+0079 U+007E	my~o;my~a;my~a;my~i;my~E	mʲ
+%	3	N	U+0025	"ek""w~a %adami;na %tiri;dokh~ot %n3"	ɲ
+4	224	N	U+0034	4;a4i;a4i;Na4i;No4o	n̪
+5	5881	N	U+0035	hi5;5io*;5e;i5e;i5e	ɲ
+N	23054	N	U+004E	N;NN;NN;N;aN	ŋ
+n	74136	N	U+006E	n;na;n;ni;na	n
+"5"""	3	N	U+0035 U+0022	"5""esto;5""i;5""iji"	ɲ’
+"N"""	14	N	U+004E U+0022	"LiN"";t""aN"";q3l3N"";c""3N"";iN"""	ŋ’
+"n"""	122	N	U+006E U+0022	"Cin""e;n""iy"";n""in;ulkw~an"";n""um"	n’
+4h~	1	N	U+0034 U+0068 U+007E	a4h~a	n̪ʰ
+5h~	2	N	U+0035 U+0068 U+007E	5h~E;5h~umE	ɲʰ
+5w~	79	N	U+0035 U+0077 U+007E	5a5w~ara;Ngw$o 5w~En;5w~efie;5w~ele;5w~un	ɲʷ
+5y~	11	N	U+0035 U+0079 U+007E	5y~aNma;5y~a;5y~a;5y~a;5y~a	ɲʲ
+7n~	6	N	U+0037 U+006E U+007E	7n~a;7n~a;7n~aN;7n~aN;7n~aN	ˀn
+Nh~	26	N	U+004E U+0068 U+007E	Nh~yi;Nh~is;Nh~o so;naNh~ab3l;saNh~	ŋʰ
+Nn~	3	N	U+004E U+006E U+007E	ZaNn~a;Nk~uNn~u;montaNn~	ŋ
+Nw~	215	N	U+004E U+0077 U+007E	yaNw~;aNw~o;Nw~on;Nw~u;iNw~o	ŋʷ
+Nx~	13	N	U+004E U+0078 U+007E	puSeNx~e;Nx~a;Nx~oi*;yuNx~o;yuNx~ono	ŋˠ
+Ny~	31	N	U+004E U+0079 U+007E	iNy~e;Ny~aN;Ny~e;Ny~un;Ny~a	ŋʲ
+h5~	5	N	U+0068 U+0035 U+007E	h5~a;h5~i;h5~3k;h5~iN3i5;h5~iNetr	ʰɲ
+hN~	2	N	U+0068 U+004E U+007E	hN~a;hN~3t	ʰŋ
+hn~	34	N	U+0068 U+006E U+007E	hn~ua;hn~nis;thn~o;ihn~o;hn~E	ʰn
+n7~	24	N	U+006E U+0037 U+007E	man7~;ken7~tren;n7~uS;sn7~oy;n7~u	nˀ
+nh~	100	N	U+006E U+0068 U+007E	anh~a;nh~unt;nenh~;na*nh~;nh~an	nʰ
+nw~	208	N	U+006E U+0077 U+007E	nw~o;yEnw~E;kinw~a;nw~e;nw~eji	nʷ
+nx~	31	N	U+006E U+0078 U+007E	unx~;xaranx~a;tenx~3;Cenx~e;rintenx~e	nˠ
+ny~	384	N	U+006E U+0079 U+007E	iny~a;many~;wny~;any~i7i;iny~ech~	nʲ
+yn~	1	N	U+0079 U+006E U+007E	nEyn~	ɲ
+hNq~	2	N	U+0068 U+004E U+0071 U+007E	hNq~u;hNq~uaqu	ʰŋˠ
+n5w~	1	N	U+006E U+0035 U+0077 U+007E	n5w~o*	ɲʷ
+b	28146	P	U+0062	bi;behya;mabe;mbai;mba	b
+p	23792	P	U+0070	pan;pi;pi;pon;kraphom	p
+"b"""	1082	P	U+0062 U+0022	"b""u;nimkuqe qb""ax;ab""l;mb""i;mb""i7"	b’
+"p"""	253	P	U+0070 U+0022	"p""e;kp"";p""is;imp""on;ap""e"	pʼ
+7b~	4	P	U+0037 U+0062 U+007E	7b~ay nd~opo;7b~ay za;7b~au;7b~a	ˀb
+Nb~	4	P	U+004E U+0062 U+007E	yaNb~a;Nb~oNw~;Nb~3ryun;Nb~oNw~o	ⁿb
+Np~	1	P	U+004E U+0070 U+007E	puNp~uN	ⁿp
+b7~	4	P	U+0062 U+0037 U+007E	ab7~u;mib7~a;bab7~a;b7~a7e	bˀ
+bX~	10	P	U+0062 U+0058 U+007E	"bX~aliq;XX~abX~i7;bX~in;bX~Erg;bX~ark"""	bˠ
+bg~	7	P	U+0062 U+0067 U+007E	bg~ori;bg~oriye;bg~ori;bg~u;bg~o	bˠ
+bh~	113	P	U+0062 U+0068 U+007E	yEr3bh~ow;bh~isi;kabh~ani;labh~ato;bh~3ndo	bʰ
+bw~	345	P	U+0062 U+0077 U+007E	nombw~irE;bw~E;bw~E;bw~oey;bw~EhE	bʷ
+bx~	5	P	U+0062 U+0078 U+007E	l3bx~an3ba;Srx~o*bx~;bx~3e;libx~at;libx~at	bˠ
+by~	112	P	U+0062 U+0079 U+007E	by~i3;by~i;by~a;by~itn;by~izy~	bʲ
+hp~	6	P	U+0068 U+0070 U+007E	ipihp~3;hp~a;hc~ehp~e;hp~ece;hp~aze	ʰp
+mb~	1682	P	U+006D U+0062 U+007E	mb~i;mb~e;imb~a;mb~ai;mb~a	ⁿb
+np~	12	P	U+006E U+0070 U+007E	np~a;np~a;np~aN;np~aN;np~aN	ⁿp
+p7~	3	P	U+0070 U+0037 U+007E	i*toup7~;sp7~us;5w~ap7~	pˀ
+pS~	2	P	U+0070 U+0053 U+007E	pS~a;pS~i	pʃ
+pX~	3	P	U+0070 U+0058 U+007E	"pX~ra;pX~omp;pX~unc"""	pˠ
+ph~	941	P	U+0070 U+0068 U+007E	ph~om;naph~;ph~e;ph~eh;ph~eh	pʰ
+pw~	231	P	U+0070 U+0077 U+007E	pw~ok;t3pw~a;pw~on;ka*ty~apw~i;apw~o	pʷ
+px~	7	P	U+0070 U+0078 U+007E	px~u;hipx~aji;Sipx~ad7~u;epx~iN;px~on	pˠ
+py~	214	P	U+0070 U+0079 U+007E	py~i;py~i;py~a;py~it;py~e	pʲ
+"b""w~"	4	P	U+0062 U+0022 U+0077 U+007E	"kab""w~i;b""w~ele;b""w~e;b""w~e ti nd~an"	b’ʷ
+"b""y~"	3	P	U+0062 U+0022 U+0079 U+007E	"b""y~in;b""y~in;b""y~ar"	b’ʲ
+"p""X~"	1	P	U+0070 U+0022 U+0058 U+007E	"p""X~aZ"	pχʼ
+"p""y~"	1	P	U+0070 U+0022 U+0079 U+007E	"p""y~a7"	p’ʲ
+"pf""~"	1	P	U+0070 U+0066 U+0022 U+007E	"pf""~a"	pfʼ
+r	41834	R	U+0072	kere;tir;Cira;tira;tire	r
+"r"""	8	R	U+0072 U+0022	"hir""a;kinsor"";tr""o;tr""odye;tr""eje"	r’
+Nr~	2	R	U+004E U+0072 U+007E	muiNr~uaN;muaNr~uaN	ⁿr
+hr~	7	R	U+0068 U+0072 U+007E	hr~ik;hr~en;hr~om;hr~ENi;ea hr~ay	ʰr
+r7~	24	R	U+0072 U+0037 U+007E	kiotor7~u;r7~enut;ar7~a;khw$ir7~;r7~es	rˀ
+rX~	38	R	U+0072 U+0058 U+007E	SaCarX~a;sZrX~th~;S3ZrX~a;w3rX~qa;aXidX~urX~	rˠ
+rh~	42	R	U+0072 U+0068 U+007E	arh~itika;iyorh~oh;rh~ig;rh~ig;orh~ak	rʰ
+rj~	3	R	U+0072 U+006A U+007E	a*rj~ya;ewarj~i;wirj~ya7i	rʲ
+rr~	3	R	U+0072 U+0072 U+007E	dEgrr~;parr~ga;Namarr~i	rː
+rw~	40	R	U+0072 U+0077 U+007E	rw~e;rw~a;rw~aS;g3rw~a;kirw~o	rʷ
+rx~	32	R	U+0072 U+0078 U+007E	werx~;kh~rx~uv;murx~;marx~3l;moiorx~	rˠ
+ry~	98	R	U+0072 U+0079 U+007E	matery~a;iy3 d3ry~o;by~iry~;d3ry~o;d3ry~o	rʲ
+S	8666	S	U+0053	naS;neS;n3SS;n3SS;niS	ʃ
+Z	1348	S	U+005A	Zi;EZ;Z3;Zo;Zo	ʒ
+s	32270	S	U+0073	ise;ese;ese;esie;esie	s
+z	4949	S	U+007A	ze;az3m;z3;z3;z3	z
+"S"""	14	S	U+0053 U+0022	"yaS""a;weS""e;a7aS""oL;iS""eq;S""ix"	ʃʼ
+"Z"""	0	S	U+005A U+0022		ʒ’
+"s"""	84	S	U+0073 U+0022	"s""Caummo;pakas"";s""awo;s""ayi;was""s"""	sʼ
+"z"""	4	S	U+007A U+0022	"sc""uqw~az"";sip""az"";tz""umalx;nxc""az""m3n"	z’
+5Z~	1	S	U+0035 U+005A U+007E	ma5Z~e	ⁿʒ
+7S~	1	S	U+0037 U+0053 U+007E	7S~i	ˀʃ
+7s~	1	S	U+0037 U+0073 U+007E	di7s~ne	ˀs
+Ns~	1	S	U+004E U+0073 U+007E	Ns~o7	ⁿs
+S7~	8	S	U+0053 U+0037 U+007E	S7~oy;S7~oy;S7~oy;a7aS7~oL;th~3nS7~3w	ʃˀ
+SX~	1	S	U+0053 U+0058 U+007E	SESX~	ʃˠ
+Sh~	29	S	U+0053 U+0068 U+007E	maSh~o;maSh~o;juSh~el;juSh~el;Sh~a	ʃʰ
+Sw~	41	S	U+0053 U+0077 U+007E	Sw~ara;Sw~ara;Sw~3;uSw~a;niSw~i	ʃʷ
+Sx~	8	S	U+0053 U+0078 U+007E	Sx~olmisal ce7;Sx~in;iSx~ua;aSx~;Sx~aw	ʃˠ
+Sy~	50	S	U+0053 U+0079 U+007E	mb~a7e poSy~;Sy~it3;Sy~ukbi;ZEny~Sy~in3;tiSy~t3k	ʃʲ
+Z7~	2	S	U+005A U+0037 U+007E	Z7~oy;Z7~akN~	ʒˀ
+ZX~	3	S	U+005A U+0058 U+007E	ZX~ali;ZX~Ela;ZX~ali	ʒˠ
+ZZ~	3	S	U+005A U+005A U+007E	ZZ~;ZZ~;ZZ~	ʒː
+Zh~	9	S	U+005A U+0068 U+007E	Zh~u7;ta3m Zh~a3;Zh~am;nam Zh~ow;ZuZh~auk	ʒʰ
+Zj~	0	S	U+005A U+006A U+007E		ʒʲ
+Zw~	10	S	U+005A U+0077 U+007E	Zw~En;Zw~a ziN;Zw~3d;Zw~ug;Zw~in	ʒʷ
+Zy~	8	S	U+005A U+0079 U+007E	Zy~u;Zy~uv;Zy~edi;Zy~edi;SiZy~a	ʒʲ
+hS~	1	S	U+0068 U+0053 U+007E	ehS~i	ʰʃ
+hs~	3	S	U+0068 U+0073 U+007E	ahs~ay;kilhs~wa;ahs~en	ʰs
+nS~	20	S	U+006E U+0053 U+007E	nS~37;menS~;menS~;nS~3m;nS~3m	ⁿʃ
+nZ~	18	S	U+006E U+005A U+007E	nZ~i;a5onZ~o;nZ~Ene;anZ~oma;3nZ~i	ⁿʒ
+ns~	56	S	U+006E U+0073 U+007E	ns~iN;ins~aidi;ns~a;ins~a;uns~it	ⁿs
+nz~	154	S	U+006E U+007A U+007E	nz~e;nz~e;basaninz~u;waninz~a;anz~e	ⁿz
+s7~	14	S	U+0073 U+0037 U+007E	omas7~;weis7~;as7~u;s7~agi;mus7~i	sˀ
+sX~	29	S	U+0073 U+0058 U+007E	SaxsX~;SaxisX~;sX~notX~a;isX~u;isX~u	sˠ
+sh~	101	S	U+0073 U+0068 U+007E	sh~oN;sh~oN;sh~oN;sh~yu;sh~a*	sʰ
+ss~	1	S	U+0073 U+0073 U+007E	ss~37	sː
+sw~	120	S	U+0073 U+0077 U+007E	sw~e;isw~e;usw~e;esw~e;isw~i	sʷ
+sx~	19	S	U+0073 U+0078 U+007E	wisx~3n;osx~on;sx~ep;sisx~li;sx~o	sˠ
+sy~	231	S	U+0073 U+0079 U+007E	sy~a5;asy~meos;sy~iui;sy~i;sy~i	sʲ
+zX~	8	S	U+007A U+0058 U+007E	XazX~am;azX~m;XEzX~m;amzX~uX;zX~rX~	zˠ
+zh~	13	S	U+007A U+0068 U+007E	zh~ini;zh~3n;zh~a7;zh~i;zh~izh~i	zʰ
+zw~	17	S	U+007A U+0077 U+007E	zw~i;zw~i;zw~i7;zw~i;zw~i	zʷ
+zy~	32	S	U+007A U+0079 U+007E	by~izy~;zy~ada;zy~un;zy~i;zy~a7	zʲ
+zz~	1	S	U+007A U+007A U+007E	zz~7uN	zː
+"S""h~"	1	S	U+0053 U+0022 U+0068 U+007E	"q""w~3pS""h~3"	ʃ’ʰ
+"S""w~"	1	S	U+0053 U+0022 U+0077 U+007E	"maS""w~3"	ʃ’ʷ
+C	8203	T	U+0043	Ca;Ci;Cira;Ca;nCi	tʃ
+d	23829	T	U+0064	kyedi;ndi;nda;da;nda	d
+j	4637	T	U+006A	uneji;inje;inje;i5je;i*ji	dʒ
+t	53056	T	U+0074	ta;tita;tita;tir;ti	t
+"C"""	795	T	U+0043 U+0022	"nEC""o;maC""a;buC""u;d3C""u7;n3C""u7"	tʃʼ
+"c"""	1050	T	U+0063 U+0022	"nuc""koji;c""EX;c""iL;c""eLeg;wisc""i7"	tsʼ
+"d"""	236	T	U+0064 U+0022	"id""e;le7ek ad""a7a;le7ek ad""a7a;le7ek ad""o7o;lee7ek ad""o7o"	d’
+"j"""	7	T	U+006A U+0022	"jaj""a;j""ayabe;Siya*j""e;xaj""ays;ph~ej""e"	dʒ’
+"t"""	764	T	U+0074 U+0022	"kit""in;kit""in;t""aili;uSint""i;iSint""i"	tʼ
+5C~	3	T	U+0035 U+0043 U+007E	i5C~e;5C~e;5C~u	ⁿtʃ
+5d~	1	T	U+0035 U+0064 U+007E	kutu5d~a	ⁿd
+7C~	1	T	U+0037 U+0043 U+007E	7C~u	ˀtʃ
+7d~	24	T	U+0037 U+0064 U+007E	ka7d~i;7d~eu;7d~eu;7d~au;7d~ok	ˀd
+7j~	1	T	U+0037 U+006A U+007E	a7j~i7	ˀdʒ
+C7~	6	T	U+0043 U+0037 U+007E	kaC7~i;C7~amo;C7~o;tuC7~i*;toC7~i*	tʃˀ
+CS~	2	T	U+0043 U+0053 U+007E	muCS~;CS~	tʃ
+CX~	1	T	U+0043 U+0058 U+007E	xemely~3CX~elin	tʃˠ
+Ch~	469	T	U+0043 U+0068 U+007E	aCh~on;aCh~en;Ch~an;Ch~i;Ch~i	tʃʰ
+Cw~	60	T	U+0043 U+0077 U+007E	iCw~u;Cw~i;Cw~i;Cw~i;Cw~i	tʃʷ
+Cx~	8	T	U+0043 U+0078 U+007E	Cx~omi;Cx~vindi;Cx~indi;Cx~3;Cx~a7	tʃˠ
+Cy~	62	T	U+0043 U+0079 U+007E	Cy~idy~i;Cy~uan buh;aCy~el;Cy~i;gCy~ig	tʃʲ
+NC~	1	T	U+004E U+0043 U+007E	CaNC~anahai	ⁿtʃ
+Nd~	3	T	U+004E U+0064 U+007E	koNd~a;SiNd~e;soNd~	ⁿd
+Nt~	1	T	U+004E U+0074 U+007E	aNt~a	ⁿt
+cy~	48	T	U+0063 U+0079 U+007E	cy~E;mmocy~;cy~iu;cy~eri;cy~orig	tsʲ
+d7~	6	T	U+0064 U+0037 U+007E	"d7~axa;ikid7~;Sipx~ad7~u;wad7~duwi;sid7~jurk""ai"	dˀ
+dX~	18	T	U+0064 U+0058 U+007E	aXidX~urX~;XadX~um;XadX~me;X3dX~3m;XdX~em	dˠ
+dZ~	8	T	U+0064 U+005A U+007E	idZ~o;iganidZ~e;nexodZ~edi;nadZ~idi;adZ~ipa	dʒ
+dh~	215	T	U+0064 U+0068 U+007E	Nadh~a;Nadh~u;Nadh~a;Nadh~uwa;dh~ew	dʰ
+dj~	5	T	U+0064 U+006A U+007E	widj~diZi;dj~3N;dj~iti;dj~ira;kidj~a	dʒ
+dn~	15	T	U+0064 U+006E U+007E	mEdn~iSa;paSdn~a;rudn~3*;doudn~;Sidn~	dⁿ
+dw~	86	T	U+0064 U+0077 U+007E	dw~a;dw~a;dw~a;dw~a;dw~a	dʷ
+dx~	5	T	U+0064 U+0078 U+007E	Xodx~me;Xdx~o*mx~;XEdx~mx~o;sx~3dx~3r;sx~dx~or	dˠ
+dy~	514	T	U+0064 U+0079 U+007E	dy~ew;dy~au;Na5dy~i;Nady~u;andy~	dʲ
+hC~	1	T	U+0068 U+0043 U+007E	hC~3k	ʰtʃ
+hc~	2	T	U+0068 U+0063 U+007E	hc~ehp~e;hc~eka	ʰts
+ht~	14	T	U+0068 U+0074 U+007E	ht~iteky~a;bo*ht~o*;ht~aw3;ht~u ih~ti;ht~akay	ʰt
+j7~	1	T	U+006A U+0037 U+007E	j7~ul	dʒˀ
+jX~	1	T	U+006A U+0058 U+007E	najX~e	dʒˠ
+jZ~	2	T	U+006A U+005A U+007E	jZ~ma;jZ~7	dʒ
+jh~	9	T	U+006A U+0068 U+007E	jh~ad;jh~ad;jh~ada;jh~adu;jh~ar	dʒʰ
+jw~	27	T	U+006A U+0077 U+007E	jw~3r;jw~ab;jw~i;ajw~i;ajw~lim	dʒʷ
+jy~	10	T	U+006A U+0079 U+007E	jy~i;jy~a;jy~i;yejy~ur;ejy~e	dʒʲ
+md~	3	T	U+006D U+0064 U+007E	bomd~o;md~u;md~er	ⁿd
+nC~	85	T	U+006E U+0043 U+007E	nC~E;nC~i;nC~ini;anC~i;nC~e b3Ci	ⁿtʃ
+nc~	151	T	U+006E U+0063 U+007E	anc~ika;nc~3 b3Ci;ainc~;aenc~;sonc~i	ⁿts
+nd~	2018	T	U+006E U+0064 U+007E	nd~i;nd~a;nd~i;nd~e;ind~i	ⁿd
+nj~	223	T	U+006E U+006A U+007E	nj~uk;inj~im;inj~uCu;nj~a;nj~o	ⁿdʒ
+nt~	599	T	U+006E U+0074 U+007E	int~a;yant~;nt~i;3nt~a;jant~a	ⁿt
+t7~	23	T	U+0074 U+0037 U+007E	t7~oL;t7~oixy~u;t7~ac3;ot7~;t7~o	tˀ
+tS~	1	T	U+0074 U+0053 U+007E	tS~amra	tʃ
+th~	1922	T	U+0074 U+0068 U+007E	th~i;th~a;th~u;th~io;k3th~3	tʰ
+tj~	4	T	U+0074 U+006A U+007E	kutj~a;tj~ab3j;detj~a;tj~uwala	tʲ
+tt~	1	T	U+0074 U+0074 U+007E	tyatt~	tː
+tw~	190	T	U+0074 U+0077 U+007E	tw~i;yEtw~E;atw~E;tw~ebw~e;tw~e	tʷ
+tx~	21	T	U+0074 U+0078 U+007E	tx~u;utx~in;ustx~in;tx~3;tx~i3	tˠ
+ty~	671	T	U+0074 U+0079 U+007E	Ety~E;Nety~e;Naty~a;Nety~e;aty~e	tʲ
+"C""w~"	3	T	U+0043 U+0022 U+0077 U+007E	"C""w~el;C""w~el;C""w~at"""	tʃ’ʷ
+"C""y~"	8	T	U+0043 U+0022 U+0079 U+007E	"C""y~an;C""y~an;C""y~an;C""y~an;C""y~an"	tʃ’ʲ
+"c""X~"	1	T	U+0063 U+0022 U+0058 U+007E	"c""X~em3n"	tʃ’ˠ
+"c""y~"	1	T	U+0063 U+0022 U+0079 U+007E	"c""y~ul"	ts’ʲ
+"nc""~"	2	T	U+006E U+0063 U+0022 U+007E	"inc""~3rs;hinc""~o"	ⁿtsʼ
+"nt""~"	3	T	U+006E U+0074 U+0022 U+007E	"nt""~u;hant""~ik""a;int""~aba"	ⁿt’
+"t""8~"	24	T	U+0074 U+0022 U+0038 U+007E	"t""8~it""8~3t""8~3m;t""8~it""8~3t""8~3m;t""8~it""8~3t""8~3m;St""8~3m""ikw~3n;st""8~at""8~L37"	tθ’
+"t""X~"	4	T	U+0074 U+0022 U+0058 U+007E	"int""X~ay;t""X~Eri;t""X~ir;t""X~ada"	t’ˠ
+"t""h~"	1	T	U+0074 U+0022 U+0068 U+007E	"t""h~al"	t’ʰ
+"t""w~"	4	T	U+0074 U+0022 U+0077 U+007E	"t""w~3;t""w~ar;t""w~ar;t""w~ar"	t’ʷ
+"t""y~"	3	T	U+0074 U+0022 U+0079 U+007E	"cat""y~o;t""y~am;t""y~E"	t’ʲ
+thw~	0	T	U+0074 U+0068 U+0077 U+007E		tʷʰ
+o	77610	U	U+006F	ono;ono;one;mo;iyo	o
+o*	1878	U	U+006F U+002A	5io*;mo*;mo*;mo*;mo*	õ
+w	24016	W	U+0077	win;5owe;Tewe;owe;gy~ewe	w
+"w"""	138	W	U+0077 U+0022	"suw""a;suw""a;suw""a;kw~uw""e;niw""a"	w’
+w7~	11	W	U+0077 U+0037 U+007E	saw7~a;aw7~a;iw7~isi;hiaw7~;w7~i	wˀ
+u	86839	Y	U+0075	une;une;uneji;mu;menu	u
+u*	1581	Y	U+0075 U+002A	mu*;u*;hu*;hu*;hu*	ũ
+u7~	1	Y	U+0075 U+0037 U+007E	7d~au7~d3i	uˀ
+!X~	2	! G	U+0021 U+0058 U+007E	!X~o;!X~i	ǂ χ
+!r~	2	! R	U+0021 U+0072 U+007E	Ehw~E!r~hE;uwo!r~o	ǃ r
+!d~	1	! T	U+0021 U+0064 U+007E	odu!d~o	ǃ d
+ah~	3	A H	U+0061 U+0068 U+007E	mah~ika;yah~kNum;tah~	a h
+Ey~	1	A J	U+0045 U+0079 U+007E	nEy~s	a j
+ay~	1	A J	U+0061 U+0079 U+007E	kay~	a j
+a*y*	1	A J	U+0061 U+002A U+0079 U+002A	no*ka*y*	ã j
+aw~	12	A W	U+0061 U+0077 U+007E	daw~m;saw~;taw~;ta7a aw~;zaw~now~	a w
+fv~	6	B B	U+0066 U+0076 U+007E	SEfv~;SEfv~;ph~ifv~;fv~;fv~	f v
+fk~	1	B K	U+0066 U+006B U+007E	fk~en	f k
+fl~	2	B L	U+0066 U+006C U+007E	fl~i;fl~E	f l
+vl~	1	B L	U+0076 U+006C U+007E	vl~E	v l
+vn~	1	B N	U+0076 U+006E U+007E	navn~	v n
+fr~	1	B R	U+0066 U+0072 U+007E	fr~wa	f r
+vr~	1	B R	U+0076 U+0072 U+007E	vr~ikS3	v r
+fs~	2	B S	U+0066 U+0073 U+007E	fs~ika;fs~a	f s
+vw~	51	B W	U+0076 U+0077 U+007E	vw~ElE;vw~oro;vw~oro;vw~a;vw~a	v w
+Tv~	2	C B	U+0054 U+0076 U+007E	Tv~u;Tv~u	c v
+cv~	2	C B	U+0063 U+0076 U+007E	cv~ali;cv~a	ts v
+TX~	1	C G	U+0054 U+0058 U+007E	XaTX~ed	c χ
+cX~	1	C G	U+0063 U+0058 U+007E	cX~a7	ts χ
+T5~	1	C N	U+0054 U+0035 U+007E	T5~edan	c ɲ
+cb~	1	C P	U+0063 U+0062 U+007E	cb~on pe7	ts b
+cz~	29	C S	U+0063 U+007A U+007E	sEp3cz~;ocz~;yEcz~;cz~;yopicz~	ts z
+8w~	4	D W	U+0038 U+0077 U+007E	8w~i;8w~E;ne8w~a;kise8w~	θ w
+ax~	2	E G	U+0061 U+0078 U+007E	ax~te;ax~na	ɐ x
+e7~	1	E H	U+0065 U+0037 U+007E	wose7~ek	e ʔ
+3y*	1	E J	U+0033 U+0079 U+002A	d3N3y*	ə̃ j
+ay*	2	E J	U+0061 U+0079 U+002A	hay*Si;hay*E	ɐ̃ j
+e*y*	1	E J	U+0065 U+002A U+0079 U+002A	e*y*	ẽ j
+aq~	1	E K	U+0061 U+0071 U+007E	qw~aq~37	ɐ q
+a*g~	1	E K	U+0061 U+002A U+0067 U+007E	na*g~ina	ɐ̃ g
+a5~	1	E N	U+0061 U+0035 U+007E	a5~in	ɐ ɲ
+aN~	2	E N	U+0061 U+004E U+007E	aN~gu;taraN~kambirei	ɐ ŋ
+at~	1	E T	U+0061 U+0074 U+007E	that~a	ɐ t
+a*d~	1	E T	U+0061 U+002A U+0064 U+007E	ka*d~i7iCi	ɐ̃ d
+ew~	1	E W	U+0065 U+0077 U+007E	lew~a	e w
+a*w*	2	E W	U+0061 U+002A U+0077 U+002A	sa*w*;StiNk~a*w*	ɐ̃ w
+xv~	2	G B	U+0078 U+0076 U+007E	xv~icli;xv~araiti	x v
+xc~	1	G C	U+0078 U+0063 U+007E	oxc~3	x ts
+Xk~	1	G K	U+0058 U+006B U+007E	Xk~u	χ k
+xk~	2	G K	U+0078 U+006B U+007E	axarx~xk~;xk~am3	x k
+xq~	1	G K	U+0078 U+0071 U+007E	xq~ayus	x q
+Xm~	1	G M	U+0058 U+006D U+007E	Xm~oh	χ m
+Xs~	3	G S	U+0058 U+0073 U+007E	Xs~i;Xs~3ni;Xs~anten	χ s
+xS~	1	G S	U+0078 U+0053 U+007E	xS~ap	x ʃ
+Xt~	1	G T	U+0058 U+0074 U+007E	Xt~akien	χ t
+xww~	1	G Y	U+0078 U+0077 U+0077 U+007E	"xww~ic"""	x u
+h7~	4	H H	U+0068 U+0037 U+007E	sih7~kak;sih7~kam;sih7~katedy~o;h7~onu	h ʔ
+7m~	2	H M	U+0037 U+006D U+007E	i7m~e;7m~3ksan	ʔ m
+iv~	1	I B	U+0069 U+0076 U+007E	div~	i v
+iX~	1	I G	U+0069 U+0058 U+007E	smiX~	i χ
+ih~	6	I H	U+0069 U+0068 U+007E	ih~e tez3;ht~u ih~ti;ih~3ty~e;ih~t;ih~ekh~a	i h
+yh~	13	I H	U+0079 U+0068 U+007E	yh~3;yh~an lebu;yh~ad;yh~ad;yh~auk	i h
+i*7~	1	I H	U+0069 U+002A U+0037 U+007E	cei*7~o*	ĩ ʔ
+ij*	0	I J	U+0069 U+006A U+002A		ĩ j
+iy*	2	I J	U+0069 U+0079 U+002A	hiy*E;tasiy*	ĩ j
+ik~	2	I K	U+0069 U+006B U+007E	nik~aSi*ga;pik~ao	i k
+yk~	1	I K	U+0079 U+006B U+007E	yk~uxi	i k
+yw~	29	I W	U+0079 U+0077 U+007E	yw~ole;yw~ole;yw~ak;yw~a;oyw~E7	i w
+y*E	3	J A	U+0079 U+002A U+0045	y*E;y*En;y*EN	j ã
+y*i	7	J I	U+0079 U+002A U+0069	y*i;y*in;y*ima;py*iq3;y*in	j ĩ
+yt~	1	J T	U+0079 U+0074 U+007E	xeyt~eN	j t
+y*o	2	J U	U+0079 U+002A U+006F	y*o;y*o	j õ
+gv~	7	K B	U+0067 U+0076 U+007E	gv~u3;gv~u;gv~i;gv~ebga;tgv~	g v
+kf~	5	K B	U+006B U+0066 U+007E	kf~a;kf~uSy~i;kf~umf~e;kf~u3;kf~a	k f
+kv~	6	K B	U+006B U+0076 U+007E	kv~ow;kv~th~Eu;bEkv~tv~lv~;nv~mekv~;kv~Cv~	k v
+"k""v~"	2	K B	U+006B U+0022 U+0076 U+007E	"k""v~doma;varsk""v~lavi"	kʼ v
+GX~	1	K G	U+0047 U+0058 U+007E	oGX~	ɢ χ
+qx~	1	K G	U+0071 U+0078 U+007E	qx~ara	q x
+"qX""~"	1	K G	U+0071 U+0058 U+0022 U+007E	"qX""~ina"	q χʼ
+"k""7~"	1	K H	U+006B U+0022 U+0037 U+007E	"k""7~aN"	kʼ ʔ
+gk~	1	K K	U+0067 U+006B U+007E	egk~alamak	g k
+gl~	5	K L	U+0067 U+006C U+007E	sigl~;gl~eyi;cegl~;ebasigl~a;gl~e	g l
+kl~	19	K L	U+006B U+006C U+007E	kl~o;kl~e;kl~u;kl~o;kl~u	k l
+gN~	2	K N	U+0067 U+004E U+007E	"t""agN~;tulagN~"	g ŋ
+gn~	3	K N	U+0067 U+006E U+007E	ign~i;tulagn~;ign~u	g n
+kn~	7	K N	U+006B U+006E U+007E	yikn~;likekn~;yokn~;ndy$eaikn~;wund~okn~	k n
+gb~	318	K P	U+0067 U+0062 U+007E	ngb~o;nigb~e;ilogb~o;gb~Ennje;gb~oriye	g b
+gr~	1	K R	U+0067 U+0072 U+007E	pegr~k	g r
+kr~	1	K R	U+006B U+0072 U+007E	y3kr~it	k r
+kS~	1	K S	U+006B U+0053 U+007E	dikS~i3	k ʃ
+ks~	6	K S	U+006B U+0073 U+007E	ks~3mu;ks~3ks~3;ks~3ks~3;ks~3s3;ks~3s3	k s
+kw*$	1	K Y	U+006B U+0077 U+002A U+0024	ewitikw*	k ũ
+lv~	5	L B	U+006C U+0076 U+007E	lv~u;lv~u;bEkv~tv~lv~;lv~mo;lv~	l v
+lm~	1	L M	U+006C U+006D U+007E	gelm~edi	l m
+mf~	21	M B	U+006D U+0066 U+007E	dimf~run;mf~a;mf~ana;mf~E7;komf~E	m f
+mv~	63	M B	U+006D U+0076 U+007E	mv~a;mv~and~e;pomv~3;mv~3;mv~a	m v
+mk~	1	M K	U+006D U+006B U+007E	mk~3dukw~	m k
+ml~	8	M L	U+006D U+006C U+007E	ml~ek;ml~E;ml~e;kokoml~u;ml~oN	m l
+mN~	1	M N	U+006D U+004E U+007E	mN~e	m ŋ
+mr~	2	M R	U+006D U+0072 U+007E	mr~7rh$;mr~i	m r
+mZ~	3	M S	U+006D U+005A U+007E	mZ~u;mZ~u;mZ~3	m ʒ
+ms~	3	M S	U+006D U+0073 U+007E	ms~izukw~;ms~alwa;ms~kw~3n	m s
+mz~	3	M S	U+006D U+007A U+007E	mz~u;mz~u;mz~3	m z
+mC~	1	M T	U+006D U+0043 U+007E	mC~a	m tʃ
+mj~	1	M T	U+006D U+006A U+007E	mj~ili	m dʒ
+mt~	6	M T	U+006D U+0074 U+007E	mt~as3;mt~u;mt~oN;mt~a;mt~i	m t
+nf~	5	N B	U+006E U+0066 U+007E	kunf~o;nunf~a;tunf~3r3;nf~enf~e;nf~enf~e	n f
+NX~	1	N G	U+004E U+0058 U+007E	oNX~	ŋ χ
+nX~	8	N G	U+006E U+0058 U+007E	"nX~ah;rnX~e;nX~aq;nX~c""ec""mn;snX~"	n χ
+57~	4	N H	U+0035 U+0037 U+007E	ple57~;ko57~5o;57~ixi;dabu57~	ɲ ʔ
+4y~	1	N J	U+0034 U+0079 U+007E	mu4y~u	n̪ j
+nq~	7	N K	U+006E U+0071 U+007E	enq~a;nq~ai;pind~inq~;ent~opanq~un;enq~i	n q
+nL~	1	N L	U+006E U+004C U+007E	nL~i	n ʎ
+nl~	3	N L	U+006E U+006C U+007E	wj~onl~;nl~iya;nl~ocop	n l
+Nm~	13	N M	U+004E U+006D U+007E	zuNm~u;eNm~i;niNm~gb~iNNu;Nm~aNm~a;Nm~aNm~a	ŋ m
+nm~	1	N M	U+006E U+006D U+007E	nm~o	n m
+5n~	3	N N	U+0035 U+006E U+007E	o5n~agi;5n~ea;5n~e	ŋ n
+n5~	11	N N	U+006E U+0035 U+007E	n5~in;n5~in;n5~in;n5~En;n5~in	n ɲ
+nN~	3	N N	U+006E U+004E U+007E	nN~agy~u;nunN~ura;garinN~a	n ŋ
+nb~	19	N P	U+006E U+0062 U+007E	nb~ompa;yanb~a;yanb~a;yanb~a;janb~a	n b
+nr~	4	N R	U+006E U+0072 U+007E	Tu*nr~;nnr~al3Nok;canr~uci;nEnEnr~E	n r
+4d~	17	N T	U+0034 U+0064 U+007E	pa4d~3d3;mana4d~a;bi4d~u;4d~EbE;Na4d~al	n d
+4j~	1	N T	U+0034 U+006A U+007E	ki4j~a	n̪ dʒ
+4t~	1	N T	U+0034 U+0074 U+007E	i4t~e	n̪ t
+5j~	10	N T	U+0035 U+006A U+007E	ka5j~a;5j~ia;ve5j~er;ga5j~a;ke5j~	ɲ dʒ
+"nC""~"	1	N T	U+006E U+0043 U+0022 U+007E	"bonC""~o"	n tʃʼ
+bv~	34	P B	U+0062 U+0076 U+007E	bv~a;bv~o;bv~3;bv~3;bv~3	b v
+pv~	9	P B	U+0070 U+0076 U+007E	pv~uo;pv~ey;pv~ey;pv~e;pv~ey	p v
+bq~	1	P K	U+0062 U+0071 U+007E	bq~ni7	b q
+pk~	1	P K	U+0070 U+006B U+007E	lipk~abl	p k
+bl~	8	P L	U+0062 U+006C U+007E	bl~ud;bl~ui;bl~ui;bl~ui;bl~ai	b l
+pl~	9	P L	U+0070 U+006C U+007E	pl~E;pl~E;pl~ou hou;mapl~a;pl~an	p l
+bm~	4	P M	U+0062 U+006D U+007E	yErbm~;galbm~a;tubm~;dutubm~	b m
+pm~	23	P M	U+0070 U+006D U+007E	apm~;kupm~;pm~owsowinno;CEpm~;wupm~	p m
+pn~	1	P N	U+0070 U+006E U+007E	mapn~E	p n
+pr~	1	P R	U+0070 U+0072 U+007E	kapr~en	p r
+"p""r~"	1	P R	U+0070 U+0022 U+0072 U+007E	"p""r~n"	pʼ r
+ps~	6	P S	U+0070 U+0073 U+007E	ps~3tic3;ps~3ti;ps~3tu;ps~3tu;ps~3c3	p s
+pd~	1	P T	U+0070 U+0064 U+007E	pd~oro	p d
+rg~	1	R K	U+0072 U+0067 U+007E	Zabarg~a	r g
+rl~	4	R L	U+0072 U+006C U+007E	warl~i;lurl~ku;nimarl~a;rl~api	r l
+r5~	1	R N	U+0072 U+0035 U+007E	gur5~u	r ɲ
+rn~	28	R N	U+0072 U+006E U+007E	opurn~a*;ozu opurn~a*;opirn~a*;opurn~a*;opurn~a*	r n
+rp~	1	R P	U+0072 U+0070 U+007E	rp~eL	r p
+rd~	6	R T	U+0072 U+0064 U+007E	mard~a;bard~a;yagurd~u;rd~wo;rd~wo	r d
+rt~	7	R T	U+0072 U+0074 U+007E	Tirt~u;nung~kurt~;murt~ara;kart~iri;murt~i	r t
+Sf~	2	S B	U+0053 U+0066 U+007E	Sf~uga;kuSf~u	ʃ f
+Sv~	1	S B	U+0053 U+0076 U+007E	Sv~u	ʃ v
+Zv~	1	S B	U+005A U+0076 U+007E	Zv~u	ʒ v
+sf~	2	S B	U+0073 U+0066 U+007E	3sf~ok;sf~o	s f
+sv~	4	S B	U+0073 U+0076 U+007E	sv~3;musv~;sv~ika;mosv~la	s v
+sc~	1	S C	U+0073 U+0063 U+007E	namisc~iniki	s ts
+S8~	1	S D	U+0053 U+0038 U+007E	S8~e8	ʃ θ
+Sk~	1	S K	U+0053 U+006B U+007E	daraSk~	ʃ k
+sl~	3	S L	U+0073 U+006C U+007E	sl~uhwa;sl~3m3N;sl~i7iN	s l
+zl~	1	S L	U+007A U+006C U+007E	gurmezl~	z l
+sn~	1	S N	U+0073 U+006E U+007E	sn~i	s n
+zn~	2	S N	U+007A U+006E U+007E	zn~agoti;azn~u	z n
+Sb~	1	S P	U+0053 U+0062 U+007E	buSb~i	ʃ b
+Sr~	1	S R	U+0053 U+0072 U+007E	Sr~iNg3m	ʃ r
+sr~	19	S R	U+0073 U+0072 U+007E	sr~3k;sr~a;3sr~ik;sr~E;sr~i	s r
+zr~	2	S R	U+007A U+0072 U+007E	zr~u;zr~7uN	z r
+SZ~	11	S S	U+0053 U+005A U+007E	SZ~;SZ~a7;SZ~cuN;SZ~;SZ~	ʃ ʒ
+sZ~	4	S S	U+0073 U+005A U+007E	nesZ~;geninsZ~;mabesZ~an;esZ~enekasowin	s ʒ
+sz~	23	S S	U+0073 U+007A U+007E	sz~coco;sz~;sz~bo;sz~;sz~Ch~aCh~a	s z
+St~	1	S T	U+0053 U+0074 U+007E	iSt~	ʃ t
+sC~	1	S T	U+0073 U+0043 U+007E	wisC~ti	s tʃ
+st~	2	S T	U+0073 U+0074 U+007E	post~;dast~	s t
+Cf~	1	T B	U+0043 U+0066 U+007E	Cf~uCCf~o	tʃ f
+Cv~	4	T B	U+0043 U+0076 U+007E	aCv~;Cv~;kv~Cv~;kv~Cv~	tʃ v
+dv~	3	T B	U+0064 U+0076 U+007E	dv~olo;xEdv~a;dv~	d v
+tf~	4	T B	U+0074 U+0066 U+007E	tf~u;tf~u;tf~u;tf~u7	t f
+tv~	5	T B	U+0074 U+0076 U+007E	tv~o;bEkv~tv~lv~;tv~;tv~;mtv~	t v
+CCf~	1	T B	U+0043 U+0043 U+0066 U+007E	Cf~uCCf~o	tʃ f
+jjv~	1	T B	U+006A U+006A U+0076 U+007E	jjv~ay	dʒ v
+dT~	4	T C	U+0064 U+0054 U+007E	EdT~i;dT~iya;dT~iya;dT~iya	d c
+tT~	2	T C	U+0074 U+0054 U+007E	tT~oN;qh~utT~o	t c
+d8~	2	T D	U+0064 U+0038 U+007E	d8~eL;th~ed8~	d θ
+t8~	26	T D	U+0074 U+0038 U+007E	t8~a;t8~o*;jot8~;jiat8~;yat8~	t θ
+"t8""~"	1	T D	U+0074 U+0038 U+0022 U+007E	"t8""~an"	t θ’
+tX~	45	T G	U+0074 U+0058 U+007E	tX~o;matX~;XutX~a;sX~notX~a;snotX~a	t χ
+ty*	1	T I	U+0074 U+0079 U+002A	Sity*	t ĩ
+tk~	4	T K	U+0074 U+006B U+007E	tk~u;tk~uo;tk~un;tk~e	t k
+dh~g~	1	T K	U+0064 U+0068 U+007E U+0067 U+007E	dh~g~emon	dʰ g
+dL~	32	T L	U+0064 U+004C U+007E	dL~ondL~obele;dL~ondL~obele;dL~ebe;dL~ebe;dL~ebe	d ʎ
+dl~	8	T L	U+0064 U+006C U+007E	dl~ap;dl~u;adl~a*;Gandl~;fy~adl~	d l
+tL~	76	T L	U+0074 U+004C U+007E	tL~anz~i;tL~anz~i;tL~anz~i;tL~anz~i;tL~anz~i	t ʎ
+tl~	41	T L	U+0074 U+006C U+007E	tl~e;tl~e;tl~i*;Nk~atl~u;qatl~u	t l
+"tL""~"	37	T L	U+0074 U+004C U+0022 U+007E	"tL""~anz~i;tL""~amaX;tL""~amaX;tL""~ol;tL""~a*de"	t ʎ’
+"tl""~"	1	T L	U+0074 U+006C U+0022 U+007E	"gurtl""~a"	t l’
+tn~	19	T N	U+0074 U+006E U+007E	kitn~;eitn~;ikatn~;ntn$atn~a;dautn~	t n
+Cr~	3	T R	U+0043 U+0072 U+007E	Cr~a3n;Cr~3muh;Cr~es	tʃ r
+dr~	40	T R	U+0064 U+0072 U+007E	dr~otol;xidr~;dr~iSa;laukandr~anu;laukandr~anu	d r
+tr~	102	T R	U+0074 U+0072 U+007E	fentr~en;tr~i;tr~i;k3tr~;wentr~u	t r
+CZ~	1	T S	U+0043 U+005A U+007E	yoCZ~	tʃ ʒ
+dt~	1	T T	U+0064 U+0074 U+007E	validt~	d t
+ov~	1	U B	U+006F U+0076 U+007E	kov~k	o v
+oh~	2	U H	U+006F U+0068 U+007E	oh~k;kumpoh~	o h
+oy~	3	U J	U+006F U+0079 U+007E	moy~5;th~3lloy~t;oy~	o j
+oS~	1	U S	U+006F U+0053 U+007E	oS~i	o ʃ
+ow*	1	U W	U+006F U+0077 U+002A	mow*	õ w
+ow~	4	U W	U+006F U+0077 U+007E	ow~ nome;ow~e;zaw~now~;now~a	o w
+w*a	1	W E	U+0077 U+002A U+0061	w*awana	w ɐ̃
+w*e	1	W E	U+0077 U+002A U+0065	w*e	w ẽ
+w*a*	1	W E	U+0077 U+002A U+0061 U+002A	w*a*ma*	w ɐ̃
+wh~	18	W H	U+0077 U+0068 U+007E	kEwh~Eneri;Siwh~;akp~oewh~u;dahuwh~;dahowh~	w h
+w*i	2	W I	U+0077 U+002A U+0069	w*i;w*i	w ĩ
+wy~	9	W I	U+0077 U+0079 U+007E	s3wy~e;wy~eNE;rwy~adu;wy~i;wy~n	w i
+wm~	1	W M	U+0077 U+006D U+007E	wakl~3wm~a	w m
+wn~	3	W N	U+0077 U+006E U+007E	tiwn~E;nuwn~o;nuwn~o	w n
+w*o	1	W U	U+0077 U+002A U+006F	w*oynE	w õ
+wh~o	1	W U	U+0077 U+0068 U+007E U+006F	"k""owh~o"	w o
+w*u	4	W Y	U+0077 U+002A U+0075	w*u;w*u;w*u;w*uN	w ũ
+ux~	1	Y G	U+0075 U+0078 U+007E	demux~uwa	u x
+wX~	3	Y G	U+0077 U+0058 U+007E	wX~a;iwX~at3;qwX~en	u χ
+uh~	2	Y H	U+0075 U+0068 U+007E	ta7auh~;th~a7auh~	u h
+wk~	2	Y K	U+0077 U+006B U+007E	wk~uxi;wk~3dokw~	u k
+wl~	1	Y L	U+0077 U+006C U+007E	wl~i	u l
+un~	1	Y N	U+0075 U+006E U+007E	mun~	u n
+wr~	5	Y R	U+0077 U+0072 U+007E	wr~una;wr~;wr~s;wr~Lkr;wr~Lkun	u r
+wd~	2	Y T	U+0077 U+0064 U+007E	wd~awagw~;owd~isiz	u d
+wj~	2	Y T	U+0077 U+006A U+007E	wj~o*l;wj~onl~	u dʒ
+uw~	1	Y W	U+0075 U+0077 U+007E	y3uw~	u w
+iw*a	1	I W E	U+0069 U+0077 U+002A U+0061	suN iw*aN	i w ɐ̃
+i*w*a*	1	I W E	U+0069 U+002A U+0077 U+002A U+0061 U+002A	ni87~i*w*a*	ĩ w ɐ̃
+kwx~	1	K Y G	U+006B U+0077 U+0078 U+007E	ndy$okwx~io*7	k u x
+Cih~	6	T I H	U+0043 U+0069 U+0068 U+007E	Cih~a Na;a Cih~u;Cih~i p3;Cih~iN pa;Cih~u	tʃ i h
+ow7~	1	U W H	U+006F U+0077 U+0037 U+007E	laow7~	o w ʔ
+wh~aN	1	W E N	U+0077 U+0068 U+007E U+0061 U+004E	wh~aN	w ɐ ŋ
+wh~at	1	W E T	U+0077 U+0068 U+007E U+0061 U+0074	wh~at	w ɐ t
+SZ~cz~	1	S S C S	U+0053 U+005A U+007E U+0063 U+007A U+007E	SZ~cz~	ʃ ʒ ts z
+sz~cz~	2	S S C S	U+0073 U+007A U+007E U+0063 U+007A U+007E	sz~cz~;sz~cz~	s z ts z
+own~e*i*	1	U W N E I	U+006F U+0077 U+006E U+007E U+0065 U+002A U+0069 U+002A	bidE own~e*i*	o w n ẽ ĩ
+"n3t""8~37"	1	N E T D E H	U+006E U+0033 U+0074 U+0022 U+0038 U+007E U+0033 U+0037	"n3t""8~37"	n ə tʼ θ ə ʔ
+to7oSyh~3y	1	T U H U S E J	U+0074 U+006F U+0037 U+006F U+0053 U+0079 U+0068 U+007E U+0033 U+0079	to7oSyh~3y	t o ʔ o ʃʰ ə j
