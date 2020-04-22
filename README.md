@@ -66,8 +66,8 @@ contain 40-item word lists of all the world's languages.
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
 Robert Forkel | @xrotwang | patron, code | Author
 Tiago Tresoldi | @tresoldi | profile | Author
 Søren Wichmann | | Distributor, DataCurator

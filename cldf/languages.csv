@@ -15,10 +15,10 @@ GXANA,Gxana,gana1274,//Gana,gnk,Africa,-21.8555,22.2003,Khoe-Kwadi
 KHOEKHOEGOWAB,Khoekhoegowab,nama1264,Nama (Namibia),naq,Africa,-25.0747,17.9767,Khoe-Kwadi
 KHWE,Khwe,kxoe1243,Kxoe,xuu,Africa,-16.59051,22.599835,Khoe-Kwadi
 KORANA,Korana,kora1292,Korana,kqz,Africa,-30.4207,19.7711,Khoe-Kwadi
-KUA,Kua,kuaa1238,Kua,tyu,Africa,-22.0237,26.0158,Khoe-Kwadi
+KUA,Kua,kuaa1238,Southern Tshwa,tyu,Africa,-22.0237,26.0158,Khoe-Kwadi
 KWADI,Kwadi,kwad1244,Kwadi,kwz,Africa,-15.8745,12.1147,Khoe-Kwadi
 KXOE,Kxoe,kxoe1243,Kxoe,xuu,Africa,-16.59051,22.599835,Khoe-Kwadi
-MASARWA_TATI,Masarwa Tati,tsoa1238,Tsoa,hio,Africa,-19.7974,26.9638,Khoe-Kwadi
+MASARWA_TATI,Masarwa Tati,tsoa1238,Northern Tshwa,hio,Africa,-19.7974,26.9638,Khoe-Kwadi
 NAMA,Nama,nama1264,Nama (Namibia),naq,Africa,-25.0747,17.9767,Khoe-Kwadi
 NAMA_2,Nama 2,nama1264,Nama (Namibia),naq,Africa,-25.0747,17.9767,Khoe-Kwadi
 NARO,Naro,naro1249,Naro,nhr,Africa,-22.0939,20.7458,Khoe-Kwadi
@@ -250,7 +250,7 @@ BWISI,Bwisi,bwis1242,Bwisi,bwz,Africa,-3.23686,11.9595,Atlantic-Congo
 C10_GANDO,C10 Gando,ngan1304,Ngando (Central African Republic),ngd,Africa,3.71666,17.6499,Atlantic-Congo
 C24_KOYO_ZWE,C24 Koyo Zwe,koyo1242,Koyo,koh,Africa,-0.69688,15.7508,Atlantic-Congo
 C301_BODO_1,C301 Bodo 1,bodo1272,Bodo (Central African Republic),boy,Africa,6.0,26.0,Atlantic-Congo
-C36d_LINGALA_2,C36d Lingala 2,ling1263,Lingala,lin,Africa,1.40324,19.7829,Atlantic-Congo
+C36d_LINGALA_2,C36d Lingala 2,ling1263,Kinshasa Lingala,lin,Africa,-4.409174,15.28532,Atlantic-Congo
 C36e_BOLOKI_NGIRI,C36e Boloki Ngiri,bolo1262,Boloki,bkt,Africa,0.83463,18.4555,Atlantic-Congo
 C45_LEBEO,C45 Lebeo,ngel1238,Ngelima,agh,Africa,1.81314,24.8754,Atlantic-Congo
 C75_KELA,C75 Kela,kela1254,Kela (Democratic Republic of Congo),kel,Africa,-1.39085,24.0051,Atlantic-Congo
@@ -564,8 +564,8 @@ LIKOKA,Likoka,loba1239,Lobala,loq,Africa,2.04881,18.3667,Atlantic-Congo
 LIKWALA,Likwala,likw1239,Likwala,kwc,Africa,-0.48981,16.5967,Atlantic-Congo
 LILIKO,Liliko,lika1243,Liko,lik,Africa,2.13777,27.6088,Atlantic-Congo
 LIMBUM,Limbum,limb1268,Limbum,lmp,Africa,6.58608,10.9802,Atlantic-Congo
-LINGALA_2,Lingala 2,ling1263,Lingala,lin,Africa,1.40324,19.7829,Atlantic-Congo
-LINGALA,Lingala,ling1263,Lingala,lin,Africa,1.40324,19.7829,Atlantic-Congo
+LINGALA_2,Lingala 2,ling1263,Kinshasa Lingala,lin,Africa,-4.409174,15.28532,Atlantic-Congo
+LINGALA,Lingala,ling1263,Kinshasa Lingala,lin,Africa,-4.409174,15.28532,Atlantic-Congo
 LINGOMBE,Lingombe,ngom1268,Ngombe (Democratic Republic of Congo),ngc,Africa,1.45357,20.14148,Atlantic-Congo
 LIOUESSO_BOMITABA,Liouesso Bomitaba,bomi1238,Bomitaba,zmx,Africa,1.70044,17.3733,Atlantic-Congo
 LIUWA,Liuwa,sima1258,Simaa,sie,Africa,-15.7434,22.6455,Atlantic-Congo
@@ -723,7 +723,7 @@ NDEMLI,Ndemli,ndem1249,Ndemli,nml,Africa,4.58061,10.2197,Atlantic-Congo
 NDE,Nde,nden1250,Nde-Nsele-Nta,ndd,Africa,6.17426,8.49836,Atlantic-Congo
 NDE_BUKWOK,Nde Bukwok,ndak1242,Ndaktup,ncp,Africa,6.7,11.03,Atlantic-Congo
 NDE_YULANA,Nde Yulana,ndak1242,Ndaktup,ncp,Africa,6.7,11.03,Atlantic-Congo
-NDEBELE,Ndebele,sout2808,Sumayela Ndebele,nbl,Africa,-25.6272,29.048,Atlantic-Congo
+NDEBELE,Ndebele,sout2808,Sumayela Ndebele,,Africa,-25.6272,29.048,Atlantic-Congo
 NDENDEULE,Ndendeule,nden1249,Ndendeule,dne,Africa,-10.4203,36.0105,Atlantic-Congo
 NDENGELEKO,Ndengeleko,nden1248,Ndengereko,ndg,Africa,-7.54628,38.958,Atlantic-Congo
 NDJABI,Ndjabi,njeb1242,Njebi,nzb,Africa,-2.18115,12.7063,Atlantic-Congo
@@ -1068,7 +1068,7 @@ ZOOMBO_4,Zoombo 4,koon1244,South-Central Kikongo,kng,Africa,-5.57722,14.4771,Atl
 ZULU_2,Zulu 2,zulu1248,Zulu,zul,Africa,-28.9,30.2,Atlantic-Congo
 ZULU_NKANDLA,Zulu Nkandla,zulu1248,Zulu,zul,Africa,-28.9,30.2,Atlantic-Congo
 ZULU,Zulu,zulu1248,Zulu,zul,Africa,-28.9,30.2,Atlantic-Congo
-BIJOGO,Bijogo,bidy1244,Kangaki-Kagbaaga-Kajoko Bidyogo,bjg,Africa,11.1097,-16.1497,Atlantic-Congo
+BIJOGO,Bijogo,bidy1244,Kanyaki-Kagbaaga-Kajoko Bidyogo,bjg,Africa,11.1097,-16.1497,Atlantic-Congo
 ABUA,Abua,abua1244,Abua,abn,Africa,4.83057,6.61492,Atlantic-Congo
 ALEGE,Alege,aleg1238,Alege,alf,Africa,6.59423,9.00394,Atlantic-Congo
 ANAANG,Anaang,anaa1238,Anaang,anw,Africa,4.94832,7.57969,Atlantic-Congo
@@ -1349,7 +1349,7 @@ GEN,Gen,genn1243,Gen,gej,Africa,6.25971,1.67727,Atlantic-Congo
 GENYANGA,Genyanga,giny1241,Ginyanga,ayg,Africa,8.2327,0.98348,Atlantic-Congo
 GONJA,Gonja,gonj1241,Gonja,gjn,Africa,8.48801,-0.72757,Atlantic-Congo
 HILL_GUANG,Hill Guang,guaa1238,Gua,gwx,Africa,6.52106,0.16932,Atlantic-Congo
-IKPANA,Ikpana,logb1245,Logba,lgq,Africa,6.92838,0.43068,Atlantic-Congo
+IKPANA,Ikpana,logb1245,Ikpana,lgq,Africa,6.92838,0.43068,Atlantic-Congo
 IKPOSO,Ikposo,ikpo1238,Ikposo,kpo,Africa,7.44776,0.83312,Atlantic-Congo
 KOTAFON_GBE,Kotafon Gbe,kota1272,Kotafon Gbe,kqk,Africa,6.64027,1.72346,Atlantic-Congo
 KRACHI,Krachi,krac1238,Krache,kye,Africa,7.93475,0.01925,Atlantic-Congo
@@ -1374,7 +1374,7 @@ TWI_FANTE,Twi Fante,akan1250,Akan,aka,Africa,6.34756,-1.33254,Atlantic-Congo
 WUDU,Wudu,wudu1238,Wudu,wud,Africa,7.57619,1.53522,Atlantic-Congo
 EAST_LIMBA,East Limba,east2387,East Limba,lma,Africa,9.71107,-11.7496,Atlantic-Congo
 MBRE,Mbre,mbre1244,Mbre,mka,Africa,8.20929,-5.72944,Atlantic-Congo
-BAGA_BINARI,Baga Binari,baga1275,Baga Mboteni-Binari,bcg,Africa,10.5271,-14.6111,Atlantic-Congo
+BAGA_BINARI,Baga Binari,baga1275,Pukur,bcg,Africa,10.5271,-14.6111,Atlantic-Congo
 BAGA_MADURI,Baga Maduri,baga1270,Baga Manduri,bmd,Africa,10.76747,-14.60521,Atlantic-Congo
 BAGA_SITEMU,Baga Sitemu,baga1272,Baga Sitemu,bsp,Africa,10.4793,-14.4756,Atlantic-Congo
 BOM_SIERRA_LEONE,Bom Sierra Leone,bomk1234,Bom-Kim,bmf,Africa,9.27518,-11.59696,Atlantic-Congo
@@ -1386,7 +1386,7 @@ LANDOMA,Landoma,land1256,Landoma,ldm,Africa,10.8753,-14.0895,Atlantic-Congo
 MMANI,Mmani,bull1247,Bullom So,buy,Africa,9.0,-13.16,Atlantic-Congo
 SHERBRO,Sherbro,sher1258,Sherbro,bun,Africa,7.77585,-12.7405,Atlantic-Congo
 THEMNE,Themne,timn1235,Timne,tem,Africa,8.90294,-12.3331,Atlantic-Congo
-BAGA_MBOTENI,Baga Mboteni,baga1275,Baga Mboteni-Binari,bcg,Africa,10.5271,-14.6111,Atlantic-Congo
+BAGA_MBOTENI,Baga Mboteni,baga1275,Pukur,bcg,Africa,10.5271,-14.6111,Atlantic-Congo
 BAGIRMI_FULFULDE,Bagirmi Fulfulde,bagi1244,Bagirmi Fulfulde,fui,Africa,8.81656,18.3467,Atlantic-Congo
 BAINOUK_GUNYAAMOLO,Bainouk Gunyaamolo,bain1261,Bainouk-Gunyaamolo-Gutobor,bcz,Africa,12.8672,-16.229,Atlantic-Congo
 BAINOUNK_GUJAHER,Bainounk Gujaher,bain1259,Bainounk-Gujaher,bab,Africa,12.3128,-16.0586,Atlantic-Congo
@@ -2042,7 +2042,7 @@ LAGWAN,Lagwan,lagw1237,Lagwan,kot,Africa,11.5592,14.9884,Afro-Asiatic
 LAMANG_HITKALANCHI,Lamang Hitkalanchi,lama1288,Lamang,hia,Africa,11.0243,13.7362,Afro-Asiatic
 MADA_CAMEROON,Mada Cameroon,mada1293,Mada (Cameroon),mxu,Africa,10.8806,14.1142,Afro-Asiatic
 MAFA,Mafa,mafa1239,Mafa,maf,Africa,10.943,13.8181,Afro-Asiatic
-MAKARY_KOTOKO,Makary Kotoko,mpad1242,Mpade,mpi,Africa,12.4609,14.5833,Afro-Asiatic
+MAKARY_KOTOKO,Makary Kotoko,mpad1242,Mpade,mpi,Africa,12.561391,14.446893,Afro-Asiatic
 MALGBE,Malgbe,malg1250,Malgbe,mxf,Africa,12.5342,14.8475,Afro-Asiatic
 MARGI,Margi,marg1265,Marghi Central,mrt,Africa,10.93854,13.0521,Afro-Asiatic
 MATAL,Matal,mata1306,Matal,mfh,Africa,10.9284,14.0474,Afro-Asiatic
@@ -2097,7 +2097,7 @@ DAHALO_2,Dahalo 2,daha1245,Dahalo,dal,Africa,-2.1843,40.37,Afro-Asiatic
 MAJI,Maji,dizi1235,Dizin,mdx,Africa,6.1405,35.5763,Dizoid
 NAO,Nao,nayi1243,Nayi,noz,Africa,6.88202,36.3813,Dizoid
 SHEKO,Sheko,shek1245,Sheko,she,Africa,7.05022,35.2826,Dizoid
-BAREIN,Barein,bare1279,Barain,bva,Africa,11.1168,18.0764,Afro-Asiatic
+BAREIN,Barein,bare1279,Barain,bva,Africa,10.970124,17.911727,Afro-Asiatic
 BIDIYA,Bidiya,bidi1241,Bidiyo,bid,Africa,11.9204,18.8065,Afro-Asiatic
 BIRGIT,Birgit,birg1239,Birgit,btf,Africa,12.0228,19.8182,Afro-Asiatic
 DANGALEAT,Dangaleat,dang1274,Dangaleat,daa,Africa,12.1517,18.385,Afro-Asiatic
@@ -2282,7 +2282,7 @@ MODERN_MANDAIC,Modern Mandaic,nucl1706,Mandaic,mid,Eurasia,31.3443,48.8128,Afro-
 MOROCCAN_ARABIC,Moroccan Arabic,moro1292,Moroccan Arabic,ary,Africa,32.5,-7.5,Afro-Asiatic
 MOROCCAN_ARABIC_2,Moroccan Arabic 2,moro1292,Moroccan Arabic,ary,Africa,32.5,-7.5,Afro-Asiatic
 NAJDI_ARABIC,Najdi Arabic,najd1235,Najdi Arabic,ars,Eurasia,30.3371,42.1773,Afro-Asiatic
-NEO_ARAMAIC,Neo Aramaic,lish1245,Lishanid Noshan,aij,Eurasia,44.065281,36.213298,Afro-Asiatic
+NEO_ARAMAIC,Neo Aramaic,lish1245,Lishanid Noshan,aij,Eurasia,36.213298,44.065281,Afro-Asiatic
 NEO_MANDAIC_KHORRAMSHAHR,Neo Mandaic Khorramshahr,nucl1706,Mandaic,mid,Eurasia,31.3443,48.8128,Afro-Asiatic
 NIGERIAN_ARABIC,Nigerian Arabic,chad1249,Chadian Arabic,shu,Africa,14.67,13.5,Afro-Asiatic
 NORTH_MESOPOTAMIAN_ARABIC,North Mesopotamian Arabic,nort3142,North Mesopotamian Arabic,ayp,Eurasia,36.2986,42.0047,Afro-Asiatic
@@ -2701,7 +2701,7 @@ DEZFULI,Dezfuli,dezf1238,Dezfuli-Shushtari,def,Eurasia,32.374,48.907,Indo-Europe
 DIGOR_OSSETIAN,Digor Ossetian,osse1243,Modern Ossetic,,Eurasia,42.98,44.61,Indo-European
 DIR_PASHTO,Dir Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 EASTERN_FARSI,Eastern Farsi,dari1249,Dari,prs,Eurasia,31.0405,67.3593,Indo-European
-GAZI,Gazi,gazi1243,Gazi,gzi,Eurasia,34.0357,49.4553,Indo-European
+GAZI,Gazi,gazi1243,Gazic,gzi,Eurasia,34.0357,49.4553,Indo-European
 GILAKI,Gilaki,gila1241,Gilaki,glk,Eurasia,37.1344,49.8359,Indo-European
 GURANI,Gurani,gura1251,Gurani,hac,Eurasia,36.8377,44.4956,Indo-European
 HANGU_PASHTO,Hangu Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
@@ -2715,25 +2715,25 @@ KANDAHAR_PASHTO,Kandahar Pashto,sout2649,Southern Pashto,pbt,Eurasia,37.17,68.25
 KARAK_PASHTO,Karak Pashto,cent1973,Central Pashto,pst,Eurasia,31.9153,69.4529,Indo-European
 KARINGANI,Karingani,kari1303,Karingani-Kalasuri-Khoynarudi,kgn,Eurasia,38.5656,47.4329,Indo-European
 KIRMANJKI,Kirmanjki,kirm1248,Kirmanjki,kiu,Eurasia,39.1636,39.4004,Indo-European
-KORESH_E_ROSTAM,Koresh E Rostam,kore1279,Khoresh-e Rostam,okh,Eurasia,37.794,44.895,Indo-European
+KORESH_E_ROSTAM,Koresh E Rostam,kore1279,Karanic,okh,Eurasia,37.794,44.895,Indo-European
 KUMZARI,Kumzari,kumz1235,Kumzari,zum,Eurasia,26.1602,56.4202,Indo-European
 KURDISH_CENTRAL,Kurdish Central,cent1972,Central Kurdish,ckb,Eurasia,35.6539,45.8077,Indo-European
 KURDISH_KURMANJI,Kurdish Kurmanji,nort2641,Northern Kurdish,kmr,Eurasia,37.0,43.0,Indo-European
 LAKKI_MARWAT_PASHTO,Lakki Marwat Pashto,cent1973,Central Pashto,pst,Eurasia,31.9153,69.4529,Indo-European
-LARESTANI,Larestani,lari1253,Lari,lrl,Eurasia,27.6436,54.63449,Indo-European
+LARESTANI,Larestani,lari1253,Larestani,lrl,Eurasia,27.6436,54.63449,Indo-European
 LASGERDI,Lasgerdi,lasg1238,Lasgerdi,lsa,Eurasia,35.40153,52.99868,Indo-European
 LURI,Luri,sout2647,Southern Luri,luz,Eurasia,30.4669,50.8382,Indo-European
 MADYAN_PASHTO,Madyan Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 MALLAGORI_PASHTO,Mallagori Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 MARDAN_PASHTO,Mardan Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 MAZANDERANI,Mazanderani,maza1291,Mazanderani,mzn,Eurasia,36.241,52.3009,Indo-European
-MEYMAI,Meymai,khun1255,Khunsari,kfm,Eurasia,36.6963,49.3742,Indo-European
+MEYMAI,Meymai,khun1255,Khunsaric,kfm,Eurasia,36.6963,49.3742,Indo-European
 MINGORA_PASHTO,Mingora Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 MIRAN_SHAH_PASHTO,Miran Shah Pashto,cent1973,Central Pashto,pst,Eurasia,31.9153,69.4529,Indo-European
 MOHMAND_PASHTO,Mohmand Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 MUNJANI,Munjani,munj1244,Munji,mnj,Eurasia,35.9321,70.9404,Indo-European
-NATANZI,Natanzi,nata1252,Natanzi,ntz,Eurasia,33.4593,51.9538,Indo-European
-NAYINI,Nayini,nayi1242,Nayini,nyq,Eurasia,34.2212,53.521,Indo-European
+NATANZI,Natanzi,nata1252,Natanzic,ntz,Eurasia,33.4593,51.9538,Indo-European
+NAYINI,Nayini,nayi1242,Nayinic,nyq,Eurasia,34.2212,53.521,Indo-European
 NINGRAHAR_PASHTO,Ningrahar Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 NORTHERN_PASHTO,Northern Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 OGHI_PASHTO,Oghi Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
@@ -2754,7 +2754,7 @@ SHIMSAL_WAKHI,Shimsal Wakhi,wakh1245,Wakhi,wbl,Eurasia,37.1768,73.9777,Indo-Euro
 SHINWARI_PASHTO,Shinwari Pashto,nort2646,Northern Pashto,pbu,Eurasia,34.0,71.33,Indo-European
 SHUGHNI,Shughni,shug1248,Shughni,sgh,Eurasia,37.5018,71.7925,Indo-European
 SIVANDI,Sivandi,siva1239,Sivandi,siy,Eurasia,30.08,52.92,Indo-European
-SORKHEI,Sorkhei,sork1239,Sorkhei,sqo,Eurasia,35.45652,53.21897,Indo-European
+SORKHEI,Sorkhei,sork1239,Sorkhei-Aftari,sqo,Eurasia,35.45652,53.21897,Indo-European
 SOUTHERN_BALOCHI,Southern Balochi,sout2642,Southern Balochi,bcc,Eurasia,26.0,64.0,Indo-European
 SOUTHERN_KURDISH,Southern Kurdish,sout2640,Southern Kurdish,sdh,Eurasia,32.8977,46.5976,Indo-European
 SOUTHWESTERN_FARS,Southwestern Fars,sout2645,Fars Dialects,fay,Eurasia,29.746,52.267,Indo-European
@@ -2775,7 +2775,7 @@ ZAKHA_KHEL_AFRIDI_PASHTO,Zakha Khel Afridi Pashto,nort2646,Northern Pashto,pbu,E
 ZAZAKI,Zazaki,diml1238,Dimli,diq,Eurasia,38.6147,39.6388,Indo-European
 EASTERN_KATIVIRI,Eastern Kativiri,kati1270,Kati,bsh,Eurasia,35.4145,70.9826,Indo-European
 PRASUNI,Prasuni,pras1239,Prasuni,prn,Eurasia,35.1731,70.8004,Indo-European
-SHEKHANI,Shekhani,kamv1242,Kamviri,xvi,Eurasia,30.0,70.0,Indo-European
+SHEKHANI,Shekhani,kamv1242,Kamviri,xvi,Eurasia,35.409908,71.338778,Indo-European
 WAIGALI,Waigali,waig1243,Waigali,wbk,Eurasia,35.0358,70.9761,Indo-European
 PROTO_INDO_EUROPEAN,Proto Indo European,,,,,,,
 PROTO_INDO_EUROPEAN_2,Proto Indo European 2,,,,,,,
@@ -2905,7 +2905,7 @@ BURIAT_MONGOLIA,Buriat Mongolia,mong1330,Mongolia Buriat,bxm,Eurasia,48.7686,109
 BURIAT_RUSSIA,Buriat Russia,russ1264,Russia Buriat,bxr,Eurasia,50.8533,105.564,Mongolic-Khitan
 DAUR,Daur,daur1238,Dagur,dta,Eurasia,48.0,124.0,Mongolic-Khitan
 KALAQIN,Kalaqin,peri1253,Peripheral Mongolian,mvf,Eurasia,42.4208,110.157,Mongolic-Khitan
-KALMYK,Kalmyk,kalm1243,Oirad-Kalmyk,xal,Eurasia,46.566667,45.316667,Mongolic-Khitan
+KALMYK,Kalmyk,kalm1243,Oirad-Kalmyk-Darkhat,xal,Eurasia,46.566667,45.316667,Mongolic-Khitan
 KANGJIA,Kangjia,kang1281,Kangjia,kxs,Eurasia,35.043,101.254,Mongolic-Khitan
 KHAMNIGAN_MONGOL,Khamnigan Mongol,,,,,,,
 MOGHOL,Moghol,mogh1245,Mogholi,mhj,Eurasia,34.2504,62.2802,Mongolic-Khitan
@@ -2941,27 +2941,27 @@ UILTA,Uilta,orok1265,Orok,oaa,Eurasia,49.3639,143.128,Tungusic
 ULCHA,Ulcha,ulch1241,Ulch,ulc,Eurasia,51.8521,140.29,Tungusic
 XIBE,Xibe,xibe1242,Xibe,sjo,Eurasia,43.5854,81.0034,Tungusic
 ALTAI,Altai,sout2694,Southern Altai,alt,Eurasia,50.1347,86.8705,Turkic
-ASADLI_KHORASANI,Asadli Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+ASADLI_KHORASANI,Asadli Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 AZERBAIJANI_NORTH,Azerbaijani North,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic
 AZERBAIJANI_NORTH_2,Azerbaijani North 2,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic
 AZERBAIJANI_SOUTHERN,Azerbaijani Southern,sout2697,South Azerbaijani,azb,Eurasia,36.5137,48.4302,Turkic
 BASHKIR,Bashkir,bash1264,Bashkir,bak,Eurasia,53.5967,56.5594,Turkic
 CHAGATAI,Chagatai,chag1247,Chagatai,chg,Eurasia,38.21146,57.88758,Turkic
-CHARAM_SARJAM_KHORASANI,Charam Sarjam Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+CHARAM_SARJAM_KHORASANI,Charam Sarjam Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 CHUVASH,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.487,47.163,Turkic
 CRIMEAN_TATAR,Crimean Tatar,crim1257,Crimean Tatar,crh,Eurasia,45.0,34.08,Turkic
 CRIMEAN_TURKISH,Crimean Turkish,crim1257,Crimean Tatar,crh,Eurasia,45.0,34.08,Turkic
-DARA_GAZ_KHORASANI_1,Dara Gaz Khorasani 1,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-DARA_GAZ_KHORASANI_2,Dara Gaz Khorasani 2,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+DARA_GAZ_KHORASANI_1,Dara Gaz Khorasani 1,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+DARA_GAZ_KHORASANI_2,Dara Gaz Khorasani 2,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 DOLGAN,Dolgan,dolg1241,Dolgan,dlg,Eurasia,71.1083,94.2936,Turkic
-DOUGHAI_KHORASANI,Doughai Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+DOUGHAI_KHORASANI,Doughai Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 GAGAUZ,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.5988,28.0277,Turkic
-GUJGI_KHORASANI,Gujgi Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-HARW_E_OLYA_KHORASANI,Harw E Olya Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-HOKM_ABAD_KHORASANI,Hokm Abad Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+GUJGI_KHORASANI,Gujgi Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+HARW_E_OLYA_KHORASANI,Harw E Olya Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+HOKM_ABAD_KHORASANI,Hokm Abad Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 ILI_TURKI,Ili Turki,ilit1241,Ili Turki,ili,Eurasia,44.0089,80.4957,Turkic
-JOGHATAY_KHORASANI,Joghatay Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-JONK_KHORASANI,Jonk Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+JOGHATAY_KHORASANI,Joghatay Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+JONK_KHORASANI,Jonk Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 KARACHAY_BALKAR,Karachay Balkar,kara1465,Karachay-Balkar,krc,Eurasia,43.565,42.2606,Turkic
 KARAIM,Karaim,kara1464,Karaim,kdr,Eurasia,54.5534,25.1054,Turkic
 KARAKALPAK,Karakalpak,kara1467,Kara-Kalpak,kaa,Eurasia,39.98,63.3223,Turkic
@@ -2971,26 +2971,26 @@ KHAKAS,Khakas,khak1248,Khakas,kjh,Eurasia,50.7393,107.169,Turkic
 KHALAJ_IRAN,Khalaj Iran,turk1303,Turkic Khalaj,klj,Eurasia,34.4224,50.3222,Turkic
 KUMYK,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
 KYRGYZ,Kyrgyz,kirg1245,Kirghiz,kir,Eurasia,42.0,74.0,Turkic
-LANGAR_KHORASANI,Langar Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-LOTF_ABAD_KHORASANI,Lotf Abad Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-MARESHK_KHORASANI,Mareshk Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+LANGAR_KHORASANI,Langar Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+LOTF_ABAD_KHORASANI,Lotf Abad Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+MARESHK_KHORASANI,Mareshk Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 MIDDLE_CHULYM,Middle Chulym,chul1246,Chulym Turkic,clw,Eurasia,54.3209,89.5541,Turkic
 MISHER_TATAR,Misher Tatar,tata1255,Tatar,tat,Eurasia,55.0,50.0,Turkic
 NOGAI,Nogai,noga1249,Nogai,nog,Eurasia,43.5917,46.6618,Turkic
 OLD_TURKIC,Old Turkic,oldt1247,Old Turkish,otk,Eurasia,37.0,59.0,Bookkeeping
-PIR_KOMAJ_KHORASANI,Pir Komaj Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-QARA_BAGH_KHORASANI,Qara Bagh Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+PIR_KOMAJ_KHORASANI,Pir Komaj Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+QARA_BAGH_KHORASANI,Qara Bagh Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 QASHQAI,Qashqai,qash1240,Qashqa'i,qxq,Eurasia,28.25931,52.83349,Turkic
-QUCHAN_KHORASANI,Quchan Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-RUH_ABAD_KHORASANI,Ruh Abad Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+QUCHAN_KHORASANI,Quchan Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+RUH_ABAD_KHORASANI,Ruh Abad Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 SAKHA,Sakha,yaku1245,Sakha,sah,Eurasia,61.6974,133.98,Turkic
 SALAR,Salar,sala1264,Salar,slr,Eurasia,35.5457,102.819,Turkic
 SALAR_2,Salar 2,sala1264,Salar,slr,Eurasia,35.5457,102.819,Turkic
-SHEYH_TEYMUR_KHORASANI,Sheyh Teymur Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-SHIRWAN_KHORASANI,Shirwan Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+SHEYH_TEYMUR_KHORASANI,Sheyh Teymur Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+SHIRWAN_KHORASANI,Shirwan Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 SHOR,Shor,shor1247,Shor,cjs,Eurasia,52.3261,88.4344,Turkic
-SHURAK_KHORASANI,Shurak Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
-SOLTAN_ABAD_KHORASANI,Soltan Abad Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+SHURAK_KHORASANI,Shurak Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
+SOLTAN_ABAD_KHORASANI,Soltan Abad Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 SOUTHERN_UZBEK,Southern Uzbek,sout2699,Southern Uzbek,uzs,Eurasia,36.6099,60.6907,Turkic
 TATAR,Tatar,tata1255,Tatar,tat,Eurasia,55.0,50.0,Turkic
 TEREKEME_AZERI,Terekeme Azeri,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic
@@ -3002,15 +3002,15 @@ TURKMEN_2,Turkmen 2,turk1304,Turkmen,tuk,Eurasia,37.0872,59.1757,Turkic
 TUVAN,Tuvan,tuvi1240,Tuvinian,tyv,Eurasia,51.7,94.36667,Turkic
 UYGHUR,Uyghur,uigh1240,Uighur,uig,Eurasia,43.88,87.38,Turkic
 UZBEK,Uzbek,nort2690,Northern Uzbek,uzn,Eurasia,40.886,69.211,Turkic
-ZEYARAT_KHORASANI,Zeyarat Khorasani,khor1269,Khorasani Turkish,kmz,Eurasia,36.4438,60.0277,Turkic
+ZEYARAT_KHORASANI,Zeyarat Khorasani,khor1269,Khorasan Turkic,kmz,Eurasia,36.4438,60.0277,Turkic
 KOLYMA_YUKAGIR,Kolyma Yukagir,sout2750,Southern Yukaghir,yux,Eurasia,64.218,154.375,Yukaghir
 YUKAGHIR_TUNDRA,Yukaghir Tundra,nort2745,Northern Yukaghir,ykg,Eurasia,70.498,157.853,Yukaghir
-GILYAK,Gilyak,gily1242,Nivkh,niv,Eurasia,52.59,140.681,Nivkh
-GILYAK_AMUR,Gilyak Amur,gily1242,Nivkh,niv,Eurasia,52.59,140.681,Nivkh
-GILYAK_EAST_SAKHALIN,Gilyak East Sakhalin,gily1242,Nivkh,niv,Eurasia,52.59,140.681,Nivkh
-GILYAK_NORTH_SAKHALIN,Gilyak North Sakhalin,gily1242,Nivkh,niv,Eurasia,52.59,140.681,Nivkh
-GILYAK_SOUTH_SAKHALIN,Gilyak South Sakhalin,gily1242,Nivkh,niv,Eurasia,52.59,140.681,Nivkh
-GILYAK_WEST_SAKHALIN,Gilyak West Sakhalin,gily1242,Nivkh,niv,Eurasia,52.59,140.681,Nivkh
+GILYAK,Gilyak,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
+GILYAK_AMUR,Gilyak Amur,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
+GILYAK_EAST_SAKHALIN,Gilyak East Sakhalin,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
+GILYAK_NORTH_SAKHALIN,Gilyak North Sakhalin,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
+GILYAK_SOUTH_SAKHALIN,Gilyak South Sakhalin,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
+GILYAK_WEST_SAKHALIN,Gilyak West Sakhalin,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
 ARIN,Arin,arin1243,Arin,xrn,Eurasia,57.0,93.0,Yeniseian
 ASSAN,Assan,assa1266,Assan,xss,Eurasia,56.0,94.0,Bookkeeping
 KET,Ket,kett1243,Ket,ket,Eurasia,63.7551,87.5466,Yeniseian
@@ -3083,7 +3083,7 @@ YONAMINE,Yonamine,kuni1268,Kunigami,xug,Eurasia,26.5911,128.068,Japonic
 YORON,Yoron,yoro1243,Yoron,yox,Eurasia,27.0407,128.428,Japonic
 KOREAN,Korean,kore1280,Korean,kor,Eurasia,37.5,128.0,Koreanic
 ABAZA,Abaza,abaz1241,Abaza,abq,Eurasia,44.25,42.0,Abkhaz-Adyge
-ABKHAZ,Abkhaz,abkh1244,Abkhazian,abk,Eurasia,43.056218,41.159115,Abkhaz-Adyge
+ABKHAZ,Abkhaz,abkh1244,Abkhaz,abk,Eurasia,43.056218,41.159115,Abkhaz-Adyge
 ADYGHE,Adyghe,adyg1241,Adyghe,ady,Eurasia,44.0,39.33,Abkhaz-Adyge
 KABARDIAN,Kabardian,kaba1278,Kabardian,kbd,Eurasia,43.5082,43.3918,Abkhaz-Adyge
 UBYKH,Ubykh,ubyk1235,Ubykh,uby,Eurasia,43.67,39.67,Abkhaz-Adyge
@@ -3270,7 +3270,7 @@ KHAPALU_BALTI,Khapalu Balti,balt1258,Balti,bft,Eurasia,34.4491,77.2859,Sino-Tibe
 KHARMANG_BALTI,Kharmang Balti,balt1258,Balti,bft,Eurasia,34.4491,77.2859,Sino-Tibetan
 KINNAURI,Kinnauri,kinn1249,Kinnauri,kfk,Eurasia,31.3688,78.3148,Sino-Tibetan
 KYIRONG,Kyirong,kyer1238,Kyerung,kgy,Eurasia,28.2922,85.4257,Sino-Tibetan
-LADAKHI,Ladakhi,lada1244,Leh-Kenhat,lbj,Eurasia,33.468,80.6013,Sino-Tibetan
+LADAKHI,Ladakhi,lada1244,Leh Ladakhi,lbj,Eurasia,33.468,80.6013,Sino-Tibetan
 LHASA_TIBETAN,Lhasa Tibetan,tibe1272,Tibetan,bod,Eurasia,28.3681,90.1872,Sino-Tibetan
 LHOMI,Lhomi,lhom1239,Lhomi,lhm,Eurasia,27.5948,87.7161,Sino-Tibetan
 LOWA,Lowa,lowa1242,Lowa,loy,Eurasia,29.0324,83.8959,Sino-Tibetan
@@ -3395,9 +3395,9 @@ KAYAH_LI_EASTERN,Kayah Li Eastern,east2342,Eastern Kayah,eky,Eurasia,19.8939,98.
 KAYAH_WESTERN,Kayah Western,west2409,Western Kayah,kyu,Eurasia,18.687,97.4877,Sino-Tibetan
 KAYAN,Kayan,kaya1315,Kayan Lahwi,pdu,Eurasia,19.5183,97.4138,Sino-Tibetan
 PROTO_KAREN,Proto Karen,,,,,,,
-CHUG,Chug,chug1252,Chug,cvg,Eurasia,27.418381,92.234687,Sino-Tibetan
+CHUG,Chug,chug1252,Duhumbi,cvg,Eurasia,27.4177713,92.2255891,Sino-Tibetan
 KORO_INDIA,Koro India,koro1316,Koro,jkr,Eurasia,27.214804,92.633011,Sino-Tibetan
-LISH,Lish,lish1235,Lish,lsh,Eurasia,27.371821,92.232987,Sino-Tibetan
+LISH,Lish,lish1235,Khispi,lsh,Eurasia,27.3688993,92.2394672,Sino-Tibetan
 SARTANG,Sartang,sart1249,Sartang,onp,Eurasia,27.375914,92.409383,Sino-Tibetan
 AIMOL,Aimol,aimo1244,Aimol,aim,Eurasia,24.6437,94.3556,Sino-Tibetan
 AMRI_KARBI,Amri Karbi,amri1238,Amri Karbi,ajz,Eurasia,26.024,91.482,Sino-Tibetan
@@ -3536,10 +3536,10 @@ NISI,Nisi,nyis1236,Nyishi-Hill Miri,njz,Eurasia,27.278263,93.675529,Sino-Tibetan
 NISI_TAGIN,Nisi Tagin,tagi1241,Tagin,tgj,Eurasia,27.986064,94.221711,Sino-Tibetan
 PROTO_TANI,Proto Tani,,,,,,,
 NORTHERN_TUJIA,Northern Tujia,nort2732,Northern Tujia,tji,Eurasia,29.3016,109.759,Sino-Tibetan
-BUGUN,Bugun,bugu1246,Bugun,bgg,Eurasia,27.204,92.367,Sino-Tibetan
-SHERDUKPEN,Sherdukpen,sher1257,Mey,sdp,Eurasia,27.0035,92.5799,Sino-Tibetan
-PUROIK,Puroik,sulu1241,Eastern Puroik,suv,Eurasia,27.6589,92.3557,Sino-Tibetan
-SULUNG,Sulung,sulu1241,Eastern Puroik,suv,Eurasia,27.6589,92.3557,Sino-Tibetan
+BUGUN,Bugun,bugu1246,Bugun,bgg,Eurasia,27.1929556,92.4713002,Sino-Tibetan
+SHERDUKPEN,Sherdukpen,sher1257,Sherdukpen,sdp,Eurasia,27.0035,92.5799,Sino-Tibetan
+PUROIK,Puroik,sulu1241,Eastern Puroik,suv,Eurasia,27.3153778,92.3840919,Sino-Tibetan
+SULUNG,Sulung,sulu1241,Eastern Puroik,suv,Eurasia,27.3153778,92.3840919,Sino-Tibetan
 BUNU,Bunu,buna1273,Bu-Nao Bunu,bwx,Eurasia,24.1025,107.711,Hmong-Mien
 CHANGPING_BIAO_MON,Changping Biao Mon,biao1256,Biao Mon,bmt,Eurasia,24.6451,113.469,Hmong-Mien
 CHENHU_SHE,Chenhu She,shee1238,She,shx,Eurasia,23.0399,114.814,Hmong-Mien
@@ -3632,7 +3632,7 @@ DEHONG,Dehong,tain1252,Tai Nüa,tdd,Eurasia,21.7837,99.722,Tai-Kadai
 DEHONG_TAI_NUEA,Dehong Tai Nuea,tain1252,Tai Nüa,tdd,Eurasia,21.7837,99.722,Tai-Kadai
 DIOI,Dioi,yoyy1238,Yoy,yoy,Eurasia,17.6215,104.785,Tai-Kadai
 DONGMEN_MULAM,Dongmen Mulam,mula1253,Mulam,mlm,Eurasia,24.8151,108.928,Tai-Kadai
-DONGYING_LINGAO,Dongying Lingao,ling1262,Lingao,onb,Eurasia,19.8634,109.971,Tai-Kadai
+DONGYING_LINGAO,Dongying Lingao,ling1262,Western Ong-Be,onb,Eurasia,19.885536,109.691664,Tai-Kadai
 FANGCUN_MAK,Fangcun Mak,makc1235,Mak (China),mkg,Eurasia,25.5946,107.726,Tai-Kadai
 FUSUI_CENTRAL_HONGSHUIHE_ZHUANG,Fusui Central Hongshuihe Zhuang,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.95,108.0,Tai-Kadai
 GUIGANG_CENTRAL_HONGSHUIHE_ZHUANG,Guigang Central Hongshuihe Zhuang,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.95,108.0,Tai-Kadai
@@ -3652,7 +3652,7 @@ LAMPANG_THAI,Lampang Thai,nort2740,Northern Thai,nod,Eurasia,18.857495,100.20739
 LAO,Lao,laoo1244,Lao,lao,Eurasia,19.0,102.46,Tai-Kadai
 LAOTIEN,Laotien,laoo1244,Lao,lao,Eurasia,19.0,102.46,Tai-Kadai
 LIANSHAN_CENTRAL_HONGSHUIHE_ZHUANG,Lianshan Central Hongshuihe Zhuang,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.95,108.0,Tai-Kadai
-LINCHENG_LINGAO,Lincheng Lingao,ling1262,Lingao,onb,Eurasia,19.8634,109.971,Tai-Kadai
+LINCHENG_LINGAO,Lincheng Lingao,ling1262,Western Ong-Be,onb,Eurasia,19.885536,109.691664,Tai-Kadai
 LONGAN_CENTRAL_HONGSHUIHE_ZHUANG,Longan Central Hongshuihe Zhuang,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.95,108.0,Tai-Kadai
 LONGZHOU_ZHUANG,Longzhou Zhuang,zuoj1238,Zuojiang Zhuang,zzj,Eurasia,22.4,106.9,Tai-Kadai
 LU,Lu,luuu1242,Lü,khb,Eurasia,21.0321,101.282,Tai-Kadai
@@ -3671,7 +3671,7 @@ MULAO,Mulao,mula1253,Mulam,mlm,Eurasia,24.8151,108.928,Tai-Kadai
 NINGMING_YONGNAN_ZHUANG,Ningming Yongnan Zhuang,yong1275,Yongnan Zhuang,zyn,Eurasia,22.8,108.0,Tai-Kadai
 NORTHERN_SHAN,Northern Shan,shan1277,Shan,shn,Eurasia,21.5995,98.0342,Tai-Kadai
 NUNG,Nung,nung1283,Nung (Viet Nam),nut,Eurasia,20.8965,104.286,Tai-Kadai
-ONG_BE,Ong Be,ling1262,Lingao,onb,Eurasia,19.8634,109.971,Tai-Kadai
+ONG_BE,Ong Be,ling1262,Western Ong-Be,onb,Eurasia,19.885536,109.691664,Tai-Kadai
 PO_AI,Po Ai,bouy1240,Bouyei,pcc,Eurasia,24.8484,106.187,Tai-Kadai
 PROTO_KAM_SUI,Proto Kam Sui,,,,,,,
 PROTO_KAM_SUI_2,Proto Kam Sui 2,,,,,,,
@@ -5423,7 +5423,7 @@ TUWARI,Tuwari,tuwa1242,Tuwari,tww,Papunesia,-4.80315,142.095,Walioic
 WALIO,Walio,nucl1453,Walio,wla,Papunesia,-4.41234,142.231,Walioic
 WOSWARI,Woswari,yawi1238,Yawiyo,ybx,Papunesia,-4.58133,142.112,Walioic
 YAWIYO,Yawiyo,yawi1238,Yawiyo,ybx,Papunesia,-4.58133,142.112,Walioic
-LEPKI,Lepki,lepk1238,Lepki,lpe,Papunesia,-4.1059,140.464,Lepki-Murkim
+LEPKI,Lepki,lepk1238,Lepki,lpe,Papunesia,-4.1059,140.464,Lepki-Murkim-Kembra
 ALFENDIO,Alfendio,nanu1240,Nanubae,afk,Papunesia,-4.71731,143.937,Arafundi
 ANDAI,Andai,anda1283,Andai,afd,Papunesia,-4.96449,143.637,Arafundi
 NANUBAE_IMAMERI,Nanubae Imameri,nanu1240,Nanubae,afk,Papunesia,-4.71731,143.937,Arafundi
@@ -5480,8 +5480,8 @@ LILAU,Lilau,lila1246,Lilau,lll,Papunesia,-4.35479,144.99,Bogia
 LILAU_2,Lilau 2,lila1246,Lilau,lll,Papunesia,-4.35479,144.99,Bogia
 MONUMBO,Monumbo,nucl1458,Monumbo,mxk,Papunesia,-4.2717,144.95,Bogia
 MORORI,Morori,moro1289,Marori,mok,Papunesia,-8.5692,140.688,Marori
-MILKI_MURKIM,Milki Murkim,murk1238,Murkim,rmh,Papunesia,-4.07548,140.913,Lepki-Murkim
-MOT_MURKIM,Mot Murkim,murk1238,Murkim,rmh,Papunesia,-4.07548,140.913,Lepki-Murkim
+MILKI_MURKIM,Milki Murkim,murk1238,Murkim,rmh,Papunesia,-4.07548,140.913,Lepki-Murkim-Kembra
+MOT_MURKIM,Mot Murkim,murk1238,Murkim,rmh,Papunesia,-4.07548,140.913,Lepki-Murkim-Kembra
 AGOB_DABU,Agob Dabu,agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,Pahoturi
 DIBOLUG,Dibolug,idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi
 JEISCH,Jeisch,yeii1239,Yei,jei,Papunesia,-7.87489,140.863,Yam
@@ -6135,7 +6135,7 @@ DJAMINDJUNG,Djamindjung,djam1255,Jaminjung-Ngaliwurru,djd,Australia,-15.0558,130
 GUDANJI,Gudanji,ngar1283,Ngarnka,nji,Australia,-17.42,134.73,Mirndi
 WAMBAYA,Wambaya,wamb1258,Wambayan,wmb,Australia,-17.496,135.683,Mirndi
 ALAWA,Alawa,alaw1244,Alawa,alh,Australia,-15.5458,134.282,Mangarrayi-Maran
-MANGARAYI,Mangarayi,mang1381,Mangarrayi,mpc,Australia,-14.8,138.5,Mangarrayi-Maran
+MANGARAYI,Mangarayi,mang1381,Mangarrayi,mpc,Australia,-14.8,133.5,Mangarrayi-Maran
 MARA,Mara,mara1385,Marra,mec,Australia,-14.7927,134.865,Mangarrayi-Maran
 WANDARANG,Wandarang,wand1263,Wandarang,wnd,Australia,-14.2996,135.705,Mangarrayi-Maran
 BURARRA,Burarra,bura1267,Burarra,bvr,Australia,-12.3061,134.365,Maningrida
@@ -6183,7 +6183,7 @@ GUYAMBAL,Guyambal,,,,,,,
 YUGAMBAL,Yugambal,yuga1244,Yugambal,yub,Australia,-27.803,153.082,Pama-Nyungan
 AGHU_THARRNGGALA,Aghu Tharrnggala,aghu1256,Aghu Tharnggalu (Retired),gtu,Australia,-15.0,144.0,Bookkeeping
 BAYALI,Bayali,baya1257,Bayali,bjy,Australia,-24.9793,151.699,Pama-Nyungan
-BIDJARA,Bidjara,bidy1243,Bidyara,bym,Australia,-25.555,146.147,Pama-Nyungan
+BIDJARA,Bidjara,bidy1243,Bidyara,bym,Australia,-25.192664,147.273359,Pama-Nyungan
 BIRI,Biri,biri1256,Biri,bzr,Australia,-20.1494,146.67,Pama-Nyungan
 BIRRI_AUSTRALIA,Birri Australia,biri1256,Biri,bzr,Australia,-20.1494,146.67,Pama-Nyungan
 DYAABUGAY,Dyaabugay,dyaa1242,Dyaabugay,dyy,Australia,-16.596,145.388,Pama-Nyungan
@@ -6287,10 +6287,10 @@ KARADJERI,Karadjeri,kara1476,Karadjeri,gbd,Australia,-18.6771,122.334,Pama-Nyung
 KOKATA,Kokata,koka1244,Kokata,ktd,Australia,-29.94,135.55,Pama-Nyungan
 KURRAMA,Kurrama,kurr1243,Kurrama,vku,Australia,-22.2134,117.51,Pama-Nyungan
 MANGGALILI,Manggalili,gupa1247,Gupapuyngu,guf,Australia,-12.2868,135.337,Pama-Nyungan
-MANTJILTJARA,Mantjiltjara,mart1256,Martu Wangka,mpj,Australia,-24.3194,121.954,Pama-Nyungan
+MANTJILTJARA,Mantjiltjara,mart1256,Martu Wangka,mpj,Australia,-23.350911655789,123.66842240336,Pama-Nyungan
 MARARBA,Mararba,gupa1247,Gupapuyngu,guf,Australia,-12.2868,135.337,Pama-Nyungan
 MARTUTHUNIRA,Martuthunira,mart1255,Martuthunira,vma,Australia,-20.9294,116.607,Pama-Nyungan
-MARTU_WANGKA,Martu Wangka,mart1256,Martu Wangka,mpj,Australia,-24.3194,121.954,Pama-Nyungan
+MARTU_WANGKA,Martu Wangka,mart1256,Martu Wangka,mpj,Australia,-23.350911655789,123.66842240336,Pama-Nyungan
 NGAANYATJARRA,Ngaanyatjarra,ngaa1240,Ngaanyatjarra,ntj,Australia,-25.7514,127.602,Pama-Nyungan
 NGADJUNMAYA,Ngadjunmaya,ngad1258,Ngadjunmaya,nju,Australia,-32.02447,124.46601,Pama-Nyungan
 NGALOOMA,Ngalooma,ngar1287,Ngarluma,nrl,Australia,-20.9235,117.203,Pama-Nyungan
@@ -6317,7 +6317,7 @@ YANANGO,Yanango,yann1237,Yan-nhangu,jay,Australia,-12.0853,134.877,Pama-Nyungan
 YANYUWA,Yanyuwa,yany1243,Yanyuwa,jao,Australia,-15.7621,136.055,Pama-Nyungan
 YINDJIBARNDI,Yindjibarndi,yind1247,Yindjibarndi,yij,Australia,-21.5379,117.001,Pama-Nyungan
 YOLNGUMATHA,Yolngumatha,dhan1270,Dhangu,dhg,Australia,-11.9493,135.752,Pama-Nyungan
-YULPARIJA,Yulparija,mart1256,Martu Wangka,mpj,Australia,-24.3194,121.954,Pama-Nyungan
+YULPARIJA,Yulparija,mart1256,Martu Wangka,mpj,Australia,-23.350911655789,123.66842240336,Pama-Nyungan
 MURRINH_PATHA_1,Murrinh Patha 1,murr1258,Murriny Patha,mwf,Australia,-14.74852,129.70152,Southern Daly
 MURRINH_PATHA_2,Murrinh Patha 2,murr1258,Murriny Patha,mwf,Australia,-14.74852,129.70152,Southern Daly
 NGANGIKURRUNGGURR,Ngangikurrunggurr,nang1259,Nangikurrunggurr,nam,Australia,-14.268,131.237,Southern Daly
@@ -6358,8 +6358,8 @@ YUPIK_SIRENIK,Yupik Sirenik,sire1246,Old Sirenik,ysr,Eurasia,64.5192,-173.925,Es
 YUPIK_CENTRAL_SIBERIAN_CHAPLINO,Yupik Central Siberian Chaplino,cent2128,Central Siberian Yupik,ess,Eurasia,63.4308,-170.272,Eskimo-Aleut
 AHTNA,Ahtna,ahte1237,Ahtena,aht,North America,61.7068,-144.889,Athabaskan-Eyak-Tlingit
 BEAVER,Beaver,beav1236,Beaver,bea,North America,56.7984,-120.352,Athabaskan-Eyak-Tlingit
-C_CARRIER,C Carrier,carr1249,Carrier,crx,North America,54.3768,-124.328,Athabaskan-Eyak-Tlingit
-CARRIER,Carrier,carr1249,Carrier,crx,North America,54.3768,-124.328,Athabaskan-Eyak-Tlingit
+C_CARRIER,C Carrier,carr1249,Central Carrier,crx,North America,54.3768,-124.328,Athabaskan-Eyak-Tlingit
+CARRIER,Carrier,carr1249,Central Carrier,crx,North America,54.3768,-124.328,Athabaskan-Eyak-Tlingit
 CHILCOTIN,Chilcotin,chil1280,Chilcotin,clc,North America,51.98952,-123.24458,Athabaskan-Eyak-Tlingit
 CHIPEWYAN,Chipewyan,chip1261,Chipewyan,chp,North America,58.98,-104.44,Athabaskan-Eyak-Tlingit
 CHIRICAHUA,Chiricahua,mesc1238,Mescalero-Chiricahua Apache,apm,North America,33.1291,-105.566,Athabaskan-Eyak-Tlingit
@@ -6367,8 +6367,8 @@ DOGRIB,Dogrib,dogr1252,Dogrib,dgr,North America,62.3823,-114.193,Athabaskan-Eyak
 GALICE,Galice,gali1261,Galice,gce,North America,45.3914,-120.75,Athabaskan-Eyak-Tlingit
 HAN,Han,hann1241,Han,haa,North America,64.5002,-140.352,Athabaskan-Eyak-Tlingit
 HARE,Hare,nort2942,North Slavey,scs,North America,63.2671,-123.641,Athabaskan-Eyak-Tlingit
-HUPA,Hupa,hupa1239,Hupa,hup,North America,41.0982,-123.68,Athabaskan-Eyak-Tlingit
-HUPA_2,Hupa 2,hupa1239,Hupa,hup,North America,41.0982,-123.68,Athabaskan-Eyak-Tlingit
+HUPA,Hupa,hupa1239,Hupa-Chilula,hup,North America,41.0982,-123.68,Athabaskan-Eyak-Tlingit
+HUPA_2,Hupa 2,hupa1239,Hupa-Chilula,hup,North America,41.0982,-123.68,Athabaskan-Eyak-Tlingit
 ILIAMNA_TANAINA,Iliamna Tanaina,tana1289,Tanaina,tfn,North America,60.4712,-150.759,Athabaskan-Eyak-Tlingit
 INLAND_TANAINA,Inland Tanaina,tana1289,Tanaina,tfn,North America,60.4712,-150.759,Athabaskan-Eyak-Tlingit
 JICARILLA_APACHE,Jicarilla Apache,jica1244,Jicarilla Apache,apj,North America,36.8079,-107.007,Athabaskan-Eyak-Tlingit
@@ -6381,7 +6381,7 @@ KUTCHIN,Kutchin,gwic1235,Gwich'in,gwi,North America,67.4307,-142.963,Athabaskan-
 LIPAN,Lipan,lipa1241,Lipan Apache,apl,North America,33.2748,-105.819,Athabaskan-Eyak-Tlingit
 LOWER_TANANA,Lower Tanana,lowe1425,Lower Tanana,taa,North America,64.8834,-149.451,Athabaskan-Eyak-Tlingit
 MANTASTA_AHTENA,Mantasta Ahtena,ahte1237,Ahtena,aht,North America,61.7068,-144.889,Athabaskan-Eyak-Tlingit
-MATTOLE,Mattole,matt1238,Mattole,mvb,North America,40.4321,-122.863,Athabaskan-Eyak-Tlingit
+MATTOLE,Mattole,matt1238,Mattole-Bear River,mvb,North America,40.4321,-122.863,Athabaskan-Eyak-Tlingit
 NAVAHO,Navaho,nava1243,Navajo,nav,North America,36.2106,-110.082,Athabaskan-Eyak-Tlingit
 NAVAJO,Navajo,nava1243,Navajo,nav,North America,36.2106,-110.082,Athabaskan-Eyak-Tlingit
 OUTER_INLET_TANAINA,Outer Inlet Tanaina,tana1289,Tanaina,tfn,North America,60.4712,-150.759,Athabaskan-Eyak-Tlingit
@@ -6414,7 +6414,7 @@ FOX,Fox,mesk1242,Meskwaki,sac,North America,44.0,-89.0,Algic
 GROS_VENTRE,Gros Ventre,gros1243,Gros Ventre,ats,North America,48.4834,-108.738,Algic
 KASKASKIA_ILLINOIS,Kaskaskia Illinois,miam1252,Miami,mia,North America,40.0,-90.0,Algic
 KICKAPOO,Kickapoo,kick1244,Kickapoo,kic,North America,41.655145,-89.03034,Algic
-MAHICAN,Mahican,mahi1248,Mahican,mjy,North America,43.903,-74.266,Algic
+MAHICAN,Mahican,mahi1248,Mohican,mjy,North America,43.903,-74.266,Algic
 MENOMINEE,Menominee,meno1252,Menominee,mez,North America,44.9794,-88.6395,Algic
 MIAMI,Miami,miam1252,Miami,mia,North America,40.0,-90.0,Algic
 MICHIF,Michif,mich1243,Michif,crg,North America,49.1681,-99.9119,Algic
@@ -6582,7 +6582,7 @@ CAHUILLA,Cahuilla,cahu1264,Cahuilla,chl,North America,33.5324,-116.691,Uto-Aztec
 CUPENO,Cupeno,cupe1243,Cupeño,cup,North America,33.3148,-116.515,Uto-Aztecan
 GABRIELINO,Gabrielino,serr1255,Serrano,ser,North America,33.9479,-116.772,Uto-Aztecan
 KITANEMUK,Kitanemuk,,,,,,,
-LUISENO,Luiseno,luis1253,Luiseno,lui,North America,33.3184,-116.939,Uto-Aztecan
+LUISENO,Luiseno,luis1253,Luiseno-Juaneño,lui,North America,33.3184,-116.939,Uto-Aztecan
 SERRANO,Serrano,serr1255,Serrano,ser,North America,33.9479,-116.772,Uto-Aztecan
 TUBATULABAL,Tubatulabal,tuba1278,Tübatulabal,tub,North America,35.327,-117.163,Uto-Aztecan
 EL_NAYAR_CORA,El Nayar Cora,elna1235,El Nayar Cora,crn,North America,22.4099,-104.467,Uto-Aztecan
@@ -6721,7 +6721,7 @@ KARANKAWA,Karankawa,kara1289,Karankawa,zkk,North America,28.9082,-96.4856,Karank
 KAROK,Karok,karo1304,Karok,kyh,North America,41.8228,-123.315,Karok
 WASHO,Washo,wash1253,Washo,was,North America,38.8184,-119.64,Washo
 WAPPO,Wappo,wapp1239,Wappo,wao,North America,38.25,-122.5,Yuki-Wappo
-YUKI,Yuki,yuki1243,Yuki,yuk,North America,39.8389,-123.296,Yuki-Wappo
+YUKI,Yuki,yuki1243,Northern Yukian,yuk,North America,39.8389,-123.296,Yuki-Wappo
 SALINAN,Salinan,sali1253,Salinan,sln,North America,37.6646,-121.718,Salinan
 ESSELEN,Esselen,esse1238,Esselen,esq,North America,36.5473,-121.867,Esselen
 CHUMASH_BARBARENO,Chumash Barbareno,barb1263,Barbareño,boi,North America,34.462,-119.699,Chumashan
@@ -6778,8 +6778,8 @@ PAME_DE_JILIAPAN_1767,Pame De Jiliapan 1767,sout2999,Southern Pame,pmz,North Ame
 PAME_DE_PALUCA_1958,Pame De Paluca 1958,sout2999,Southern Pame,pmz,North America,20.966,-99.334,Otomanguean
 PAME_MERIDIONAL,Pame Meridional,sout2999,Southern Pame,pmz,North America,20.966,-99.334,Otomanguean
 TAMASOPO_PAME,Tamasopo Pame,nort2984,Northern Pame,pmq,North America,22.0968,-99.6434,Otomanguean
-CHOCHO_OCOTLAN,Chocho Ocotlan,choc1279,Chocholtec,coz,North America,17.666,-97.2388,Otomanguean
-CHOCHOTEC,Chochotec,choc1279,Chocholtec,coz,North America,17.666,-97.2388,Otomanguean
+CHOCHO_OCOTLAN,Chocho Ocotlan,choc1279,Chochotec,coz,North America,17.666,-97.2388,Otomanguean
+CHOCHOTEC,Chochotec,choc1279,Chochotec,coz,North America,17.666,-97.2388,Otomanguean
 HUAUTLA_DE_JIMENEZ,Huautla De Jimenez,huau1238,Huautla Mazatec,mau,North America,18.2556,-96.724,Otomanguean
 IXCATEC,Ixcatec,ixca1245,Ixcatec,ixc,North America,17.7597,-97.1242,Otomanguean
 JALAPA_DE_DIAZ,Jalapa De Diaz,jala1237,Jalapa De Díaz Mazatec,maj,North America,18.0803,-96.4977,Otomanguean
@@ -7041,8 +7041,8 @@ EPENA_SAIJA,Epena Saija,epen1239,Epena,sja,South America,4.25877,-77.3566,Chocoa
 NORTHERN_EMBERA,Northern Embera,nort2972,Northern Emberá,emp,South America,7.12761,-77.574,Chocoan
 WOUNAAN,Wounaan,woun1238,Woun Meu,noa,South America,8.5,-78.0,Chocoan
 CHOLON,Cholon,chol1284,Cholón,cht,South America,-9.23129,-75.9621,Hibito-Cholon
-PAEZ,Paez,paez1247,Páez,pbb,South America,2.61516,-76.3125,Páez
-PAEZ_2,Paez 2,paez1247,Páez,pbb,South America,2.61516,-76.3125,Páez
+PAEZ,Paez,paez1247,Páez,pbb,South America,2.61516,-76.31254,Páez
+PAEZ_2,Paez 2,paez1247,Páez,pbb,South America,2.61516,-76.31254,Páez
 ANDAQUI,Andaqui,anda1286,Andaqui,ana,South America,2.74999,-76.0,Andaqui
 AWA_PIT,Awa Pit,awac1239,Awa-Cuaiquer,kwi,South America,1.21652,-78.3401,Barbacoan
 CAYAPA,Cayapa,chac1249,Cha'palaa,cbi,South America,0.71489,-79.0508,Barbacoan
@@ -7120,14 +7120,14 @@ MUNICHI,Munichi,muni1258,Muniche,myr,South America,-5.7441796,-76.426712,Muniche
 YARURO,Yaruro,pume1238,Pumé,yae,South America,7.10677,-67.5996,Pumé
 WARAO,Warao,wara1303,Warao,wba,South America,7.50851,-59.3528,Warao
 NINAM,Ninam,nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
-SANIMA,Sanima,sanu1240,Sanumá,xsu,South America,4.0,-64.0,Yanomamic
-SANUMA,Sanuma,sanu1240,Sanumá,xsu,South America,4.0,-64.0,Yanomamic
+SANIMA,Sanima,sanu1240,Sanumá,xsu,South America,4.5,-64.5,Yanomamic
+SANUMA,Sanuma,sanu1240,Sanumá,xsu,South America,4.5,-64.5,Yanomamic
 SHIRISHANA,Shirishana,nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
 YANAM,Yanam,nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
 YANAM_2,Yanam 2,nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
-YANOMAM,Yanomam,yano1262,Yanomámi,wca,South America,2.48999,-62.8522,Yanomamic
+YANOMAM,Yanomam,yano1262,Yanomám,wca,South America,2.48999,-62.8522,Yanomamic
 YANOMAME,Yanomame,yano1261,Yanomamö,guu,South America,1.67967,-64.8781,Yanomamic
-YANOMAMI,Yanomami,yano1262,Yanomámi,wca,South America,2.48999,-62.8522,Yanomamic
+YANOMAMI,Yanomami,yano1262,Yanomám,wca,South America,2.48999,-62.8522,Yanomamic
 WAORANI,Waorani,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani
 ARABELA,Arabela,arab1268,Arabela,arl,South America,-1.96126,-75.0612,Zaparoan
 CAHUARANO,Cahuarano,cahu1268,Cahuarano,cah,South America,-3.72665,-73.9469,Zaparoan
@@ -7193,13 +7193,13 @@ SECHURA,Sechura,,,,,,,
 ATALLA,Atalla,ayac1239,Ayacucho Quechua,quy,South America,-13.84714,-74.32246,Quechuan
 CHACPAR,Chacpar,sout2992,Southern Conchucos Ancash Quechua,qxo,South America,-9.30995,-76.9854,Quechuan
 CHETILLA,Chetilla,caja1238,Cajamarca Quechua,qvc,South America,-7.09314,-78.3214,Quechuan
-CHIMBORAZO_QUICHUA,Chimborazo Quichua,chim1302,Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
+CHIMBORAZO_QUICHUA,Chimborazo Quichua,chim1302,Bolivar-North Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
 CURVA,Curva,nort2976,North Bolivian Quechua,qul,South America,-14.4014,-68.7894,Quechuan
 CUZCO_GNL,Cuzco Gnl,cusc1236,Cusco Quechua,quz,South America,-14.0853,-71.7663,Quechuan
 HUANUCO,Huanuco,hual1241,Huallaga Huánuco Quechua,qub,South America,-9.57135,-75.594,Quechuan
 INGA,Inga,sout2990,Southern Pastaza Quechua,qup,South America,-3.32733,-76.527,Quechuan
-INGA_MEDIO_PUTUMAYO,Inga Medio Putumayo,jung1240,Jungle Inga,inj,South America,0.88872,-76.6593,Quechuan
-INGA_PUTUMAYO,Inga Putumayo,inga1252,Inga,inb,South America,1.00313,-76.8606,Quechuan
+INGA_MEDIO_PUTUMAYO,Inga Medio Putumayo,jung1240,San Andrés-Lowland Inga,inj,South America,0.88872,-76.6593,Quechuan
+INGA_PUTUMAYO,Inga Putumayo,inga1252,Colombian Inga,inb,South America,1.00313,-76.8606,Quechuan
 INKAWASI,Inkawasi,lamb1276,Lambayeque Quechua,quf,South America,-6.1715,-79.468,Quechuan
 LARAOS,Laraos,yauy1235,Huangascar-Topara-Yauyos Quechua,qux,South America,-13.1144,-75.7659,Quechuan
 MARAGUA,Maragua,sout2991,South Bolivian Quechua,quh,South America,-20.9201,-66.3331,Quechuan
@@ -7236,22 +7236,22 @@ QUECHUA_YAUYOS_LINCHA,Quechua Yauyos Lincha,yauy1235,Huangascar-Topara-Yauyos Qu
 QUECHUA_YAUYOS_SAN_PEDRO,Quechua Yauyos San Pedro,yauy1235,Huangascar-Topara-Yauyos Quechua,qux,South America,-13.1144,-75.7659,Quechuan
 QUECHUA_YAUYOS_TANA,Quechua Yauyos Tana,yauy1235,Huangascar-Topara-Yauyos Quechua,qux,South America,-13.1144,-75.7659,Quechuan
 QUECHUA_YAUYOS_VINAC,Quechua Yauyos Vinac,yauy1235,Huangascar-Topara-Yauyos Quechua,qux,South America,-13.1144,-75.7659,Quechuan
-QUICHUA_AZUAY,Quichua Azuay,cana1262,Cañar Highland Quichua,qxr,South America,-2.48314,-78.9672,Quechuan
+QUICHUA_AZUAY,Quichua Azuay,cana1262,Cañar-Azuay-South Chimborazo Highland Quichua,qxr,South America,-2.48314,-78.9672,Quechuan
 QUICHUA_BOLIVAR_CACHISAGUA,Quichua Bolivar Cachisagua,nort2973,Northern Pastaza Quichua,qvz,South America,-1.88573,-76.0389,Quechuan
-QUICHUA_CANYAR,Quichua Canyar,cana1262,Cañar Highland Quichua,qxr,South America,-2.48314,-78.9672,Quechuan
-QUICHUA_CHIMBORAZO_NIZAG,Quichua Chimborazo Nizag,chim1302,Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
-QUICHUA_CHIMBORAZO_TROJE,Quichua Chimborazo Troje,chim1302,Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
+QUICHUA_CANYAR,Quichua Canyar,cana1262,Cañar-Azuay-South Chimborazo Highland Quichua,qxr,South America,-2.48314,-78.9672,Quechuan
+QUICHUA_CHIMBORAZO_NIZAG,Quichua Chimborazo Nizag,chim1302,Bolivar-North Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
+QUICHUA_CHIMBORAZO_TROJE,Quichua Chimborazo Troje,chim1302,Bolivar-North Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
 QUICHUA_COTOPAXI_COMPANIA_GRANDE,Quichua Cotopaxi Compania Grande,cald1236,Calderón Highland Quichua,qud,South America,-0.36205,-78.2587,Quechuan
 QUICHUA_COTOPAXI_PAPAURCO,Quichua Cotopaxi Papaurco,cald1236,Calderón Highland Quichua,qud,South America,-0.36205,-78.2587,Quechuan
 QUICHUA_COTOPAXI_TIGUA,Quichua Cotopaxi Tigua,cald1236,Calderón Highland Quichua,qud,South America,-0.36205,-78.2587,Quechuan
 QUICHUA_IMBABURA_2,Quichua Imbabura 2,imba1240,Imbabura Highland Quichua,qvi,South America,0.31776,-78.3729,Quechuan
 QUICHUA_LOJA,Quichua Loja,loja1235,Loja Highland Quichua,qvj,South America,-3.69352,-79.29151,Quechuan
 QUICHUA_PICHANCHA,Quichua Pichancha,cald1236,Calderón Highland Quichua,qud,South America,-0.36205,-78.2587,Quechuan
-QUICHUA_TUNGURAHUA_GUAPANTE,Quichua Tungurahua Guapante,sala1272,Salasaca Highland Quichua,qxl,South America,-1.35447,-78.3953,Quechuan
-QUICHUA_TUNGURAHUA_SALASACA,Quichua Tungurahua Salasaca,sala1272,Salasaca Highland Quichua,qxl,South America,-1.35447,-78.3953,Quechuan
+QUICHUA_TUNGURAHUA_GUAPANTE,Quichua Tungurahua Guapante,sala1272,Tungurahua Highland Quichua,qxl,South America,-1.35447,-78.3953,Quechuan
+QUICHUA_TUNGURAHUA_SALASACA,Quichua Tungurahua Salasaca,sala1272,Tungurahua Highland Quichua,qxl,South America,-1.35447,-78.3953,Quechuan
 SERENA,Serena,tena1240,Tena Lowland Quichua,quw,South America,-0.76271,-77.5404,Quechuan
 TAQUILE,Taquile,puno1238,Puno Quechua,qxp,South America,-14.608,-70.2084,Quechuan
-TROJE,Troje,chim1302,Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
+TROJE,Troje,chim1302,Bolivar-North Chimborazo Highland Quichua,qug,South America,-1.36727,-78.8521,Quechuan
 YANAC,Yanac,coro1247,Corongo Ancash Quechua,qwa,South America,-8.57647,-77.9864,Quechuan
 CENTRAL_AYMARA,Central Aymara,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran
 CENTRAL_AYMARA_2,Central Aymara 2,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran
@@ -7287,7 +7287,7 @@ BAURE,Baure,baur1253,Baure,brg,South America,-13.1278,-64.1838,Arawakan
 IGNACIANO,Ignaciano,igna1246,Ignaciano,ign,South America,-15.1188,-65.3993,Arawakan
 KINIKINAU,Kinikinau,guan1270,Kinikinao,gqn,South America,-19.1667,-54.0333,Arawakan
 TERENA,Terena,tere1279,Terena-Kinikinao-Chane,ter,South America,-20.6614,-56.0329,Arawakan
-TRINITARIO,Trinitario,trin1274,Trinitario,trn,South America,-15.3331,-65.4096,Arawakan
+TRINITARIO,Trinitario,trin1274,Trinitario-Javeriano-Loretano,trn,South America,-15.3331,-65.4096,Arawakan
 CARIB_1665,Carib 1665,,,,,,,
 GARIFUNA,Garifuna,gari1256,Garifuna,cab,North America,15.3529,-86.9091,Arawakan
 ISLAND_CARIB,Island Carib,isla1278,Island Carib,crb,North America,15.364795,-61.342957,Arawakan
@@ -7452,14 +7452,14 @@ UMOTINA,Umotina,umot1240,Umotína,umo,South America,-15.5929,-57.4192,Bororoan
 KRENAK,Krenak,kren1239,Krenak,kqq,South America,-18.9988,-41.2299,Nuclear-Macro-Je
 APANIEKRA,Apaniekra,cane1242,Canela-Krahô,ram,South America,-6.10712,-45.1299,Nuclear-Macro-Je
 APINAYE,Apinaye,apin1244,Apinayé,apn,South America,-6.10774,-47.6315,Nuclear-Macro-Je
-GAVIAO_DO_PARA,Gaviao Do Para,para1315,Pará Gavião,gvp,South America,-4.91161,-49.0217,Nuclear-Macro-Je
+GAVIAO_DO_PARA,Gaviao Do Para,para1315,Pará-Maranhão Gavião,gvp,South America,-4.91161,-49.0217,Nuclear-Macro-Je
 KAINGANG,Kaingang,kain1272,Kaingang,kgp,South America,-27.7671,-52.5394,Nuclear-Macro-Je
 KAYAPO,Kayapo,kaya1330,Kayapó,txu,South America,-7.77352,-51.6737,Nuclear-Macro-Je
 KRAHO,Kraho,krah1246,Krahô,xra,South America,-8.01172,-47.5774,Nuclear-Macro-Je
 KREYE,Kreye,krey1238,Northeastern Timbira,xre,South America,-4.199179,-44.8295387,Nuclear-Macro-Je
 PANARA,Panara,pana1307,Panará,kre,South America,-10.58,-53.0,Nuclear-Macro-Je
 PROTO_GE,Proto Ge,,,,,,,
-PYKOBJE,Pykobje,para1315,Pará Gavião,gvp,South America,-4.91161,-49.0217,Nuclear-Macro-Je
+PYKOBJE,Pykobje,para1315,Pará-Maranhão Gavião,gvp,South America,-4.91161,-49.0217,Nuclear-Macro-Je
 SUYA,Suya,suya1243,Suyá,suy,South America,-11.5178,-53.0743,Nuclear-Macro-Je
 XAVANTE,Xavante,xava1240,Xavánte,xav,South America,-14.3017,-52.4367,Nuclear-Macro-Je
 XAVANTE_2,Xavante 2,xava1240,Xavánte,xav,South America,-14.3017,-52.4367,Nuclear-Macro-Je
@@ -7517,14 +7517,14 @@ CHIPAYA_2,Chipaya 2,chip1262,Chipaya,cap,South America,-18.73951,-67.89633,Uru-C
 CHIPAYA_3,Chipaya 3,chip1262,Chipaya,cap,South America,-18.73951,-67.89633,Uru-Chipaya
 UCHUMATAQU,Uchumataqu,uruu1244,Uru,ure,South America,-16.72547,-68.97119,Uru-Chipaya
 KUNZA,Kunza,kunz1244,Kunza,kuz,South America,-23.0,-69.0,Kunza
-CHIQUITANO,Chiquitano,chiq1248,Chiquitano,cax,South America,-17.6354,-59.9172,Chiquitano
+CHIQUITANO,Chiquitano,chiq1248,Lomeriano-Ignaciano Chiquitano,cax,South America,-16.769554,-61.817795,Lomeriano-Ignaciano Chiquitano
 AYOREO,Ayoreo,ayor1240,Ayoreo,ayo,South America,-19.220055,-60.217495,Zamucoan
 AYOREO_2,Ayoreo 2,ayor1240,Ayoreo,ayo,South America,-19.220055,-60.217495,Zamucoan
 CHAMACOCO,Chamacoco,cham1315,Chamacoco,ceg,South America,-20.5899,-58.2005,Zamucoan
 LENGUA,Lengua,,,,,,,
 LENGUA_2,Lengua 2,,,,,,,
 SANAPANA_ANGAITE,Sanapana Angaite,anga1316,Angaité,aqt,South America,-22.85,-58.45,Lengua-Mascoy
-SANAPANA_ENLHET,Sanapana Enlhet,sana1298,Sanapaná,spn,South America,-23.2,-58.0,Lengua-Mascoy
+SANAPANA_ENLHET,Sanapana Enlhet,sana1298,Sanapaná,spn,South America,-22.49,-58.38,Lengua-Mascoy
 CHOROTE,Chorote,iyoj1235,Iyojwa'ja Chorote,crt,South America,-22.1896,-63.2383,Matacoan
 CHOROTE_IYOWUJWA,Chorote Iyowujwa,iyow1239,Iyo'wujwa Chorote,crq,South America,-22.2067,-62.6508,Matacoan
 MACA,Maca,maca1260,Maca,mca,South America,-25.0119,-57.3694,Matacoan
@@ -7563,7 +7563,7 @@ BERBICE_DUTCH_CREOLE,Berbice Dutch Creole,berb1259,Berbice Creole Dutch,brc,Sout
 BETAWI,Betawi,beta1252,Betawi,bew,Papunesia,-6.21174,107.022,Austronesian
 BISLAMA,Bislama,bisl1239,Bislama,bis,Papunesia,-15.4,166.89,Indo-European
 CALLAWALLA,Callawalla,call1235,Callawalla,caw,South America,-15.88451,-68.10176,Mixed Language
-CALO,Calo,calo1236,Caló,rmq,Eurasia,,,Indo-European
+CALO,Calo,calo1236,Caló,rmq,Eurasia,41.424,0.6,Indo-European
 CAPE_VERDEAN_CREOLE,Cape Verdean Creole,kabu1256,Kabuverdianu,kea,Africa,15.0586,-23.6148,Indo-European
 CHINOOK_WAWA,Chinook Wawa,chin1272,Creolized Grand Ronde Chinook Jargon,chn,North America,55.0,-125.0,Chinookan
 FANAGALO,Fanagalo,fana1235,Fanagalo,fng,Africa,-25.384842,27.1400833333,Pidgin
@@ -7571,7 +7571,7 @@ GEECHEE,Geechee,gull1241,Sea Island Creole English,gul,North America,33.6632,-79
 GHANAIAN_PIDGIN_ENGLISH,Ghanaian Pidgin English,ghan1244,Ghanaian Pidgin English,gpe,Africa,5.793241,-0.283641,Indo-European
 GIBANAWA,Gibanawa,giba1240,Gibanawa,gib,Africa,12.584,8.615,Pidgin
 GRENADIAN_CREOLE_ENGLISH,Grenadian Creole English,gren1247,Grenadian Creole English,gcl,North America,12.0067,-61.6989,Indo-European
-GUADELOUPE_CREOLE,Guadeloupe Creole,guad1242,Guadeloupean Creole French,gcf,North America,16.304875,-61.405914,Indo-European
+GUADELOUPE_CREOLE,Guadeloupe Creole,guad1242,Guadeloupe-Martinique Creole French,gcf,North America,16.304875,-61.405914,Indo-European
 GUIANESE_CREOLE_FRENCH,Guianese Creole French,guia1246,Guianese Creole French,gcr,South America,4.94804,-52.7336,Indo-European
 GUINEA_BISSAU_CRIOULO,Guinea Bissau Crioulo,uppe1455,Upper Guinea Crioulo,pov,Africa,13.2335066667,-15.33254,Indo-European
 GULLAH,Gullah,gull1241,Sea Island Creole English,gul,North America,33.6632,-79.6036,Indo-European
@@ -7581,7 +7581,7 @@ HAWAI_CREOLE_ENGLISH,Hawai Creole English,hawa1247,Hawai'i Creole English,hwc,Pa
 JAMAICAN_CREOLE,Jamaican Creole,jama1262,Jamaican Creole English,jam,North America,18.13,-77.2612,Indo-European
 JUBA_ARABIC,Juba Arabic,suda1237,Sudanese Creole Arabic,pga,Africa,5.654,28.774,Afro-Asiatic
 KAMTOK,Kamtok,came1254,Cameroon Pidgin,wes,Africa,5.43932,9.80166,Indo-European
-KARIPUNA_CREOLE,Karipuna Creole,kari1301,Karipúna Creole French,kmv,South America,3.42825,-51.6888,Indo-European
+KARIPUNA_CREOLE,Karipuna Creole,kari1301,Uaçá Creole French,kmv,South America,3.42825,-51.6888,Indo-European
 KIBERA_KENYA,Kibera Kenya,nubi1253,Nubi,kcn,Africa,-0.183215,34.7552,Afro-Asiatic
 KITUBA,Kituba,kitu1245,Kituba (Congo),mkw,Africa,-4.15654,14.5648,Atlantic-Congo
 KWINTI,Kwinti,kwin1243,Kwinti,kww,South America,5.1323,-56.1266,Indo-European
