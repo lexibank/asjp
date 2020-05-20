@@ -5,290 +5,294 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| ɐ | 119378 | ✓ | ✓ |
-| i | 77239 | ✓ | ✓ |
-| u | 53561 | ✓ | ✓ |
-| o | 49054 | ✓ | ✓ |
-| n | 46797 | ✓ | ✓ |
-| e | 39766 | ✓ | ✓ |
-| k | 34565 | ✓ | ✓ |
-| m | 34384 | ✓ | ✓ |
-| t | 33587 | ✓ | ✓ |
-| r | 28739 | ✓ | ✓ |
-| l | 25929 | ✓ | ✓ |
-| s | 19849 | ✓ | ✓ |
-| ə | 18518 | ✓ | ✓ |
-| b | 17546 | ✓ | ✓ |
-| p | 15669 | ✓ | ✓ |
-| j | 14902 | ✓ | ✓ |
-| d | 14785 | ✓ | ✓ |
-| w | 14767 | ✓ | ✓ |
-| ŋ | 13824 | ✓ | ✓ |
-| g | 13441 | ✓ | ✓ |
-| h | 12905 | ✓ | ✓ |
-| ʔ | 9893 | ✓ | ✓ |
-| a | 8621 | ✓ | ✓ |
-| tʃ | 5513 | ✓ | ✓ |
-| ʃ | 5393 | ✓ | ✓ |
-| x | 4970 | ✓ | ✓ |
-| + | 4497 | ✓ | ✓ |
-| f | 4052 | ✓ | ✓ |
-| v | 3744 | ✓ | ✓ |
-| ts | 3637 | ✓ | ✓ |
-| ɲ | 3375 | ✓ | ✓ |
-| q | 2607 | ✓ | ✓ |
-| ʎ | 2490 | ✓ | ✓ |
-| z | 2373 | ✓ | ✓ |
-| dʒ | 2206 | ✓ | ✓ |
-| ɐ̃ | 2134 | ✓ | ✓ |
-| c | 1851 | ✓ | ✓ |
-| kʷ | 1652 | ✓ | ✓ |
-| kʼ | 1501 | ✓ | ✓ |
-| ⁿd | 1458 | ✓ | ✓ |
-| χ | 1388 | ✓ | ✓ |
-| kʰ | 1384 | ✓ | ✓ |
-| õ | 1306 | ✓ | ✓ |
-| ĩ | 1258 | ✓ | ✓ |
-| ⁿb | 1188 | ✓ | ✓ |
-| tʰ | 1058 | ✓ | ✓ |
-| ũ | 1026 | ✓ | ✓ |
-| θ | 976 | ✓ | ✓ |
-| ʒ | 949 | ✓ | ✓ |
-| ⁿg | 852 | ✓ | ✓ |
-| ẽ | 688 | ✓ | ✓ |
-| b’ | 675 | ✓ | ✓ |
-| tsʼ | 669 | ✓ | ✓ |
-| pʰ | 587 | ✓ | ✓ |
-| qʼ | 574 | ✓ | ✓ |
-| tʃʼ | 538 | ✓ | ✓ |
-| tʲ | 498 | ✓ | ✓ |
-| tʼ | 474 | ✓ | ✓ |
-| ⁿt | 446 | ✓ | ✓ |
-| gʷ | 415 | ✓ | ✓ |
-| kp | 367 | ✓ | ✓ |
-| ə̃ | 364 | ✓ | ✓ |
-| nʲ | 356 | ✓ | ✓ |
-| kʲ | 353 | ✓ | ✓ |
-| mʷ | 329 | ✓ | ✓ |
-| dʲ | 320 | ✓ | ✓ |
-| ã | 312 | ✓ | ✓ |
-| ⁿk | 308 | ✓ | ✓ |
-| lʲ | 239 | ✓ | ✓ |
-| tsʰ | 236 | ✓ | ✓ |
-| tʃʰ | 222 | ✓ | ✓ |
-| mp | 212 | ✓ | ✓ |
-| bʷ | 209 | ✓ | ✓ |
-| ǃ | 203 | ✓ | ✓ |
-| n̪ | 197 | ✓ | ✓ |
-| xʷ | 196 | ✓ | ✓ |
-| pʷ | 187 | ✓ | ✓ |
-| ŋʷ | 177 | ✓ | ✓ |
-| sʲ | 176 | ✓ | ✓ |
-| dʰ | 148 | ✓ | ✓ |
-| gʲ | 139 | ✓ | ✓ |
-| <<~>> | 137 | ? | ? |
-| ⁿdʒ | 137 | ✓ | ✓ |
-| pʲ | 136 | ✓ | ✓ |
-| mʲ | 125 | ✓ | ✓ |
-| pʼ | 124 | ✓ | ✓ |
-| ɢ | 114 | ✓ | ✓ |
-| hʷ | 109 | ✓ | ✓ |
-| d’ | 108 | ✓ | ✓ |
-| qʷ | 98 | ✓ | ✓ |
-| ⁿts | 97 | ✓ | ✓ |
-| ⁿz | 86 | ✓ | ✓ |
-| ʎ’ | 85 | ✓ | ✓ |
-| sʰ | 84 | ✓ | ✓ |
-| rʲ | 83 | ✓ | ✓ |
-| ⁿc | 83 | ✓ | ✓ |
-| tʷ | 81 | ✓ | ✓ |
+| ɐ | 130126 | ✓ | ✓ |
+| i | 84564 | ✓ | ✓ |
+| u | 59592 | ✓ | ✓ |
+| o | 54234 | ✓ | ✓ |
+| n | 50793 | ✓ | ✓ |
+| e | 42835 | ✓ | ✓ |
+| m | 38228 | ✓ | ✓ |
+| t | 37585 | ✓ | ✓ |
+| k | 37545 | ✓ | ✓ |
+| r | 30893 | ✓ | ✓ |
+| l | 29180 | ✓ | ✓ |
+| s | 22087 | ✓ | ✓ |
+| ə | 20152 | ✓ | ✓ |
+| b | 19920 | ✓ | ✓ |
+| d | 16746 | ✓ | ✓ |
+| p | 16736 | ✓ | ✓ |
+| j | 16358 | ✓ | ✓ |
+| w | 16088 | ✓ | ✓ |
+| ŋ | 15932 | ✓ | ✓ |
+| g | 14420 | ✓ | ✓ |
+| h | 14255 | ✓ | ✓ |
+| ʔ | 11130 | ✓ | ✓ |
+| a | 10098 | ✓ | ✓ |
+| tʃ | 5931 | ✓ | ✓ |
+| ʃ | 5756 | ✓ | ✓ |
+| x | 5399 | ✓ | ✓ |
+| + | 4829 | ✓ | ✓ |
+| f | 4548 | ✓ | ✓ |
+| v | 3983 | ✓ | ✓ |
+| ts | 3923 | ✓ | ✓ |
+| ɲ | 3845 | ✓ | ✓ |
+| q | 3082 | ✓ | ✓ |
+| dʒ | 2797 | ✓ | ✓ |
+| z | 2702 | ✓ | ✓ |
+| ʎ | 2631 | ✓ | ✓ |
+| ɐ̃ | 2312 | ✓ | ✓ |
+| c | 2065 | ✓ | ✓ |
+| kʷ | 1683 | ✓ | ✓ |
+| ĩ | 1626 | ✓ | ✓ |
+| ⁿd | 1537 | ✓ | ✓ |
+| kʼ | 1517 | ✓ | ✓ |
+| kʰ | 1497 | ✓ | ✓ |
+| χ | 1407 | ✓ | ✓ |
+| õ | 1368 | ✓ | ✓ |
+| ⁿb | 1235 | ✓ | ✓ |
+| tʰ | 1201 | ✓ | ✓ |
+| ũ | 1154 | ✓ | ✓ |
+| θ | 1108 | ✓ | ✓ |
+| ʒ | 1000 | ✓ | ✓ |
+| ⁿg | 921 | ✓ | ✓ |
+| ẽ | 789 | ✓ | ✓ |
+| b’ | 700 | ✓ | ✓ |
+| tsʼ | 690 | ✓ | ✓ |
+| pʰ | 642 | ✓ | ✓ |
+| qʼ | 586 | ✓ | ✓ |
+| tʃʼ | 577 | ✓ | ✓ |
+| tʼ | 504 | ✓ | ✓ |
+| tʲ | 503 | ✓ | ✓ |
+| ⁿt | 456 | ✓ | ✓ |
+| gʷ | 420 | ✓ | ✓ |
+| kp | 411 | ✓ | ✓ |
+| ə̃ | 377 | ✓ | ✓ |
+| nʲ | 369 | ✓ | ✓ |
+| kʲ | 360 | ✓ | ✓ |
+| dʲ | 359 | ✓ | ✓ |
+| ã | 352 | ✓ | ✓ |
+| mʷ | 343 | ✓ | ✓ |
+| ⁿk | 314 | ✓ | ✓ |
+| tsʰ | 276 | ✓ | ✓ |
+| tʃʰ | 259 | ✓ | ✓ |
+| lʲ | 246 | ✓ | ✓ |
+| xʷ | 226 | ✓ | ✓ |
+| bʷ | 218 | ✓ | ✓ |
+| mp | 214 | ✓ | ✓ |
+| n̪ | 209 | ✓ | ✓ |
+| ǃ | 205 | ✓ | ✓ |
+| pʷ | 193 | ✓ | ✓ |
+| sʲ | 193 | ✓ | ✓ |
+| ŋʷ | 180 | ✓ | ✓ |
+| dʰ | 170 | ✓ | ✓ |
+| ⁿdʒ | 150 | ✓ | ✓ |
+| gʲ | 142 | ✓ | ✓ |
+| pʼ | 140 | ✓ | ✓ |
+| pʲ | 137 | ✓ | ✓ |
+| qʷ | 129 | ✓ | ✓ |
+| mʲ | 126 | ✓ | ✓ |
+| d’ | 121 | ✓ | ✓ |
+| hʷ | 110 | ✓ | ✓ |
+| ɢ | 110 | ✓ | ✓ |
+| ʎ’ | 99 | ✓ | ✓ |
+| ⁿts | 98 | ✓ | ✓ |
+| ⁿz | 93 | ✓ | ✓ |
+| tʷ | 87 | ✓ | ✓ |
+| ⁿc | 87 | ✓ | ✓ |
+| sʰ | 86 | ✓ | ✓ |
+| rʲ | 81 | ✓ | ✓ |
+| kʼʷ | 77 | ✓ | ✓ |
+| gʰ | 74 | ✓ | ✓ |
 | bʲ | 73 | ✓ | ✓ |
-| gʰ | 69 | ✓ | ✓ |
+| n’ | 71 | ✓ | ✓ |
+| nʷ | 70 | ✓ | ✓ |
 | dʷ | 68 | ✓ | ✓ |
-| nʷ | 66 | ✓ | ✓ |
-| hʲ | 65 | ✓ | ✓ |
-| kʼʷ | 64 | ✓ | ✓ |
-| sʷ | 63 | ✓ | ✓ |
-| fʷ | 60 | ✓ | ✓ |
+| hʲ | 68 | ✓ | ✓ |
+| w’ | 68 | ✓ | ✓ |
+| fʷ | 67 | ✓ | ✓ |
+| sʷ | 67 | ✓ | ✓ |
+| <<~>> | 65 | ? | ? |
+| sʼ | 65 | ✓ | ✓ |
+| cʰ | 62 | ✓ | ✓ |
 | ⁿtʃ | 59 | ✓ | ✓ |
-| sʼ | 58 | ✓ | ✓ |
-| w’ | 57 | ✓ | ✓ |
-| ⁿs | 56 | ✓ | ✓ |
-| ǂ | 55 | ✓ | ✓ |
-| bʰ | 54 | ✓ | ✓ |
-| nʰ | 54 | ✓ | ✓ |
-| qʰ | 54 | ✓ | ✓ |
+| bʰ | 58 | ✓ | ✓ |
+| qʰ | 58 | ✓ | ✓ |
+| ǂ | 56 | ✓ | ✓ |
+| tʃʲ | 54 | ✓ | ✓ |
+| ⁿs | 54 | ✓ | ✓ |
 | cʼ | 53 | ✓ | ✓ |
-| tʃʲ | 53 | ✓ | ✓ |
-| rˠ | 52 | ✓ | ✓ |
-| n’ | 51 | ✓ | ✓ |
-| χʷ | 51 | ✓ | ✓ |
-| cʰ | 49 | ✓ | ✓ |
-| j’ | 49 | ✓ | ✓ |
+| qʼʷ | 53 | ✓ | ✓ |
+| nʰ | 52 | ✓ | ✓ |
+| χʷ | 52 | ✓ | ✓ |
+| m’ | 49 | ✓ | ✓ |
 | lʷ | 45 | ✓ | ✓ |
-| qʼʷ | 42 | ✓ | ✓ |
+| rˠ | 45 | ✓ | ✓ |
+| xʲ | 43 | ✓ | ✓ |
 | tsʲ | 42 | ✓ | ✓ |
 | qχ | 41 | ✓ | ✓ |
-| xʲ | 41 | ✓ | ✓ |
-| m’ | 39 | ✓ | ✓ |
+| k’ʲ | 40 | ✓ | ✓ |
 | ⁿǃ | 39 | ✓ | ✓ |
-| kˠ | 37 | ✓ | ✓ |
-| lˀ | 36 | ✓ | ✓ |
-| fʲ | 32 | ✓ | ✓ |
+| <<*>> | 37 | ? | ? |
+| kˠ | 36 | ✓ | ✓ |
+| lˀ | 35 | ✓ | ✓ |
+| rʷ | 33 | ✓ | ✓ |
+| j’ | 32 | ✓ | ✓ |
+| mʰ | 32 | ✓ | ✓ |
 | mˀ | 32 | ✓ | ✓ |
 | rʰ | 32 | ✓ | ✓ |
-| rʷ | 32 | ✓ | ✓ |
-| lʰ | 31 | ✓ | ✓ |
-| mʰ | 31 | ✓ | ✓ |
-| ʃʲ | 31 | ✓ | ✓ |
-| <<*>> | 29 | ? | ? |
-| nˠ | 29 | ✓ | ✓ |
-| zʲ | 29 | ✓ | ✓ |
-| ǃ’ | 28 | ✓ | ✓ |
-| sˠ | 26 | ✓ | ✓ |
+| ʃʲ | 32 | ✓ | ✓ |
+| fʲ | 31 | ✓ | ✓ |
+| lʰ | 30 | ✓ | ✓ |
+| l’ | 30 | ✓ | ✓ |
+| nˠ | 30 | ✓ | ✓ |
+| ǃ’ | 27 | ✓ | ✓ |
+| zʲ | 26 | ✓ | ✓ |
 | vʲ | 25 | ✓ | ✓ |
 | jˀ | 24 | ✓ | ✓ |
+| sˠ | 24 | ✓ | ✓ |
 | tʃʷ | 24 | ✓ | ✓ |
 | tˀ | 24 | ✓ | ✓ |
-| ʔʲ | 24 | ✓ | ✓ |
-| ʔʷ | 24 | ✓ | ✓ |
-| k’ʲ | 23 | ✓ | ✓ |
-| lˠ | 23 | ✓ | ✓ |
+| ⁿθ | 24 | ✓ | ✓ |
+| ŋʲ | 23 | ✓ | ✓ |
 | ǃˀ | 23 | ✓ | ✓ |
 | ʃʷ | 23 | ✓ | ✓ |
+| ʔʲ | 23 | ✓ | ✓ |
 | θ’ | 23 | ✓ | ✓ |
-| ⁿθ | 23 | ✓ | ✓ |
-| l’ | 22 | ✓ | ✓ |
+| lˠ | 22 | ✓ | ✓ |
 | rˀ | 22 | ✓ | ✓ |
-| tˠ | 19 | ✓ | ✓ |
-| ŋʰ | 19 | ✓ | ✓ |
-| ŋʲ | 19 | ✓ | ✓ |
-| bˠ | 18 | ✓ | ✓ |
+| ʔʷ | 22 | ✓ | ✓ |
+| ɲʷ | 21 | ✓ | ✓ |
+| bˠ | 20 | ✓ | ✓ |
+| pf | 20 | ✓ | ✓ |
+| tˠ | 20 | ✓ | ✓ |
+| ŋʰ | 20 | ✓ | ✓ |
 | kˀ | 18 | ✓ | ✓ |
 | nˀ | 18 | ✓ | ✓ |
+| ʰk | 18 | ✓ | ✓ |
 | ʰn | 18 | ✓ | ✓ |
 | mˠ | 17 | ✓ | ✓ |
 | ǃⁿ | 17 | ✓ | ✓ |
 | ⁿʒ | 17 | ✓ | ✓ |
-| pf | 16 | ✓ | ✓ |
+| cʷ | 16 | ✓ | ✓ |
 | tsʷ | 16 | ✓ | ✓ |
+| ⁿʃ | 16 | ✓ | ✓ |
 | ǃʰ | 15 | ✓ | ✓ |
-| ɲʷ | 15 | ✓ | ✓ |
-| ʰk | 15 | ✓ | ✓ |
-| ⁿp | 15 | ✓ | ✓ |
-| ⁿʃ | 15 | ✓ | ✓ |
 | ⁿʔ | 15 | ✓ | ✓ |
-| cʷ | 14 | ✓ | ✓ |
-| g’ | 14 | ✓ | ✓ |
+| dʒʷ | 14 | ✓ | ✓ |
 | sˀ | 14 | ✓ | ✓ |
-| tsˀ | 14 | ✓ | ✓ |
 | xʰ | 14 | ✓ | ✓ |
 | ŋˠ | 14 | ✓ | ✓ |
-| ʃʼ | 13 | ✓ | ✓ |
-| <<">> | 12 | ? | ? |
+| ʰt | 14 | ✓ | ✓ |
+| pˠ | 13 | ✓ | ✓ |
+| tsˀ | 13 | ✓ | ✓ |
+| ⁿp | 13 | ✓ | ✓ |
 | cʲ | 12 | ✓ | ✓ |
-| dʒʷ | 12 | ✓ | ✓ |
 | dⁿ | 12 | ✓ | ✓ |
-| pˠ | 12 | ✓ | ✓ |
 | ʃʰ | 12 | ✓ | ✓ |
-| ʰt | 12 | ✓ | ✓ |
+| ʃʼ | 12 | ✓ | ✓ |
 | χː | 12 | ✓ | ✓ |
 | ⁿv | 12 | ✓ | ✓ |
 | ⁿǂ | 12 | ✓ | ✓ |
 | gˀ | 11 | ✓ | ✓ |
-| ʃˠ | 11 | ✓ | ✓ |
+| wˀ | 11 | ✓ | ✓ |
 | ʰm | 11 | ✓ | ✓ |
 | dˠ | 10 | ✓ | ✓ |
+| g’ | 10 | ✓ | ✓ |
 | qʲ | 10 | ✓ | ✓ |
 | tsˠ | 10 | ✓ | ✓ |
 | zʰ | 10 | ✓ | ✓ |
 | ŋ’ | 10 | ✓ | ✓ |
+| ʃˠ | 10 | ✓ | ✓ |
 | ʰl | 10 | ✓ | ✓ |
 | q’ˠ | 9 | ✓ | ✓ |
 | tʃˠ | 9 | ✓ | ✓ |
-| wˀ | 9 | ✓ | ✓ |
+| zʷ | 9 | ✓ | ✓ |
 | ɲʲ | 9 | ✓ | ✓ |
+| ʎˀ | 9 | ✓ | ✓ |
 | dʒʲ | 8 | ✓ | ✓ |
 | fʰ | 8 | ✓ | ✓ |
-| h’ | 8 | ✓ | ✓ |
 | tʃˀ | 8 | ✓ | ✓ |
+| tʃ’ʲ | 8 | ✓ | ✓ |
 | ʃˀ | 8 | ✓ | ✓ |
-| zʷ | 7 | ✓ | ✓ |
+| dz | 7 | ✓ | ✓ |
+| dʒ’ | 7 | ✓ | ✓ |
+| xʼ | 7 | ✓ | ✓ |
 | ʎʲ | 7 | ✓ | ✓ |
-| ʎˀ | 7 | ✓ | ✓ |
 | ʒʷ | 7 | ✓ | ✓ |
-| ⁿt’ | 7 | ✓ | ✓ |
 | bˀ | 6 | ✓ | ✓ |
-| dz | 6 | ✓ | ✓ |
 | dˀ | 6 | ✓ | ✓ |
 | vʰ | 6 | ✓ | ✓ |
-| xʼ | 6 | ✓ | ✓ |
 | ʒʰ | 6 | ✓ | ✓ |
 | ʒʲ | 6 | ✓ | ✓ |
 | ʰr | 6 | ✓ | ✓ |
+| r’ | 5 | ✓ | ✓ |
 | ǃʷ | 5 | ✓ | ✓ |
-| ʒˠ | 5 | ✓ | ✓ |
-| θˠ | 5 | ✓ | ✓ |
-| ⁿtsʼ | 5 | ✓ | ✓ |
+| ʰp | 5 | ✓ | ✓ |
 | ts’ʷ | 4 | ✓ | ✓ |
 | t’ˠ | 4 | ✓ | ✓ |
 | xˀ | 4 | ✓ | ✓ |
-| zˠ | 4 | ✓ | ✓ |
+| z’ | 4 | ✓ | ✓ |
 | ʰx | 4 | ✓ | ✓ |
 | χʲ | 4 | ✓ | ✓ |
 | ⁿq | 4 | ✓ | ✓ |
-| qˀ | 3 | ✓ | ✓ |
-| tʃ’ʲ | 3 | ✓ | ✓ |
+| <<">> | 3 | ? | ? |
 | t’ʲ | 3 | ✓ | ✓ |
-| t’ʷ | 3 | ✓ | ✓ |
+| ɲ’ | 3 | ✓ | ✓ |
+| ʒˠ | 3 | ✓ | ✓ |
 | ʰs | 3 | ✓ | ✓ |
+| ʰv | 3 | ✓ | ✓ |
 | ʰɲ | 3 | ✓ | ✓ |
 | χʼ | 3 | ✓ | ✓ |
 | ⁿɢ | 3 | ✓ | ✓ |
 | b’ʲ | 2 | ✓ | ✓ |
 | c’ʲ | 2 | ✓ | ✓ |
-| dʒʰ | 2 | ✓ | ✓ |
 | fʼ | 2 | ✓ | ✓ |
 | mː | 2 | ✓ | ✓ |
 | pˀ | 2 | ✓ | ✓ |
 | pχʼ | 2 | ✓ | ✓ |
+| qˀ | 2 | ✓ | ✓ |
 | rː | 2 | ✓ | ✓ |
+| t’ʷ | 2 | ✓ | ✓ |
+| zˠ | 2 | ✓ | ✓ |
 | ǃ’ʷ | 2 | ✓ | ✓ |
 | ɐ̃ˀ | 2 | ✓ | ✓ |
 | ʒˀ | 2 | ✓ | ✓ |
+| ʰts | 2 | ✓ | ✓ |
 | ʰŋˠ | 2 | ✓ | ✓ |
 | θʲ | 2 | ✓ | ✓ |
-| ⁿk’ | 2 | ✓ | ✓ |
+| dʒʰ | 1 | ✓ | ✓ |
 | dʒˀ | 1 | ✓ | ✓ |
 | dʒˠ | 1 | ✓ | ✓ |
-| k’ˠ | 1 | ✓ | ✓ |
+| h’ | 1 | ✓ | ✓ |
+| h’ʷ | 1 | ✓ | ✓ |
 | l’ʷ | 1 | ✓ | ✓ |
-| r’ | 1 | ✓ | ✓ |
 | sː | 1 | ✓ | ✓ |
 | ts’ʲ | 1 | ✓ | ✓ |
+| tθ’ | 1 | ✓ | ✓ |
 | t’ʰ | 1 | ✓ | ✓ |
 | vˀ | 1 | ✓ | ✓ |
 | vˠ | 1 | ✓ | ✓ |
 | x’ʷ | 1 | ✓ | ✓ |
-| z’ | 1 | ✓ | ✓ |
 | ǀ | 1 | ✓ | ✓ |
 | ɢʷ | 1 | ✓ | ✓ |
 | ɲʰ | 1 | ✓ | ✓ |
 | ʃ’ʰ | 1 | ✓ | ✓ |
 | ʃ’ʷ | 1 | ✓ | ✓ |
+| ʎʰ | 1 | ✓ | ✓ |
 | ʎˠ | 1 | ✓ | ✓ |
 | ʰq | 1 | ✓ | ✓ |
 | ʰŋ | 1 | ✓ | ✓ |
 | ʰʃ | 1 | ✓ | ✓ |
 | ʰχ | 1 | ✓ | ✓ |
 | ˀdʒ | 1 | ✓ | ✓ |
-| ˀn | 1 | ✓ | ✓ |
 | ˀx | 1 | ✓ | ✓ |
 | θʰ | 1 | ✓ | ✓ |
 | θˀ | 1 | ✓ | ✓ |
+| θˠ | 1 | ✓ | ✓ |
+| ⁿtsʼ | 1 | ✓ | ✓ |
 | ⁿχ | 1 | ✓ | ✓ |
 
-(282 rows)
+(286 rows)
 
 
 
@@ -304,32 +308,13 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------|:----------------|----------:|:-------------|:-----------------------------------------------------------|
-| ABAZA-34-1 | ABAZA | 34 | Cw"~3Xw~a | tʃ w’ <s> <<~>> </s> ə χʷ ɐ |
-| ABAZA-74-1 | ABAZA | 74 | ayaCw"~a | ɐ j ɐ tʃ w’ <s> <<~>> </s> ɐ |
-| ABKHAZ-34-1 | ABKHAZ | 34 | tw"~3Xw~a | t w’ <s> <<~>> </s> ə χʷ ɐ |
-| ABKHAZ-53-1 | ABKHAZ | 53 | gw~acw"~a | gʷ ɐ ts w’ <s> <<~>> </s> ɐ |
-| ABKHAZ-74-1 | ABKHAZ | 74 | yacw"~a | j ɐ ts w’ <s> <<~>> </s> ɐ |
+|:------------------------------|:-------------------------|----------:|:-----------------|:-----------------------------------------------|
 | AKE-39-1 | AKE | 39 | kuto~ | k u t o <s> <<~>> </s> |
-| AVBIANWU-53-1 | AVBIANWU | 53 | ~kpe | <s> <<~>> </s> k p e |
 | BANONI-90-1 | BANONI | 90 | kekao~ | k e k ɐ o <s> <<~>> </s> |
 | BARISUDAN-92-1 | BARISUDAN | 92 | tuke~aTa | t u k e <s> <<~>> </s> ɐ c ɐ |
 | BELLACOOLA-57-1 | BELLACOOLA | 57 | k"x~ix | kʼ x <s> <<~>> </s> i x |
-| BLAGAR-85-1 | BLAGAR | 85 | h~igo | h <s> <<~>> </s> i g o |
-| BORA-66-1 | BORA | 66 | c~a | ts <s> <<~>> </s> ɐ |
-| BORUCA-100-1 | BORUCA | 100 | kav~ | k ɐ v <s> <<~>> </s> |
-| BORUCA-11-1 | BORUCA | 11 | ev~ce | e v <s> <<~>> </s> ts e |
-| BORUCA-11-2 | BORUCA | 11 | ev~ci | e v <s> <<~>> </s> ts i |
-| BORUCA-12-2 | BORUCA | 12 | buv~k | b u v <s> <<~>> </s> k |
-| BORUCA-18-2 | BORUCA | 18 | yav~srok | j ɐ v <s> <<~>> </s> s r o k |
-| BORUCA-28-1 | BORUCA | 28 | kuav~skua | k u ɐ v <s> <<~>> </s> s k u ɐ |
-| BORUCA-40-1 | BORUCA | 40 | kav~iS kup | k ɐ v <s> <<~>> </s> i ʃ + k u p |
-| BORUCA-47-1 | BORUCA | 47 | kuv~sraN | k u v <s> <<~>> </s> s r ɐ ŋ |
-| BORUCA-51-1 | BORUCA | 51 | kav~ | k ɐ v <s> <<~>> </s> |
-| BORUCA-51-2 | BORUCA | 51 | CuCuv~ | tʃ u tʃ u v <s> <<~>> </s> |
 | BUANGMAPOS-61-1 | BUANGMAPOS | 61 | taX*Et | t ɐ χ <s> <<*>> </s> a t |
 | BUNGANDITJ-44-1 | BUNGANDITJ | 44 | tha~la | t h ɐ <s> <<~>> </s> l ɐ |
-| BUSSA2-51-1 | BUSSA2 | 51 | amp"~a | ɐ m pʼ <s> <<~>> </s> ɐ |
 | CAPANAHUA-100-1 | CAPANAHUA | 100 | x*a*e* | x <s> <<*>> </s> ɐ̃ ẽ |
 | CAPANAHUA-18-1 | CAPANAHUA | 18 | x*o*i* | x <s> <<*>> </s> õ ĩ |
 | CAPANAHUA-30-1 | CAPANAHUA | 30 | x*i* | x <s> <<*>> </s> ĩ |
@@ -337,20 +322,8 @@
 | CAPANAHUA-75-1 | CAPANAHUA | 75 | x*e* | x <s> <<*>> </s> ẽ |
 | CAPANAHUA-96-1 | CAPANAHUA | 96 | be*7*a* | b ẽ ʔ <s> <<*>> </s> ɐ̃ |
 | CAYUBABA-95-2 | CAYUBABA | 95 | po*h*ri | p õ h <s> <<*>> </s> r i |
-| CLALLAM-28-1 | CLALLAM | 28 | kw"~3wi7 | k w’ <s> <<~>> </s> ə w i ʔ |
-| CLALLAM-57-1 | CLALLAM | 57 | kw"~3n3xw~ | k w’ <s> <<~>> </s> ə n ə xʷ |
-| DAHALO-31-1 | DAHALO | 31 | miTL"~o | m i c ʎ’ <s> <<~>> </s> o |
-| DAMAL-18-1 | DAMAL | 18 | me~ | m e <s> <<~>> </s> |
-| DAMAL-30-1 | DAMAL | 30 | ni~ma~N | n i <s> <<~>> </s> m ɐ <s> <<~>> </s> ŋ |
-| DAMAL-31-1 | DAMAL | 31 | no~k | n o <s> <<~>> </s> k |
-| DAMAL-40-1 | DAMAL | 40 | na~ttu~m | n ɐ <s> <<~>> </s> t t u <s> <<~>> </s> m |
+| DAMAL-30-1 | DAMAL | 30 | nima~N | n i m ɐ <s> <<~>> </s> ŋ |
 | DAMAL-51-1 | DAMAL | 51 | na~kam | n ɐ <s> <<~>> </s> k ɐ m |
-| DAMAL-57-1 | DAMAL | 57 | wope~n | w o p e <s> <<~>> </s> n |
-| DAMAL-58-1 | DAMAL | 58 | ani~pe~n | ɐ n i <s> <<~>> </s> p e <s> <<~>> </s> n |
-| DAMAL-66-2 | DAMAL | 66 | mope~n | m o p e <s> <<~>> </s> n |
-| DAMAL-72-1 | DAMAL | 72 | ho~la~ma~N | h o <s> <<~>> </s> l ɐ <s> <<~>> </s> m ɐ <s> <<~>> </s> ŋ |
-| DAMAL-82-1 | DAMAL | 82 | utta~ | u t t ɐ <s> <<~>> </s> |
-| DAMAL-85-1 | DAMAL | 85 | ma~Na | m ɐ <s> <<~>> </s> ŋ ɐ |
 | DAMELI2-54-1 | DAMELI2 | 54 | pie~n | p i e <s> <<~>> </s> n |
 | DARLING-44-2 | DARLING | 44 | tha~la5a | t h ɐ <s> <<~>> </s> l ɐ ɲ ɐ |
 | DHURGA-21-4 | DHURGA | 21 | wadha~Nar | w ɐ d h ɐ <s> <<~>> </s> ŋ ɐ r |
@@ -359,33 +332,21 @@
 | DJENNECHIINI-43-1 | DJENNECHIINI | 43 | hin*E | h i n <s> <<*>> </s> a |
 | DJENNECHIINI-54-1 | DJENNECHIINI | 54 | n*i* | n <s> <<*>> </s> ĩ |
 | DJENNECHIINI-54-2 | DJENNECHIINI | 54 | n*in | n <s> <<*>> </s> i n |
-| EYAK-48-2 | EYAK | 48 | oya" | o j ɐ <s> <<">> </s> |
 | FINNISH-25-1 | FINNISH | 25 | leh~ti | l e h <s> <<~>> </s> t i |
 | GHOMALA1-61-1 | GHOMALA1 | 61 | bf~3 | b f <s> <<~>> </s> ə |
-| GIDOLE2-51-1 | GIDOLE2 | 51 | amp"~a | ɐ m pʼ <s> <<~>> </s> ɐ |
 | GONGXINGBAI-47-1 | GONGXINGBAI | 47 | *qa | <s> <<*>> </s> q ɐ |
 | GRANDCOULI-23-6 | GRANDCOULI | 23 | n*E | n <s> <<*>> </s> a |
 | GUNYA-54-1 | GUNYA | 54 | dha~ala | d h ɐ <s> <<~>> </s> ɐ l ɐ |
 | HULI-57-1 | HULI | 57 | ha~nda | h ɐ <s> <<~>> </s> n d ɐ |
-| KABARDIAN-66-1 | KABARDIAN | 66 | q"3kw"~3n | qʼ ə k w’ <s> <<~>> </s> ə n |
-| KABYLE-31-1 | KABYLE | 31 | ExX~3bub | a x χ <s> <<~>> </s> ə b u b |
-| KAGULU-85-1 | KAGULU | 85 | j~ila | dʒ <s> <<~>> </s> i l ɐ |
-| KANO-11-1 | KANO | 11 | "daya | <s> <<">> </s> d ɐ j ɐ |
 | KARENYINBAW-2-1 | KARENYINBAW | 2 | nv* | n v <s> <<*>> </s> |
-| KARIPUNACREOLE-23-2 | KARIPUNACREOLE | 23 | pye~ bw~a | p j e <s> <<~>> </s> + bʷ ɐ |
 | KARIRIXOCO-25-1 | KARIRIXOCO | 25 | year* | j e ɐ r <s> <<*>> </s> |
 | KARITIANA-21-1 | KARITIANA | 21 | om*k3pok | o m <s> <<*>> </s> k ə p o k |
 | KAROK-58-1 | KAROK | 58 | 8itiv* | θ i t i v <s> <<*>> </s> |
 | KAROK-61-2 | KAROK | 61 | iv* | i v <s> <<*>> </s> |
-| KHASI-31-1 | KHASI | 31 | sh"~ieN | s h’ <s> <<~>> </s> i e ŋ |
-| KHASI-80-1 | KHASI | 80 | ly"~oh | l j’ <s> <<~>> </s> o h |
 | KILIVILA-2-1 | KILIVILA | 2 | yokwa~mi | j o k w ɐ <s> <<~>> </s> m i |
 | KIMAGHAMA-43-1 | KIMAGHAMA | 43 | trava~e | t r ɐ v ɐ <s> <<~>> </s> e |
 | KIOWA-23-1 | KIOWA | 23 | a7~da | ɐ ʔ <s> <<~>> </s> d ɐ |
 | KIOWA-85-1 | KIOWA | 85 | hu*7~a*n | h ũ ʔ <s> <<~>> </s> ɐ̃ n |
-| KITABWA-75-1 | KITABWA | 75 | e~nda | e <s> <<~>> </s> n d ɐ |
-| KLAMATH-56-1 | KLAMATH | 56 | qw~v~ | qʷ v <s> <<~>> </s> |
-| KLAMATH-68-1 | KLAMATH | 68 | re"wabga | r e <s> <<">> </s> w ɐ b g ɐ |
 | KOROBOROSENNI-40-2 | KOROBOROSENNI | 40 | mon*e | m o n <s> <<*>> </s> e |
 | KOROBOROSENNI-43-3 | KOROBOROSENNI | 43 | hin*e | h i n <s> <<*>> </s> e |
 | KOSARE-51-2 | KOSARE | 51 | ko kako~ | k o + k ɐ k o <s> <<~>> </s> |
@@ -393,18 +354,61 @@
 | KOYRACHIINI-54-1 | KOYRACHIINI | 54 | n*in | n <s> <<*>> </s> i n |
 | KUPERE-85-1 | KUPERE | 85 | kh~w~ath~ | kʰ w <s> <<~>> </s> ɐ tʰ |
 | MANOBODIBABAWON-28-1 | MANOBODIBABAWON | 28 | kin~da | k i n <s> <<~>> </s> d ɐ |
-| MESMES-12-1 | MESMES | 12 | wo"7Eti | w o <s> <<">> </s> ʔ a t i |
-| MESMES-22-1 | MESMES | 22 | k"u"wEnE | kʼ u <s> <<">> </s> w a n a |
-| MESMES-25-1 | MESMES | 25 | ko"7orE | k o <s> <<">> </s> ʔ o r a |
-| MESMES-75-1 | MESMES | 75 | 7o"hE | ʔ o <s> <<">> </s> h a |
-| MESMES-82-1 | MESMES | 82 | 3"sEde | ə <s> <<">> </s> s a d e |
-| MICMAC-66-1 | MICMAC | 66 | we jg~uax | w e + dʒ g <s> <<~>> </s> u ɐ x |
 | MIENGE-28-1 | MIENGE | 28 | Ngw$o 5w*E*n | ŋ g w o + ɲ w <s> <<*>> </s> ã n |
 | MIXTECALCOZAUCA-21-1 | MIXTECALCOZAUCA | 21 | ty~*a | tʲ <s> <<*>> </s> ɐ |
 | MIXTECALCOZAUCA-34-1 | MIXTECALCOZAUCA | 34 | ndy$ky~* | n d j kʲ <s> <<*>> </s> |
+| MIXTECODESANJUANCOLORADO-28-1 | MIXTECODESANJUANCOLORADO | 28 | n*33 | n <s> <<*>> </s> ə ə |
+| MIXTECODESANJUANCOLORADO-30-1 | MIXTECODESANJUANCOLORADO | 30 | n3n*3 | n ə n <s> <<*>> </s> ə |
+| MIXTECODESANJUANCOLORADO-47-1 | MIXTECODESANJUANCOLORADO | 47 | jin*i c3t3 | dʒ i n <s> <<*>> </s> i + ts ə t ə |
+| MIXTECODESANJUANCOLORADO-58-1 | MIXTECODESANJUANCOLORADO | 58 | cin*i | ts i n <s> <<*>> </s> i |
+| MIXTECODESANJUANCOLORADO-72-1 | MIXTECODESANJUANCOLORADO | 72 | n*ica5ii | n <s> <<*>> </s> i ts ɐ ɲ i i |
+| MIXTECODESANJUANCOLORADO-74-1 | MIXTECODESANJUANCOLORADO | 74 | tin*uu | t i n <s> <<*>> </s> u u |
+| MIXTECODESANJUANCOLORADO-82-1 | MIXTECODESANJUANCOLORADO | 82 | n*uhu | n <s> <<*>> </s> u h u |
+| MIXTECODESANJUANCOLORADO-95-1 | MIXTECODESANJUANCOLORADO | 95 | tyan*u | t j ɐ n <s> <<*>> </s> u |
 | MODELE-74-1 | MODELE | 74 | Nc~an | ŋ ts <s> <<~>> </s> ɐ n |
+| MONTANASALISH-19-1 | MONTANASALISH | 19 | qa"m"eye7 | q ɐ <s> <<">> </s> m’ e j e ʔ |
 | MOSETEN-40-1 | MOSETEN | 40 | Ch*a*en | tʃ h <s> <<*>> </s> ɐ̃ e n |
 | MUNDANI-95-1 | MUNDANI | 95 | lu~ | l u <s> <<~>> </s> |
+| MUNGAKA-41-1 | MUNGAKA | 41 | Nk~oNc~i7 | ⁿk o ŋ ts <s> <<~>> </s> i ʔ |
+| NGUNAWAL-44-1 | NGUNAWAL | 44 | dha~laN | d h ɐ <s> <<~>> </s> l ɐ ŋ |
+| NGURA-22-2 | NGURA | 22 | dhi~ti | d h i <s> <<~>> </s> t i |
+| NINKYOP-30-1 | NINKYOP | 30 | nTi~* | n c i <s> <<~>> </s> <s> <<*>> </s> |
+| NYUNGASOUTHWESTERN-44-1 | NYUNGASOUTHWESTERN | 44 | dha~ala5 | d h ɐ <s> <<~>> </s> ɐ l ɐ ɲ |
+| POKORAWO-74-1 | POKORAWO | 74 | dE~nge | d a <s> <<~>> </s> n g e |
+| POKORAWO-77-1 | POKORAWO | 77 | sosi~ngi | s o s i <s> <<~>> </s> n g i |
+| POKORAWO-92-1 | POKORAWO | 92 | busu~ngu | b u s u <s> <<~>> </s> n g u |
+| POMONORTHEASTERN-77-1 | POMONORTHEASTERN | 77 | kha~7be | k h ɐ <s> <<~>> </s> ʔ b e |
+| POMONORTHERN-75-1 | POMONORTHERN | 75 | kha~ | k h ɐ <s> <<~>> </s> |
+| PROTOINDOEUROPEAN-100-1 | PROTOINDOEUROPEAN | 100 | w~ne7w~mn | w <s> <<~>> </s> n e ʔʷ m n |
+| PROTOINDOEUROPEAN-43-1 | PROTOINDOEUROPEAN | 43 | w~dont | w <s> <<~>> </s> d o n t |
+| PULAR-30-1 | PULAR | 30 | y~i7y~an | j <s> <<~>> </s> i ʔʲ ɐ n |
+| QUECHUAAYACUCHO-74-1 | QUECHUAAYACUCHO | 74 | tSask~a | t ʃ ɐ s k <s> <<~>> </s> ɐ |
+| RGYALTHANG-21-1 | RGYALTHANG | 21 | C~3 | tʃ <s> <<~>> </s> ə |
+| RUSSIAN-14-1 | RUSSIAN | 14 | idy~ly~nn3y~ | i dʲ lʲ n n ə j <s> <<~>> </s> |
+| RUSSIAN-15-1 | RUSSIAN | 15 | imaly~eny~ky~ey~ | i m ɐ lʲ e nʲ kʲ e j <s> <<~>> </s> |
+| SANSKRIT-28-1 | SANSKRIT | 28 | tv3TC~a | t v ə c tʃ <s> <<~>> </s> ɐ |
+| SHINASSHA-30-1 | SHINASSHA | 30 | ca"atca | ts ɐ <s> <<">> </s> ɐ t ts ɐ |
+| SPOKANE-32-2 | SPOKANE | 32 | sCLt"7~ek"w~ | s tʃ ʎ tʼ ʔ <s> <<~>> </s> e kʼʷ |
+| SPOKANE-93-2 | SPOKANE | 93 | snL"7~aq" | s n ʎ’ ʔ <s> <<~>> </s> ɐ qʼ |
+| SSIERRAMIWOK-13-2 | SSIERRAMIWOK | 13 | onaC3~ | o n ɐ tʃ ə <s> <<~>> </s> |
+| SWAHILICHIRAZI-85-1 | SWAHILICHIRAZI | 85 | Nj~ia | ŋ dʒ <s> <<~>> </s> i ɐ |
+| TACHENGDAGUR-30-1 | TACHENGDAGUR | 30 | C~os | tʃ <s> <<~>> </s> o s |
+| THURAWAL-44-1 | THURAWAL | 44 | dha~ala5 | d h ɐ <s> <<~>> </s> ɐ l ɐ ɲ |
+| TIBEA-31-2 | TIBEA | 31 | pp~3y7 | p p <s> <<~>> </s> ə j ʔ |
+| TIBEA-66-2 | TIBEA | 66 | pp~3 | p p <s> <<~>> </s> ə |
+| TIKARAKUEN-48-1 | TIKARAKUEN | 48 | ST~e | ʃ c <s> <<~>> </s> e |
+| TOGO-85-1 | TOGO | 85 | kh~w~ath~ | kʰ w <s> <<~>> </s> ɐ tʰ |
+| TRIQUICHICAHUAXTLA-58-1 | TRIQUICHICAHUAXTLA | 58 | *37 | <s> <<*>> </s> ə ʔ |
+| TUSCARORA-86-2 | TUSCARORA | 86 | yunE*dhEr7uj* | j u n ã d h a r ʔ u dʒ <s> <<*>> </s> |
+| TZOTZILZINACANTAN1600-28-1 | TZOTZILZINACANTAN1600 | 28 | Co" | tʃ o <s> <<">> </s> |
+| UDI-3-1 | UDI | 3 | vX~an | v χ <s> <<~>> </s> ɐ n |
+| UDI-47-1 | UDI | 47 | k"X~ak"X~ap" | kʼ χ <s> <<~>> </s> ɐ kʼ χ <s> <<~>> </s> ɐ pʼ |
+| UNA-2-2 | UNA | 2 | su~n | s u <s> <<~>> </s> n |
+| WARRNAMBOOL-54-1 | WARRNAMBOOL | 54 | tha~th~a | t h ɐ <s> <<~>> </s> tʰ ɐ |
+| WIRADHURI-44-1 | WIRADHURI | 44 | dha~alayn | d h ɐ <s> <<~>> </s> ɐ l ɐ j n |
+| WIRADHURI-44-2 | WIRADHURI | 44 | dha~ala5 | d h ɐ <s> <<~>> </s> ɐ l ɐ ɲ |
+| WODANI-85-1 | WODANI | 85 | hi~nda | h i <s> <<~>> </s> n d ɐ |
+| WULGURU-44-1 | WULGURU | 44 | dha~ala5 | d h ɐ <s> <<~>> </s> ɐ l ɐ ɲ |
 
 (100 rows)
 

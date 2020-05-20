@@ -1,7 +1,7 @@
 {
-    "citation": "Wichmann, Søren, André Müller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Matthias Urban, Sebastian Sauppe, Oleg Belyaev, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, and Helen Geyer. 2010. The ASJP Database (Version 12).",
+    "citation": "Wichmann, Søren, André Müller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Sebastian Sauppe, Oleg Belyaev, Matthias Urban, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, David Beck, and Helen Geyer. 2010. The ASJP Database (version 13).",
     "license": "https://creativecommons.org/licenses/by/4.0/",
-    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" from 2010",
+    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v13 from 2010",
     "url": "https://asjp.clld.org",
     "conceptlist": "Holman-2008-100"
 }

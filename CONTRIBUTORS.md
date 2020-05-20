@@ -20,9 +20,9 @@ Dik Bakker | | | Author
 Johann-Mattis List | @LinguList | | DataCollector, Author
 Dmitry Egorov | | | DataCollector, Author
 Robert Mailhammer | | | DataCollector, Author
+David Beck | | | DataCollector, Author
 Helen Geyer | | | DataCollector, Author
 Darja Appelganz | | | DataCollector
-David Beck | | | DataCollector
 Dickson Pagente | | | DataCollector
 Danli Wu | | | DataCollector
 Evgenia Korovina | | | DataCollector

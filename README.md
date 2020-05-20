@@ -1,8 +1,8 @@
-# CLDF dataset derived from Wichmann et al.'s "ASJP Database" from 2010
+# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v13 from 2010
 
 Cite the source dataset as
 
-> Wichmann, Søren, André Müller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Matthias Urban, Sebastian Sauppe, Oleg Belyaev, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, and Helen Geyer. 2010. The ASJP Database (Version 12).
+> Wichmann, Søren, André Müller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Sebastian Sauppe, Oleg Belyaev, Matthias Urban, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, David Beck, and Helen Geyer. 2010. The ASJP Database (version 13).
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
@@ -24,19 +24,19 @@ contain 40-item word lists of all the world's languages.
 [![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 91%](https://img.shields.io/badge/Source-91%25-green.svg "Source: 91%")
+![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
 ![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 4,335
+- **Varieties:** 4,817
 - **Concepts:** 100
-- **Lexemes:** 188,451
-- **Sources:** 3,917
+- **Lexemes:** 207,269
+- **Sources:** 4,461
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 798,341
-- **Segments:** 282 (3 BIPA errors, 3 CTLS sound class errors, 279 CLTS modified)
-- **Inventory size (avg):** 23.82
+- **Tokens:** 877,177
+- **Segments:** 286 (3 BIPA errors, 3 CTLS sound class errors, 283 CLTS modified)
+- **Inventory size (avg):** 23.77
 
 ## Possible Improvements:
 
@@ -63,6 +63,7 @@ contain 40-item word lists of all the world's languages.
   - HUASTEC [huas1255](http://glottolog.org/resource/languoid/id/huas1255)
   - IBILO [ibil1238](http://glottolog.org/resource/languoid/id/ibil1238)
   - IXIL_CHAJUL [ixil1252](http://glottolog.org/resource/languoid/id/ixil1252)
+  - IXIL_NEBAJ [ixil1253](http://glottolog.org/resource/languoid/id/ixil1253)
   - JACALTEC [jaka1246](http://glottolog.org/resource/languoid/id/jaka1246)
   - JACALTECO_WESTERN [jaka1246](http://glottolog.org/resource/languoid/id/jaka1246)
   - KATUKINA [nucl1668](http://glottolog.org/resource/languoid/id/nucl1668)
@@ -85,6 +86,7 @@ contain 40-item word lists of all the world's languages.
   - MAM_TODOS_SANTOS_CUCHUMATAN_1 [mamt1235](http://glottolog.org/resource/languoid/id/mamt1235)
   - MAM_TODOS_SANTOS_CUCHUMATAN_2 [mamt1235](http://glottolog.org/resource/languoid/id/mamt1235)
   - MAM_TODOS_SANTOS_CUCHUMATAN_3 [mamt1235](http://glottolog.org/resource/languoid/id/mamt1235)
+  - MANDAYAN_BOSO [sang1338](http://glottolog.org/resource/languoid/id/sang1338)
   - MAWAYANA [mawa1271](http://glottolog.org/resource/languoid/id/mawa1271)
   - MENGISA [meng1263](http://glottolog.org/resource/languoid/id/meng1263)
   - NAMBAKAENGO/MALO [natu1249](http://glottolog.org/resource/languoid/id/natu1249)
@@ -95,6 +97,7 @@ contain 40-item word lists of all the world's languages.
   - NGOMBE [ngom1265](http://glottolog.org/resource/languoid/id/ngom1265)
   - NISHING [nisi1239](http://glottolog.org/resource/languoid/id/nisi1239)
   - NISI [nisi1239](http://glottolog.org/resource/languoid/id/nisi1239)
+  - NISI_TAGIN [nisi1239](http://glottolog.org/resource/languoid/id/nisi1239)
   - NOOTKA [noot1239](http://glottolog.org/resource/languoid/id/noot1239)
   - NORTHERN_CAKCHIQUEL_SAN_MARTIN_JILOTEPEQUE [kaqc1275](http://glottolog.org/resource/languoid/id/kaqc1275)
   - NORTHERN_CAKCHIQUEL_TECPAN [kaqc1275](http://glottolog.org/resource/languoid/id/kaqc1275)
@@ -131,7 +134,7 @@ contain 40-item word lists of all the world's languages.
   - ZINACANTAN_TZOTZIL [tzot1264](http://glottolog.org/resource/languoid/id/tzot1264)
 
 
-- Entries missing sources: 16518/188451 (8.77%)
+- Entries missing sources: 13772/207269 (6.64%)
 
 # Contributors
 
@@ -155,9 +158,9 @@ Dik Bakker | | | Author
 Johann-Mattis List | @LinguList | | DataCollector, Author
 Dmitry Egorov | | | DataCollector, Author
 Robert Mailhammer | | | DataCollector, Author
+David Beck | | | DataCollector, Author
 Helen Geyer | | | DataCollector, Author
 Darja Appelganz | | | DataCollector
-David Beck | | | DataCollector
 Dickson Pagente | | | DataCollector
 Danli Wu | | | DataCollector
 Evgenia Korovina | | | DataCollector
