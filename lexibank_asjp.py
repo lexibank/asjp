@@ -1,3 +1,4 @@
+import re
 import pathlib
 
 import attr
@@ -66,10 +67,7 @@ class Dataset(pylexibank.Dataset):
                 ID=lid,
                 Name=doculect.id,
                 ISO639P3code=doculect.code_iso
-                if doculect.code_iso
-                and (not '0' in doculect.code_iso)
-                and len(doculect.code_iso) == 3
-                else None,
+                if re.fullmatch('[a-z]{3}', doculect.code_iso or '') else None,
                 Glottocode=iso2gl.get(doculect.code_iso),
                 Latitude=doculect.latitude,
                 Longitude=doculect.longitude,
