@@ -18,6 +18,9 @@
         },
         {
             "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
         }
     ],
     "contributors": [
@@ -38,19 +41,7 @@
             "type": "DataCollector"
         },
         {
-            "name": "Agustina Carrizo",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Anthony Grant",
-            "type": "DataCollector"
-        },
-        {
             "name": "Andr\u00e9 M\u00fcller",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Arjan Mossel",
             "type": "DataCollector"
         },
         {
@@ -58,23 +49,11 @@
             "type": "DataCollector"
         },
         {
+            "name": "Ann-Katrin Wett",
+            "type": "DataCollector"
+        },
+        {
             "name": "Cecil H. Brown",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Pamela Brown",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Matthias Urban",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Sebastian Sauppe",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Oleg Belyaev",
             "type": "DataCollector"
         },
         {
@@ -82,7 +61,15 @@
             "type": "DataCollector"
         },
         {
-            "name": "Ann-Katrin Wett",
+            "name": "Sebastian Sauppe",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Pamela Brown",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Julia Bischoffberger",
             "type": "DataCollector"
         },
         {
@@ -94,7 +81,19 @@
             "type": "DataCollector"
         },
         {
+            "name": "Oleg Belyaev",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Matthias Urban",
+            "type": "DataCollector"
+        },
+        {
             "name": "Robert Mailhammer",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Helen Geyer",
             "type": "DataCollector"
         },
         {
@@ -102,7 +101,23 @@
             "type": "DataCollector"
         },
         {
-            "name": "Helen Geyer",
+            "name": "Evgenia Korovina",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Patience Epps",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Anthony Grant",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Agustina Carrizo",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Arjan Mossel",
             "type": "DataCollector"
         },
         {
@@ -118,15 +133,7 @@
             "type": "DataCollector"
         },
         {
-            "name": "Evgenia Korovina",
-            "type": "DataCollector"
-        },
-        {
             "name": "Guillaume Segerer",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Julia Bischoffberger",
             "type": "DataCollector"
         },
         {
@@ -147,10 +154,6 @@
         },
         {
             "name": "Pengfei Chen",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Patience Epps",
             "type": "DataCollector"
         },
         {
@@ -190,7 +193,16 @@
             "name": "Viveka Velupillai"
         },
         {
+            "name": "Ann-Katrin Wett"
+        },
+        {
             "name": "Cecil H. Brown"
+        },
+        {
+            "name": "Zarina Molochieva"
+        },
+        {
+            "name": "Sebastian Sauppe"
         },
         {
             "name": "Eric W. Holman"
@@ -199,16 +211,7 @@
             "name": "Pamela Brown"
         },
         {
-            "name": "Matthias Urban"
-        },
-        {
-            "name": "Sebastian Sauppe"
-        },
-        {
-            "name": "Oleg Belyaev"
-        },
-        {
-            "name": "Zarina Molochieva"
+            "name": "Julia Bischoffberger"
         },
         {
             "name": "Dik Bakker"
@@ -220,13 +223,34 @@
             "name": "Dmitry Egorov"
         },
         {
+            "name": "Oleg Belyaev"
+        },
+        {
+            "name": "Matthias Urban"
+        },
+        {
             "name": "Robert Mailhammer"
+        },
+        {
+            "name": "Helen Geyer"
         },
         {
             "name": "David Beck"
         },
         {
-            "name": "Helen Geyer"
+            "name": "Evgenia Korovina"
+        },
+        {
+            "name": "Patience Epps"
+        },
+        {
+            "name": "Pilar Valenzuela"
+        },
+        {
+            "name": "Anthony Grant"
+        },
+        {
+            "name": "Harald Hammarstr\u00f6m"
         },
         {
             "name": "Robert Forkel"
@@ -235,8 +259,8 @@
             "name": "Tiago Tresoldi"
         }
     ],
-    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v13 from 2010",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wichmann, S\u00f8ren, Andr\u00e9 M\u00fcller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Sebastian Sauppe, Oleg Belyaev, Matthias Urban, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, David Beck, and Helen Geyer. 2010. The ASJP Database (version 13).</p>\n</blockquote>",
+    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v14 from 2011",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wichmann, S\u00f8ren, Andr\u00e9 M\u00fcller, Viveka Velupillai, Annkathrin Wett, Cecil H. Brown, Zarina Molochieva, Sebastian Sauppe, Eric W. Holman, Pamela Brown, Julia Bishoffberger, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Oleg Belyaev, Matthias Urban, Robert Mailhammer, Helen Geyer, David Beck, Evgenia Korovina, Pattie Epps, Pilar Valenzuela, Anthony Grant, and Harald Hammarstr\u00f6m. 2011. The ASJP Database (version 14).</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

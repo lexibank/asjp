@@ -1,8 +1,8 @@
-# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v13 from 2010
+# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v14 from 2011
 
 Cite the source dataset as
 
-> Wichmann, Søren, André Müller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Sebastian Sauppe, Oleg Belyaev, Matthias Urban, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, David Beck, and Helen Geyer. 2010. The ASJP Database (version 13).
+> Wichmann, Søren, André Müller, Viveka Velupillai, Annkathrin Wett, Cecil H. Brown, Zarina Molochieva, Sebastian Sauppe, Eric W. Holman, Pamela Brown, Julia Bishoffberger, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Oleg Belyaev, Matthias Urban, Robert Mailhammer, Helen Geyer, David Beck, Evgenia Korovina, Pattie Epps, Pilar Valenzuela, Anthony Grant, and Harald Hammarström. 2011. The ASJP Database (version 14).
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
@@ -24,19 +24,19 @@ contain 40-item word lists of all the world's languages.
 [![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
+![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 4,817
+- **Varieties:** 5,393
 - **Concepts:** 100
-- **Lexemes:** 207,269
-- **Sources:** 4,461
+- **Lexemes:** 233,948
+- **Sources:** 5,093
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 877,177
-- **Segments:** 286 (3 BIPA errors, 3 CTLS sound class errors, 283 CLTS modified)
-- **Inventory size (avg):** 23.77
+- **Tokens:** 988,208
+- **Segments:** 297 (2 BIPA errors, 2 CTLS sound class errors, 295 CLTS modified)
+- **Inventory size (avg):** 23.82
 
 ## Possible Improvements:
 
@@ -52,6 +52,7 @@ contain 40-item word lists of all the world's languages.
   - CHUJ [chuj1251](http://glottolog.org/resource/languoid/id/chuj1251)
   - CHUJ_SAN_MATEO_IXTATAN [chuj1251](http://glottolog.org/resource/languoid/id/chuj1251)
   - DACHE [gamo1244](http://glottolog.org/resource/languoid/id/gamo1244)
+  - DANANSHAN_HMONG [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
   - DITIDAHT [noot1239](http://glottolog.org/resource/languoid/id/noot1239)
   - ELPAPUTIH_SAMASURU_PAULOHIJ [elpa1240](http://glottolog.org/resource/languoid/id/elpa1240)
   - ELPAPUTIH_SERAM_1 [elpa1240](http://glottolog.org/resource/languoid/id/elpa1240)
@@ -60,19 +61,47 @@ contain 40-item word lists of all the world's languages.
   - FOLOKAKAN [fore1268](http://glottolog.org/resource/languoid/id/fore1268)
   - GBELEBANKAKAN [fore1268](http://glottolog.org/resource/languoid/id/fore1268)
   - GELAO [gela1261](http://glottolog.org/resource/languoid/id/gela1261)
+  - HONGFENG_GELAO [gela1261](http://glottolog.org/resource/languoid/id/gela1261)
   - HUASTEC [huas1255](http://glottolog.org/resource/languoid/id/huas1255)
   - IBILO [ibil1238](http://glottolog.org/resource/languoid/id/ibil1238)
   - IXIL_CHAJUL [ixil1252](http://glottolog.org/resource/languoid/id/ixil1252)
   - IXIL_NEBAJ [ixil1253](http://glottolog.org/resource/languoid/id/ixil1253)
   - JACALTEC [jaka1246](http://glottolog.org/resource/languoid/id/jaka1246)
   - JACALTECO_WESTERN [jaka1246](http://glottolog.org/resource/languoid/id/jaka1246)
+  - JUDU_GELAO [gela1261](http://glottolog.org/resource/languoid/id/gela1261)
   - KATUKINA [nucl1668](http://glottolog.org/resource/languoid/id/nucl1668)
+  - KICHEE_ALDEA_ARGUETA_SOLOLA [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_CANTEL [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_CHICHICASTENANGO [kich1265](http://glottolog.org/resource/languoid/id/kich1265)
+  - KICHEE_CUBULCO [achi1258](http://glottolog.org/resource/languoid/id/achi1258)
+  - KICHEE_CUNEN_1 [kich1264](http://glottolog.org/resource/languoid/id/kich1264)
+  - KICHEE_CUNEN_2 [kich1264](http://glottolog.org/resource/languoid/id/kich1264)
+  - KICHEE_JOYABAJ_1 [kich1267](http://glottolog.org/resource/languoid/id/kich1267)
+  - KICHEE_JOYABAJ_2 [kich1267](http://glottolog.org/resource/languoid/id/kich1267)
+  - KICHEE_MOMOSTENANGO [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_NAHUALA_1 [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_NAHUALA_2 [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_SAMAYAC_1 [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_SAMAYAC_2 [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_SANTA_CLARA_LA_LAGUNA [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_SANTA_LUCIA_UTATLAN [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_SAN_JOSE_CHIQUILAJA_QUETZ [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_SAN_MIGUEL_CHICAJ [kich1265](http://glottolog.org/resource/languoid/id/kich1265)
+  - KICHEE_TOTONICAPAN_1 [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_TOTONICAPAN_2 [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
+  - KICHEE_ZACUALPA [kich1265](http://glottolog.org/resource/languoid/id/kich1265)
+  - KICHEE_ZUNIL [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
   - KULLO [gamo1244](http://glottolog.org/resource/languoid/id/gamo1244)
   - LENCA_EL_SALVADOR [lenc1244](http://glottolog.org/resource/languoid/id/lenc1244)
   - LENCA_HONDURAS [lenc1244](http://glottolog.org/resource/languoid/id/lenc1244)
   - MALAGASY_ANTAISAKA [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
   - MALAGASY_ANTAMBAHOAKA [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
   - MALAGASY_FIANARANTSOA [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
+  - MALAGASY_SOUTHERN_BETSIMISARAKA(ANTAMBOHOAKA_MANANJARY) [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
+  - MALAGASY_SOUTHERN_BETSIMISARAKA(MAHANORO) [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
+  - MALAGASY_SOUTHERN_BETSIMISARAKA/ANTAIMORO(MANAKARA) [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
+  - MALAGASY_SOUTHERN_BETSIMISARAKA/ZAFISIRO(FARAFANGANA) [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
+  - MALAGASY_SOUTHERN_BETSIMISARAKA_ANTAISAKA(VANGAINDRANO) [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
   - MALAGASY_ZAFISORO [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
   - MAM_CABRICAN [mams1234](http://glottolog.org/resource/languoid/id/mams1234)
   - MAM_CAJOLA [mams1234](http://glottolog.org/resource/languoid/id/mams1234)
@@ -91,6 +120,7 @@ contain 40-item word lists of all the world's languages.
   - MENGISA [meng1263](http://glottolog.org/resource/languoid/id/meng1263)
   - NAMBAKAENGO/MALO [natu1249](http://glottolog.org/resource/languoid/id/natu1249)
   - NAXI [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
+  - NAXI_2 [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
   - NEA [natu1249](http://glottolog.org/resource/languoid/id/natu1249)
   - NEA/NEMBOI [natu1249](http://glottolog.org/resource/languoid/id/natu1249)
   - NEA/NOOLI [natu1249](http://glottolog.org/resource/languoid/id/natu1249)
@@ -98,6 +128,7 @@ contain 40-item word lists of all the world's languages.
   - NISHING [nisi1239](http://glottolog.org/resource/languoid/id/nisi1239)
   - NISI [nisi1239](http://glottolog.org/resource/languoid/id/nisi1239)
   - NISI_TAGIN [nisi1239](http://glottolog.org/resource/languoid/id/nisi1239)
+  - NIUPO_GELAO [gela1261](http://glottolog.org/resource/languoid/id/gela1261)
   - NOOTKA [noot1239](http://glottolog.org/resource/languoid/id/noot1239)
   - NORTHERN_CAKCHIQUEL_SAN_MARTIN_JILOTEPEQUE [kaqc1275](http://glottolog.org/resource/languoid/id/kaqc1275)
   - NORTHERN_CAKCHIQUEL_TECPAN [kaqc1275](http://glottolog.org/resource/languoid/id/kaqc1275)
@@ -111,6 +142,7 @@ contain 40-item word lists of all the world's languages.
   - POQOMCHI_WESTERN [poqo1256](http://glottolog.org/resource/languoid/id/poqo1256)
   - SANAPANA_ANGAITE [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
   - SANAPANA_ENLHET [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
+  - SHIMENKAN_HMONG [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
   - SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA [kaqc1274](http://glottolog.org/resource/languoid/id/kaqc1274)
   - SOUTHERN_MAM_SAN_JUAN_OSTUNCALCO [mams1234](http://glottolog.org/resource/languoid/id/mams1234)
   - TUNEN [tune1241](http://glottolog.org/resource/languoid/id/tune1241)
@@ -123,6 +155,7 @@ contain 40-item word lists of all the world's languages.
   - VATRATA [vatr1237](http://glottolog.org/resource/languoid/id/vatr1237)
   - VATRATA_SASAR [vatr1237](http://glottolog.org/resource/languoid/id/vatr1237)
   - WALO_KUMBE [walo1239](http://glottolog.org/resource/languoid/id/walo1239)
+  - WESTERN_CAKCHIQUEL_PATZUN [kaqc1279](http://glottolog.org/resource/languoid/id/kaqc1279)
   - WESTERN_QUICHE_MOMOSTENANGO [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
   - WESTERN_QUICHE_SANTA_CATARINA_IXTAHUACAN [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
   - WESTERN_QUICHE_TOTONICAPAN [kich1266](http://glottolog.org/resource/languoid/id/kich1266)
@@ -131,47 +164,50 @@ contain 40-item word lists of all the world's languages.
   - YANDANG [yend1240](http://glottolog.org/resource/languoid/id/yend1240)
   - YOTI [yend1240](http://glottolog.org/resource/languoid/id/yend1240)
   - YUGH_RECENT [yugh1240](http://glottolog.org/resource/languoid/id/yugh1240)
+  - ZHENFENG_GELAO [gela1261](http://glottolog.org/resource/languoid/id/gela1261)
   - ZINACANTAN_TZOTZIL [tzot1264](http://glottolog.org/resource/languoid/id/tzot1264)
 
 
-- Entries missing sources: 13772/207269 (6.64%)
+- Entries missing sources: 12292/233948 (5.25%)
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Søren Wichmann | | | Author, Distributor, DataCurator, Editor, DataCollector
-Agustina Carrizo | | | DataCollector
-Anthony Grant | | | DataCollector
 André Müller | | | DataCollector, Author
-Arjan Mossel | | | DataCollector
 Viveka Velupillai | | | DataCollector, Author
+Ann-Katrin Wett | | | DataCollector, Author
 Cecil H. Brown | | | DataCollector, Author
+Zarina Molochieva | | | DataCollector, Author
+Sebastian Sauppe | | | DataCollector, Author
 Eric W. Holman | | | Author
 Pamela Brown | | | DataCollector, Author
-Matthias Urban | | | DataCollector, Author
-Sebastian Sauppe | | | DataCollector, Author
-Oleg Belyaev | | | DataCollector, Author
-Zarina Molochieva | | | DataCollector, Author
-Ann-Katrin Wett | | | DataCollector
+Julia Bischoffberger | | | DataCollector, Author
 Dik Bakker | | | Author
 Johann-Mattis List | @LinguList | | DataCollector, Author
 Dmitry Egorov | | | DataCollector, Author
+Oleg Belyaev | | | DataCollector, Author
+Matthias Urban | | | DataCollector, Author
 Robert Mailhammer | | | DataCollector, Author
-David Beck | | | DataCollector, Author
 Helen Geyer | | | DataCollector, Author
+David Beck | | | DataCollector, Author
+Evgenia Korovina | | | DataCollector, Author
+Patience Epps | | | DataCollector, Author
+Pilar Valenzuela | | | Author
+Anthony Grant | | | DataCollector, Author
+Harald Hammarström | | | Author
+Agustina Carrizo | | | DataCollector
+Arjan Mossel | | | DataCollector
 Darja Appelganz | | | DataCollector
 Dickson Pagente | | | DataCollector
 Danli Wu | | | DataCollector
-Evgenia Korovina | | | DataCollector
 Guillaume Segerer | | | DataCollector
-Julia Bischoffberger | | | DataCollector
 Ke Xu | | | DataCollector
 Mark Donohue | | | DataCollector
 Matthias Pache | | | DataCollector
 Matthew S. Dryer | | | DataCollector
 Pengfei Chen | | | DataCollector
-Patience Epps | | | DataCollector
 Paul Sidwell | | | DataCollector
 Qibin Ran | | | DataCollector
 Tessa de Mol-van Valen | | | DataCollector
