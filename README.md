@@ -1,8 +1,8 @@
-# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v14 from 2011
+# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v15 from 2012
 
 Cite the source dataset as
 
-> Wichmann, Søren, André Müller, Viveka Velupillai, Annkathrin Wett, Cecil H. Brown, Zarina Molochieva, Sebastian Sauppe, Eric W. Holman, Pamela Brown, Julia Bishoffberger, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Oleg Belyaev, Matthias Urban, Robert Mailhammer, Helen Geyer, David Beck, Evgenia Korovina, Pattie Epps, Pilar Valenzuela, Anthony Grant, and Harald Hammarström. 2011. The ASJP Database (version 14).
+> Wichmann, Søren, André Müller, Viveka Velupillai, Annkathrin Wett, Cecil H. Brown, Zarina Molochieva, Julia Bishoffberger, Eric W. Holman, Sebastian Sauppe, Pamela Brown, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Oleg Belyaev, Matthias Urban, Harald Hammarström, Agustina Carrizo, Robert Mailhammer, Helen Geyer, David Beck, Evgenia Korovina, Pattie Epps, Pilar Valenzuela, and Anthony Grant. 2012. The ASJP Database (version 15).
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
@@ -24,19 +24,19 @@ contain 40-item word lists of all the world's languages.
 [![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
+![Source: 96%](https://img.shields.io/badge/Source-96%25-green.svg "Source: 96%")
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
 ![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 5,393
+- **Varieties:** 5,843
 - **Concepts:** 100
-- **Lexemes:** 233,948
-- **Sources:** 5,093
-- **Synonymy:** 1.12
+- **Lexemes:** 249,458
+- **Sources:** 5,602
+- **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 988,208
-- **Segments:** 297 (2 BIPA errors, 2 CTLS sound class errors, 295 CLTS modified)
-- **Inventory size (avg):** 23.82
+- **Tokens:** 1,052,692
+- **Segments:** 299 (2 BIPA errors, 2 CTLS sound class errors, 297 CLTS modified)
+- **Inventory size (avg):** 23.69
 
 ## Possible Improvements:
 
@@ -116,7 +116,6 @@ contain 40-item word lists of all the world's languages.
   - MAM_TODOS_SANTOS_CUCHUMATAN_2 [mamt1235](http://glottolog.org/resource/languoid/id/mamt1235)
   - MAM_TODOS_SANTOS_CUCHUMATAN_3 [mamt1235](http://glottolog.org/resource/languoid/id/mamt1235)
   - MANDAYAN_BOSO [sang1338](http://glottolog.org/resource/languoid/id/sang1338)
-  - MAWAYANA [mawa1271](http://glottolog.org/resource/languoid/id/mawa1271)
   - MENGISA [meng1263](http://glottolog.org/resource/languoid/id/meng1263)
   - NAMBAKAENGO/MALO [natu1249](http://glottolog.org/resource/languoid/id/natu1249)
   - NAXI [naxi1246](http://glottolog.org/resource/languoid/id/naxi1246)
@@ -137,16 +136,20 @@ contain 40-item word lists of all the world's languages.
   - NYOKON [tune1241](http://glottolog.org/resource/languoid/id/tune1241)
   - OMATI [omat1240](http://glottolog.org/resource/languoid/id/omat1240)
   - OUNG [oung1238](http://glottolog.org/resource/languoid/id/oung1238)
+  - O_KUNG [oung1238](http://glottolog.org/resource/languoid/id/oung1238)
   - POCOMAM_EASTERN [poqo1257](http://glottolog.org/resource/languoid/id/poqo1257)
   - POCOMAM_SAN_LUIS_JILOTEPEQUE [poqo1257](http://glottolog.org/resource/languoid/id/poqo1257)
   - POQOMCHI_WESTERN [poqo1256](http://glottolog.org/resource/languoid/id/poqo1256)
+  - SAMRE [samr1245](http://glottolog.org/resource/languoid/id/samr1245)
   - SANAPANA_ANGAITE [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
   - SANAPANA_ENLHET [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
   - SHIMENKAN_HMONG [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
   - SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA [kaqc1274](http://glottolog.org/resource/languoid/id/kaqc1274)
   - SOUTHERN_MAM_SAN_JUAN_OSTUNCALCO [mams1234](http://glottolog.org/resource/languoid/id/mams1234)
+  - SUYONG_HMONG [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
   - TUNEN [tune1241](http://glottolog.org/resource/languoid/id/tune1241)
   - TZELTAL_BACHAJON [tzel1255](http://glottolog.org/resource/languoid/id/tzel1255)
+  - TZOTZIL_HUIXTAN [tzot1261](http://glottolog.org/resource/languoid/id/tzot1261)
   - TZOTZIL_SAN_ANDRES [tzot1260](http://glottolog.org/resource/languoid/id/tzot1260)
   - TZUTUJIL_WESTERN [tzut1249](http://glottolog.org/resource/languoid/id/tzut1249)
   - URADHI_ANGKAMUTHI [urad1239](http://glottolog.org/resource/languoid/id/urad1239)
@@ -168,7 +171,7 @@ contain 40-item word lists of all the world's languages.
   - ZINACANTAN_TZOTZIL [tzot1264](http://glottolog.org/resource/languoid/id/tzot1264)
 
 
-- Entries missing sources: 12292/233948 (5.25%)
+- Entries missing sources: 10083/249458 (4.04%)
 
 # Contributors
 
@@ -180,15 +183,17 @@ Viveka Velupillai | | | DataCollector, Author
 Ann-Katrin Wett | | | DataCollector, Author
 Cecil H. Brown | | | DataCollector, Author
 Zarina Molochieva | | | DataCollector, Author
-Sebastian Sauppe | | | DataCollector, Author
-Eric W. Holman | | | Author
-Pamela Brown | | | DataCollector, Author
 Julia Bischoffberger | | | DataCollector, Author
+Eric W. Holman | | | Author
+Sebastian Sauppe | | | DataCollector, Author
+Pamela Brown | | | DataCollector, Author
 Dik Bakker | | | Author
 Johann-Mattis List | @LinguList | | DataCollector, Author
 Dmitry Egorov | | | DataCollector, Author
 Oleg Belyaev | | | DataCollector, Author
 Matthias Urban | | | DataCollector, Author
+Harald Hammarström | | | Author
+Agustina Carrizo | | | DataCollector, Author
 Robert Mailhammer | | | DataCollector, Author
 Helen Geyer | | | DataCollector, Author
 David Beck | | | DataCollector, Author
@@ -196,8 +201,6 @@ Evgenia Korovina | | | DataCollector, Author
 Patience Epps | | | DataCollector, Author
 Pilar Valenzuela | | | Author
 Anthony Grant | | | DataCollector, Author
-Harald Hammarström | | | Author
-Agustina Carrizo | | | DataCollector
 Arjan Mossel | | | DataCollector
 Darja Appelganz | | | DataCollector
 Dickson Pagente | | | DataCollector
