@@ -78,7 +78,8 @@ class Dataset(pylexibank.Dataset):
                 year_of_extinction=doculect.year_of_extinction,
                 code_wals=doculect.code_wals,
                 code_iso=doculect.code_iso,
-                transcribers=' and '.join([tr.name for tr in asjp.transcriber(doculect) or []]),
+                transcribers=' and '.join(
+                    sorted([tr.name for tr in asjp.transcriber(doculect) or []])),
             )
             for synset in sorted(doculect.synsets, key=lambda ss: ss.meaning_id):
                 for word in synset.words:
@@ -90,5 +91,5 @@ class Dataset(pylexibank.Dataset):
                         Loan=word.loan,
                         Comment=synset.comment,
                         gloss_in_source=synset.meaning,
-                        Source=[str(src.id) for src in sources],
+                        Source=sorted([str(src.id) for src in sources]),
                     )

@@ -20,7 +20,7 @@ setup(
         ]
     },
     install_requires=[
-        'pyasjp',
+        'pyasjp>=1.1',
         'pylexibank>=2.1',
     ]
 )
