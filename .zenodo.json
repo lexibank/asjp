@@ -27,160 +27,171 @@
         },
         {
             "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
         }
     ],
     "contributors": [
         {
-            "name": "S\u00f8ren Wichmann",
-            "type": "Distributor"
+            "type": "Distributor",
+            "name": "S\u00f8ren Wichmann"
         },
         {
-            "name": "S\u00f8ren Wichmann",
-            "type": "DataCurator"
+            "type": "DataCurator",
+            "name": "S\u00f8ren Wichmann"
         },
         {
-            "name": "S\u00f8ren Wichmann",
-            "type": "Editor"
+            "type": "Editor",
+            "name": "S\u00f8ren Wichmann"
         },
         {
-            "name": "S\u00f8ren Wichmann",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "S\u00f8ren Wichmann"
         },
         {
-            "name": "Andr\u00e9 M\u00fcller",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Andr\u00e9 M\u00fcller"
         },
         {
-            "name": "Ann-Katrin Wett",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Ann-Katrin Wett"
         },
         {
-            "name": "Viveka Velupillai",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Viveka Velupillai"
         },
         {
-            "name": "Julia Bischoffberger",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Julia Bischoffberger"
         },
         {
-            "name": "Cecil H. Brown",
-            "type": "DataCollector"
+            "type": "Editor",
+            "name": "Eric W. Holman"
         },
         {
-            "name": "Sebastian Sauppe",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Cecil H. Brown"
         },
         {
-            "name": "Zarina Molochieva",
-            "type": "DataCollector"
+            "type": "Editor",
+            "name": "Cecil H. Brown"
         },
         {
-            "name": "Pamela Brown",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Sebastian Sauppe"
         },
         {
-            "name": "Oleg Belyaev",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Zarina Molochieva"
         },
         {
-            "name": "Johann-Mattis List",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Pamela Brown"
         },
         {
-            "name": "Dmitry Egorov",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Oleg Belyaev"
         },
         {
-            "name": "Matthias Urban",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Johann-Mattis List"
         },
         {
-            "name": "Robert Mailhammer",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Dmitry Egorov"
         },
         {
-            "name": "Agustina Carrizo",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Matthias Urban"
         },
         {
-            "name": "Matthew S. Dryer",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Robert Mailhammer"
         },
         {
-            "name": "Evgenia Korovina",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Agustina Carrizo"
         },
         {
-            "name": "David Beck",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Matthew S. Dryer"
         },
         {
-            "name": "Helen Geyer",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Evgenia Korovina"
         },
         {
-            "name": "Patience Epps",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "David Beck"
         },
         {
-            "name": "Anthony Grant",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Helen Geyer"
         },
         {
-            "name": "Arjan Mossel",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Patience Epps"
         },
         {
-            "name": "Darja Appelganz",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Anthony Grant"
         },
         {
-            "name": "Dickson Pagente",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Arjan Mossel"
         },
         {
-            "name": "Danli Wu",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Darja Appelganz"
         },
         {
-            "name": "Guillaume Segerer",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Dickson Pagente"
         },
         {
-            "name": "Ke Xu",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Danli Wu"
         },
         {
-            "name": "Mark Donohue",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Guillaume Segerer"
         },
         {
-            "name": "Matthias Pache",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Ke Xu"
         },
         {
-            "name": "Pengfei Chen",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Mark Donohue"
         },
         {
-            "name": "Paul Sidwell",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Matthias Pache"
         },
         {
-            "name": "Qibin Ran",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Pengfei Chen"
         },
         {
-            "name": "Tessa de Mol-van Valen",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Paul Sidwell"
         },
         {
-            "name": "Yuzhu Liang",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Qibin Ran"
         },
         {
-            "name": "Yue Sun",
-            "type": "DataCollector"
+            "type": "DataCollector",
+            "name": "Tessa de Mol-van Valen"
+        },
+        {
+            "type": "DataCollector",
+            "name": "Yuzhu Liang"
+        },
+        {
+            "type": "DataCollector",
+            "name": "Yue Sun"
         }
     ],
     "keywords": [
@@ -193,76 +204,10 @@
             "name": "S\u00f8ren Wichmann"
         },
         {
-            "name": "Andr\u00e9 M\u00fcller"
-        },
-        {
-            "name": "Ann-Katrin Wett"
-        },
-        {
-            "name": "Viveka Velupillai"
-        },
-        {
-            "name": "Julia Bischoffberger"
-        },
-        {
-            "name": "Cecil H. Brown"
-        },
-        {
             "name": "Eric W. Holman"
         },
         {
-            "name": "Sebastian Sauppe"
-        },
-        {
-            "name": "Zarina Molochieva"
-        },
-        {
-            "name": "Pamela Brown"
-        },
-        {
-            "name": "Harald Hammarstr\u00f6m"
-        },
-        {
-            "name": "Oleg Belyaev"
-        },
-        {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Dik Bakker"
-        },
-        {
-            "name": "Dmitry Egorov"
-        },
-        {
-            "name": "Matthias Urban"
-        },
-        {
-            "name": "Robert Mailhammer"
-        },
-        {
-            "name": "Agustina Carrizo"
-        },
-        {
-            "name": "Matthew S. Dryer"
-        },
-        {
-            "name": "Evgenia Korovina"
-        },
-        {
-            "name": "David Beck"
-        },
-        {
-            "name": "Helen Geyer"
-        },
-        {
-            "name": "Patience Epps"
-        },
-        {
-            "name": "Anthony Grant"
-        },
-        {
-            "name": "Pilar Valenzuela"
+            "name": "Cecil H. Brown"
         },
         {
             "name": "Robert Forkel"
@@ -271,8 +216,8 @@
             "name": "Tiago Tresoldi"
         }
     ],
-    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v16 from 2013",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wichmann, S\u00f8ren, Andr\u00e9 M\u00fcller, Annkathrin Wett, Viveka Velupillai, Julia Bischoffberger, Cecil H. Brown, Eric W. Holman, Sebastian Sauppe, Zarina Molochieva, Pamela Brown, Harald Hammarstr\u00f6m, Oleg Belyaev, Johann-Mattis List, Dik Bakker, Dmitry Egorov, Matthias Urban, Robert Mailhammer, Agustina Carrizo, Matthew S. Dryer, Evgenia Korovina, David Beck, Helen Geyer, Pattie Epps, Anthony Grant, and Pilar Valenzuela. 2013. The ASJP Database (version 16).</p>\n</blockquote>",
+    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v17 from 2016",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2016. The ASJP Database (version 17).</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

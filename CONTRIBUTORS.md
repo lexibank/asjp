@@ -3,30 +3,27 @@
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Søren Wichmann | | | Author, Distributor, DataCurator, Editor, DataCollector
-André Müller | | | DataCollector, Author
-Ann-Katrin Wett | | | DataCollector, Author
-Viveka Velupillai | | | DataCollector, Author
-Julia Bischoffberger | | | DataCollector, Author
-Cecil H. Brown | | | DataCollector, Author
-Eric W. Holman | | | Author
-Sebastian Sauppe | | | DataCollector, Author
-Zarina Molochieva | | | DataCollector, Author
-Pamela Brown | | | DataCollector, Author
-Harald Hammarström | | | Author
-Oleg Belyaev | | | DataCollector, Author
-Johann-Mattis List | @LinguList | | DataCollector, Author
-Dik Bakker | | | Author
-Dmitry Egorov | | | DataCollector, Author
-Matthias Urban | | | DataCollector, Author
-Robert Mailhammer | | | DataCollector, Author
-Agustina Carrizo | | | DataCollector, Author
-Matthew S. Dryer | | | DataCollector, Author
-Evgenia Korovina | | | DataCollector, Author
-David Beck | | | DataCollector, Author
-Helen Geyer | | | DataCollector, Author
-Patience Epps | | | DataCollector, Author
-Anthony Grant | | | DataCollector, Author
-Pilar Valenzuela | | | Author
+André Müller | | | DataCollector
+Ann-Katrin Wett | | | DataCollector
+Viveka Velupillai | | | DataCollector
+Julia Bischoffberger | | | DataCollector
+Eric W. Holman | | | Author, Editor
+Cecil H. Brown | | | DataCollector, Author, Editor
+Sebastian Sauppe | | | DataCollector
+Zarina Molochieva | | | DataCollector
+Pamela Brown | | | DataCollector
+Oleg Belyaev | | | DataCollector
+Johann-Mattis List | @LinguList | | DataCollector
+Dmitry Egorov | | | DataCollector
+Matthias Urban | | | DataCollector
+Robert Mailhammer | | | DataCollector
+Agustina Carrizo | | | DataCollector
+Matthew S. Dryer | | | DataCollector
+Evgenia Korovina | | | DataCollector
+David Beck | | | DataCollector
+Helen Geyer | | | DataCollector
+Patience Epps | | | DataCollector
+Anthony Grant | | | DataCollector
 Arjan Mossel | | | DataCollector
 Darja Appelganz | | | DataCollector
 Dickson Pagente | | | DataCollector

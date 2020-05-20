@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Andr\u00e9 M\u00fcller, Annkathrin Wett, Viveka Velupillai, Julia Bischoffberger, Cecil H. Brown, Eric W. Holman, Sebastian Sauppe, Zarina Molochieva, Pamela Brown, Harald Hammarstr\u00f6m, Oleg Belyaev, Johann-Mattis List, Dik Bakker, Dmitry Egorov, Matthias Urban, Robert Mailhammer, Agustina Carrizo, Matthew S. Dryer, Evgenia Korovina, David Beck, Helen Geyer, Pattie Epps, Anthony Grant, and Pilar Valenzuela. 2013. The ASJP Database (version 16).",
+    "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2016. The ASJP Database (version 17).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Holman-2008-100"
@@ -11,20 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v16 from 2013",
+    "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v17 from 2016",
     "dcat:accessURL": "https://github.com/lexibank/asjp",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/asjp",
-            "dc:created": "4d29818"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "63770f1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -37,6 +31,12 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 284633,
+            "dc:extent": 294538,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 6894,
+            "dc:extent": 7220,
             "tableSchema": {
                 "columns": [
                     {
