@@ -1,30 +1,24 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2018. The ASJP Database (version 18).",
+    "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Andr\u00e9 M\u00fcller, Viveka Velupillai, Cecil H. Brown, Eric W. Holman, Pamela Brown, Matthias Urban, Sebastian Sauppe, Oleg Belyaev, Zarina Molochieva, Annkathrin Wett, Dik Bakker, Johann-Mattis List, Dmitry Egorov, Robert Mailhammer, and Helen Geyer. 2010. The ASJP Database (Version 12).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Wichmann-2010-40"
+        "http://concepticon.clld.org/contributions/Holman-2008-100"
     ],
-    "dc:identifier": "http://asjp.clld.org",
+    "dc:identifier": "https://asjp.clld.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" from 2018",
+    "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" from 2010",
     "dcat:accessURL": "https://github.com/lexibank/asjp",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/asjp",
-            "dc:created": "76bda9c"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "92b8093"
         },
         {
             "rdf:type": "prov:Entity",
@@ -37,12 +31,18 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.7"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 307396,
+            "dc:extent": 188451,
             "tableSchema": {
                 "columns": [
                     {
@@ -121,11 +121,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Graphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Profile"
+                        "name": "gloss_in_source"
                     }
                 ],
                 "foreignKeys": [
@@ -160,7 +156,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 7653,
+            "dc:extent": 4335,
             "tableSchema": {
                 "columns": [
                     {
@@ -216,6 +212,42 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "classification_wals"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "classification_ethnologue"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "classification_glottolog"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "recently_extinct"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "long_extinct"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "year_of_extinction"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "code_wals"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "code_iso"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "transcribers"
                     }
                 ],
                 "primaryKey": [
@@ -255,6 +287,80 @@
                 ]
             },
             "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 0,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "name": "Form_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "name": "Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
+                        "name": "Cognateset_ID"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Doubt"
+                    },
+                    {
+                        "datatype": "string",
+                        "default": "expert",
+                        "name": "Cognate_Detection_Method"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
+                        "separator": " ",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment_Method"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment_Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "cognates.csv"
         }
     ]
 }
