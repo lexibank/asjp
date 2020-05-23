@@ -25,7 +25,7 @@ openpyxl==2.5.5
 pluggy==0.6.0
 purl==1.5
 py==1.5.3
--e git+https://github.com/shh-dlce/pyasjp.git@a8e0a2e30cbbede0b9b60d69588b534b9eb8f792#egg=pyasjp
+-e git+https://github.com/shh-dlce/pyasjp.git@413515cb9179ef642765f0f18fdfbd53d3f649fb#egg=pyasjp
 pybtex==0.22.2
 pycldf==1.9.0
 pyclts==2.0.0

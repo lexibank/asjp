@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2018. The ASJP Database (version 18).",
+    "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2020. The ASJP Database (version 19).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Holman-2008-100"
@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v18 from 2018",
+    "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v19 from 2020",
     "dcat:accessURL": "https://github.com/lexibank/asjp",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/asjp",
-            "dc:created": "5114ccc"
+            "dc:created": "fb8987f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 307389,
+            "dc:extent": 445359,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 7652,
+            "dc:extent": 9783,
             "tableSchema": {
                 "columns": [
                     {
