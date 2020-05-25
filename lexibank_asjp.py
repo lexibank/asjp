@@ -76,6 +76,7 @@ class Dataset(pylexibank.Dataset):
             assert lid not in lids, doculect.id
             lids.add(lid)
             sources = asjp.source(doculect) or []
+            sources = [src for src in sources if src.author or src.year or src.title_etc]
             for src in sources:
                 args.writer.add_sources(Source(
                     'misc', str(src.id), author=src.author, year=src.year, title=src.title_etc))

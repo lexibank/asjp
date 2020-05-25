@@ -24,14 +24,14 @@ contain 40-item word lists of all the world's languages.
 [![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
 ![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![Source: 98%](https://img.shields.io/badge/Source-98%25-green.svg "Source: 98%")
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
 ![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 9,788
 - **Concepts:** 100
 - **Lexemes:** 445,359
-- **Sources:** 9,839
+- **Sources:** 9,606
 - **Synonymy:** 1.11
 - **Invalid lexemes:** 0
 - **Tokens:** 1,853,050
@@ -76,6 +76,7 @@ contain 40-item word lists of all the world's languages.
   - XINCA [xinc1247](http://glottolog.org/resource/languoid/id/xinc1247)
 
 
+- Entries missing sources: 10635/445359 (2.39%)
 
 # Contributors
 
