@@ -1,13 +1,27 @@
 import re
+import string
 import pathlib
+import unicodedata
 
 import attr
 from pyasjp.api import ASJP
-from clldutils.misc import slug
 from pycldf.sources import Source
 
 import pylexibank
 from pyasjp.models import MEANINGS_ALL
+
+
+def slug(s):
+    """Condensed version of s, containing only lowercase alphanumeric characters."""
+    res = ''.join(c for c in unicodedata.normalize('NFD', s)
+                  if unicodedata.category(c) != 'Mn')
+    for c in string.punctuation:
+        if c != '_':
+            res = res.replace(c, '')
+    res = re.sub('\s+', '', res)
+    res = res.encode('ascii', 'ignore').decode('ascii')
+    assert re.match('[ A-Za-z0-9_]*$', res)
+    return res
 
 
 @attr.s
@@ -56,8 +70,11 @@ class Dataset(pylexibank.Dataset):
 
         iso2gl = {l.iso: l.id for l in self.glottolog.languoids() if l.iso}
 
+        lids = set()
         for doculect in sorted(asjp.iter_doculects(), key=lambda dl: dl.id):
-            lid = slug(doculect.id, lowercase=False)
+            lid = slug(doculect.id)
+            assert lid not in lids, doculect.id
+            lids.add(lid)
             sources = asjp.source(doculect) or []
             for src in sources:
                 args.writer.add_sources(Source(

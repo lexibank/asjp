@@ -28,7 +28,7 @@ contain 40-item word lists of all the world's languages.
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
 ![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 9,783
+- **Varieties:** 9,788
 - **Concepts:** 100
 - **Lexemes:** 445,359
 - **Sources:** 9,839

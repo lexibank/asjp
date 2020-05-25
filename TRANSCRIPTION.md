@@ -341,107 +341,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------|:-----------------|----------:|:---------------------|:-----------------------------------------------|
-| ABKHAZ2-96-1 | ABKHAZ2 | 96 | ottS~"3ch~ | o t tʃ <s> <<">> </s> ə tsʰ |
-| ABRON2-94-1 | ABRON2 | 94 | y*unu | j <s> <<*>> </s> u n u |
-| ADYGHE2-12-1 | ADYGHE2 | 12 | tw~" | tʷ <s> <<">> </s> |
-| ADYGHE2-15-1 | ADYGHE2 | 15 | c"3kw~" | tsʼ ə kʷ <s> <<">> </s> |
-| ADYGHE2-39-1 | ADYGHE2 | 39 | tXakw~"m | t χ ɐ kʷ <s> <<">> </s> m |
-| ADYGHE2-53-1 | ADYGHE2 | 53 | Sw~" | ʃʷ <s> <<">> </s> |
-| ADYGHE2-81-1 | ADYGHE2 | 81 | w~3Xw~a | w <s> <<~>> </s> ə χʷ ɐ |
-| ADYGHE2-91-1 | ADYGHE2 | 91 | Sw~"c"a | ʃʷ <s> <<">> </s> tsʼ ɐ |
-| AGNIANYIN2-52-1 | AGNIANYIN2 | 52 | ahul*o* | ɐ h u l <s> <<*>> </s> õ |
-| AGNIANYIN2-68-1 | AGNIANYIN2 | 68 | tal*a | t ɐ l <s> <<*>> </s> ɐ |
-| AGNIINDENIE2-47-1 | AGNIINDENIE2 | 47 | nagru*ma nagu*l*u*ma | n ɐ g r ũ m ɐ + n ɐ g ũ l <s> <<*>> </s> ũ m ɐ |
-| AGNIINDENIE2-51-2 | AGNIINDENIE2 | 51 | 5u*fal*a | ɲ ũ f ɐ l <s> <<*>> </s> ɐ |
-| AGNIINDENIE2-68-2 | AGNIINDENIE2 | 68 | tal*a | t ɐ l <s> <<*>> </s> ɐ |
-| AGNIINDENIE2-81-2 | AGNIINDENIE2 | 81 | ewusal*a | e w u s ɐ l <s> <<*>> </s> ɐ |
-| AVAR2-26-1 | AVAR2 | 26 | tL~"ibil | t ʎ <s> <<">> </s> i b i l |
-| AVAR2-31-1 | AVAR2 | 31 | ratL~"a | r ɐ t ʎ <s> <<">> </s> ɐ |
-| AVAR2-60-1 | AVAR2 | 60 | tL~"iZizye | t ʎ <s> <<">> </s> i ʒ i z j e |
-| AVAR2-70-1 | AVAR2 | 70 | tL~"yezye | t ʎ <s> <<">> </s> j e z j e |
-| AVAR2-79-1 | AVAR2 | 79 | ratL~" | r ɐ t ʎ <s> <<">> </s> |
-| AVIKAM2-60-1 | AVIKAM2 | 60 | sre Nw~l*i | s r e + ŋʷ l <s> <<*>> </s> i |
-| BAKWE4-16-1 | BAKWE4 | 16 | Nw~ol*o | ŋʷ o l <s> <<*>> </s> o |
-| BAKWE4-54-1 | BAKWE4 | 54 | ml*a | m l <s> <<*>> </s> ɐ |
-| BAKWE4-56-1 | BAKWE4 | 56 | ml*u | m l <s> <<*>> </s> u |
-| BANA2-51-1 | BANA2 | 51 | g"w~a | g’ w <s> <<~>> </s> ɐ |
-| BANKANTEY-14-1 | BANKANTEY | 14 | guraw* | g u r ɐ w <s> <<*>> </s> |
-| BANKANTEY-83-1 | BANKANTEY | 83 | doy*oy* | d o j õ j <s> <<*>> </s> |
-| BANKANTEY-92-2 | BANKANTEY | 92 | numzo5Ey* | n u m z o ɲ a j <s> <<*>> </s> |
-| BANKANTEY-99-1 | BANKANTEY | 99 | maw* | m ɐ w <s> <<*>> </s> |
-| BAULE2-44-2 | BAULE2 | 44 | any*E* | ɐ n j ã <s> <<*>> </s> |
-| BAULE2-52-1 | BAULE2 | 52 | aw*l*E*ba | ɐ w <s> <<*>> </s> l <s> <<*>> </s> ã b ɐ |
-| BAULE2-80-1 | BAULE2 | 80 | 5amy*E*sutu | ɲ ɐ m j ã <s> <<*>> </s> s u t u |
-| BONDUMDOM2-93-1 | BONDUMDOM2 | 93 | dwEy* | d w a j <s> <<*>> </s> |
+|:-----------------------|:------------------|----------:|:---------------------|:-----------------------------------------------|
+| ABKHAZ_2-96-1 | ABKHAZ_2 | 96 | ottS~"3ch~ | o t tʃ <s> <<">> </s> ə tsʰ |
+| ABRON_2-94-1 | ABRON_2 | 94 | y*unu | j <s> <<*>> </s> u n u |
+| ADYGHE_2-12-1 | ADYGHE_2 | 12 | tw~" | tʷ <s> <<">> </s> |
+| ADYGHE_2-15-1 | ADYGHE_2 | 15 | c"3kw~" | tsʼ ə kʷ <s> <<">> </s> |
+| ADYGHE_2-39-1 | ADYGHE_2 | 39 | tXakw~"m | t χ ɐ kʷ <s> <<">> </s> m |
+| ADYGHE_2-53-1 | ADYGHE_2 | 53 | Sw~" | ʃʷ <s> <<">> </s> |
+| ADYGHE_2-81-1 | ADYGHE_2 | 81 | w~3Xw~a | w <s> <<~>> </s> ə χʷ ɐ |
+| ADYGHE_2-91-1 | ADYGHE_2 | 91 | Sw~"c"a | ʃʷ <s> <<">> </s> tsʼ ɐ |
+| AGNI_ANYIN_2-52-1 | AGNI_ANYIN_2 | 52 | ahul*o* | ɐ h u l <s> <<*>> </s> õ |
+| AGNI_ANYIN_2-68-1 | AGNI_ANYIN_2 | 68 | tal*a | t ɐ l <s> <<*>> </s> ɐ |
+| AGNI_INDENIE_2-47-1 | AGNI_INDENIE_2 | 47 | nagru*ma nagu*l*u*ma | n ɐ g r ũ m ɐ + n ɐ g ũ l <s> <<*>> </s> ũ m ɐ |
+| AGNI_INDENIE_2-51-2 | AGNI_INDENIE_2 | 51 | 5u*fal*a | ɲ ũ f ɐ l <s> <<*>> </s> ɐ |
+| AGNI_INDENIE_2-68-2 | AGNI_INDENIE_2 | 68 | tal*a | t ɐ l <s> <<*>> </s> ɐ |
+| AGNI_INDENIE_2-81-2 | AGNI_INDENIE_2 | 81 | ewusal*a | e w u s ɐ l <s> <<*>> </s> ɐ |
+| AVAR_2-26-1 | AVAR_2 | 26 | tL~"ibil | t ʎ <s> <<">> </s> i b i l |
+| AVAR_2-31-1 | AVAR_2 | 31 | ratL~"a | r ɐ t ʎ <s> <<">> </s> ɐ |
+| AVAR_2-60-1 | AVAR_2 | 60 | tL~"iZizye | t ʎ <s> <<">> </s> i ʒ i z j e |
+| AVAR_2-70-1 | AVAR_2 | 70 | tL~"yezye | t ʎ <s> <<">> </s> j e z j e |
+| AVAR_2-79-1 | AVAR_2 | 79 | ratL~" | r ɐ t ʎ <s> <<">> </s> |
+| AVIKAM_2-60-1 | AVIKAM_2 | 60 | sre Nw~l*i | s r e + ŋʷ l <s> <<*>> </s> i |
+| BAKWE_4-16-1 | BAKWE_4 | 16 | Nw~ol*o | ŋʷ o l <s> <<*>> </s> o |
+| BAKWE_4-54-1 | BAKWE_4 | 54 | ml*a | m l <s> <<*>> </s> ɐ |
+| BAKWE_4-56-1 | BAKWE_4 | 56 | ml*u | m l <s> <<*>> </s> u |
+| BANA_2-51-1 | BANA_2 | 51 | g"w~a | g’ w <s> <<~>> </s> ɐ |
+| BANKAN_TEY-14-1 | BANKAN_TEY | 14 | guraw* | g u r ɐ w <s> <<*>> </s> |
+| BANKAN_TEY-83-1 | BANKAN_TEY | 83 | doy*oy* | d o j õ j <s> <<*>> </s> |
+| BANKAN_TEY-92-2 | BANKAN_TEY | 92 | numzo5Ey* | n u m z o ɲ a j <s> <<*>> </s> |
+| BANKAN_TEY-99-1 | BANKAN_TEY | 99 | maw* | m ɐ w <s> <<*>> </s> |
+| BAULE_2-44-2 | BAULE_2 | 44 | any*E* | ɐ n j ã <s> <<*>> </s> |
+| BAULE_2-52-1 | BAULE_2 | 52 | aw*l*E*ba | ɐ w <s> <<*>> </s> l <s> <<*>> </s> ã b ɐ |
+| BAULE_2-80-1 | BAULE_2 | 80 | 5amy*E*sutu | ɲ ɐ m j ã <s> <<*>> </s> s u t u |
+| BONDUM_DOM_2-93-1 | BONDUM_DOM_2 | 93 | dwEy* | d w a j <s> <<*>> </s> |
 | DIZI-83-1 | DIZI | 83 | s"y~akn | sʼ j <s> <<~>> </s> ɐ k n |
-| EPIE2-59-1 | EPIE2 | 59 | r*y*E* | r <s> <<*>> </s> j ã <s> <<*>> </s> |
+| EPIE_2-59-1 | EPIE_2 | 59 | r*y*E* | r <s> <<*>> </s> j ã <s> <<*>> </s> |
 | ITELMEN-21-1 | ITELMEN | 21 | wq~osX | w q <s> <<~>> </s> o s χ |
 | ITELMEN-21-2 | ITELMEN | 21 | wq~sXay | w q <s> <<~>> </s> s χ ɐ j |
 | ITELMEN-60-1 | ITELMEN | 60 | wN~ekLkas | w ŋ <s> <<~>> </s> e k ʎ k ɐ s |
 | ITELMEN-77-1 | ITELMEN | 77 | wb~apk7ol | w b <s> <<~>> </s> ɐ p k ʔ o l |
 | ITELMEN-83-1 | ITELMEN | 83 | wp~iNpiN | w p <s> <<~>> </s> i ŋ p i ŋ |
-| KAMBA2-71-1 | KAMBA2 | 71 | tavy~"a | t ɐ vʲ <s> <<">> </s> ɐ |
-| KET2-19-2 | KET2 | 19 | uLd y~iS | u ʎ d + j <s> <<~>> </s> i ʃ |
-| KHALKHAMONGOLIAN-13-1 | KHALKHAMONGOLIAN | 13 | y~ix | j <s> <<~>> </s> i x |
-| KHALKHAMONGOLIAN-55-1 | KHALKHAMONGOLIAN | 55 | y~itex | j <s> <<~>> </s> i t e x |
-| KHALKHAMONGOLIAN-65-1 | KHALKHAMONGOLIAN | 65 | yawqan y~awax | j ɐ w q ɐ n + j <s> <<~>> </s> ɐ w ɐ x |
-| KHALKHAMONGOLIAN-66-1 | KHALKHAMONGOLIAN | 66 | y~irex | j <s> <<~>> </s> i r e x |
-| KOLUMSO3-85-2 | KOLUMSO3 | 85 | oji pijiw* | o dʒ i + p i dʒ i w <s> <<*>> </s> |
+| KAMBA_2-71-1 | KAMBA_2 | 71 | tavy~"a | t ɐ vʲ <s> <<">> </s> ɐ |
+| KET_2-19-2 | KET_2 | 19 | uLd y~iS | u ʎ d + j <s> <<~>> </s> i ʃ |
+| KHALKHA_MONGOLIAN-13-1 | KHALKHA_MONGOLIAN | 13 | y~ix | j <s> <<~>> </s> i x |
+| KHALKHA_MONGOLIAN-55-1 | KHALKHA_MONGOLIAN | 55 | y~itex | j <s> <<~>> </s> i t e x |
+| KHALKHA_MONGOLIAN-65-1 | KHALKHA_MONGOLIAN | 65 | yawqan y~awax | j ɐ w q ɐ n + j <s> <<~>> </s> ɐ w ɐ x |
+| KHALKHA_MONGOLIAN-66-1 | KHALKHA_MONGOLIAN | 66 | y~irex | j <s> <<~>> </s> i r e x |
+| KOLUM_SO_3-85-2 | KOLUM_SO_3 | 85 | oji pijiw* | o dʒ i + p i dʒ i w <s> <<*>> </s> |
 | KROBU-69-1 | KROBU | 69 | nte ny*E* | n t e + n j ã <s> <<*>> </s> |
-| KRUMENPYE-100-1 | KRUMENPYE | 100 | 5l*o* | ɲ l <s> <<*>> </s> õ |
-| KRUMENPYE-19-1 | KRUMENPYE | 19 | hl*e | h l <s> <<*>> </s> e |
-| LOGO10-96-1 | LOGO10 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
-| LOGO5-96-1 | LOGO5 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
-| LOGO7-96-1 | LOGO7 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
-| LOGO8-96-1 | LOGO8 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
+| KRUMEN_PYE-100-1 | KRUMEN_PYE | 100 | 5l*o* | ɲ l <s> <<*>> </s> õ |
+| KRUMEN_PYE-19-1 | KRUMEN_PYE | 19 | hl*e | h l <s> <<*>> </s> e |
+| LOGO_10-96-1 | LOGO_10 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
+| LOGO_5-96-1 | LOGO_5 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
+| LOGO_7-96-1 | LOGO_7 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
+| LOGO_8-96-1 | LOGO_8 | 96 | tod"y~a | t o d’ j <s> <<~>> </s> ɐ |
 | LORI-62-1 | LORI | 62 | w~a | w <s> <<~>> </s> ɐ |
 | LORI-97-1 | LORI | 97 | w~3 | w <s> <<~>> </s> ə |
-| LULUBOOLUBO-71-1 | LULUBOOLUBO | 71 | od"y~o | o d’ j <s> <<~>> </s> o |
-| MAADI3-34-1 | MAADI3 | 34 | od"y~u | o d’ j <s> <<~>> </s> u |
-| MAADI3-47-1 | MAADI3 | 47 | ad"y~a | ɐ d’ j <s> <<~>> </s> ɐ |
-| MAKONDE4-30-1 | MAKONDE4 | 30 | y~adi | j <s> <<~>> </s> ɐ d i |
-| MANDARIN3-14-1 | MANDARIN3 | 14 | tS~h~oN | tʃ h <s> <<~>> </s> o ŋ |
-| MANDARIN3-43-1 | MANDARIN3 | 43 | yatS~h~3 | j ɐ tʃ h <s> <<~>> </s> ə |
-| MANDARIN3-55-1 | MANDARIN3 | 55 | tS~h~3 | tʃ h <s> <<~>> </s> ə |
-| MBANZA3-36-1 | MBANZA3 | 36 | suy*anu | s u j <s> <<*>> </s> ɐ n u |
+| LULUBO_OLUBO-71-1 | LULUBO_OLUBO | 71 | od"y~o | o d’ j <s> <<~>> </s> o |
+| MAADI_3-34-1 | MAADI_3 | 34 | od"y~u | o d’ j <s> <<~>> </s> u |
+| MAADI_3-47-1 | MAADI_3 | 47 | ad"y~a | ɐ d’ j <s> <<~>> </s> ɐ |
+| MAKONDE_4-30-1 | MAKONDE_4 | 30 | y~adi | j <s> <<~>> </s> ɐ d i |
+| MANDARIN_3-14-1 | MANDARIN_3 | 14 | tS~h~oN | tʃ h <s> <<~>> </s> o ŋ |
+| MANDARIN_3-43-1 | MANDARIN_3 | 43 | yatS~h~3 | j ɐ tʃ h <s> <<~>> </s> ə |
+| MANDARIN_3-55-1 | MANDARIN_3 | 55 | tS~h~3 | tʃ h <s> <<~>> </s> ə |
+| MBANZA_3-36-1 | MBANZA_3 | 36 | suy*anu | s u j <s> <<*>> </s> ɐ n u |
 | MOROP-64-1 | MOROP | 64 | birin t3bT~on | b i r i n + t ə b c <s> <<~>> </s> o n |
-| MWAN2-17-1 | MWAN2 | 17 | gd"w~E* | g d’ w <s> <<~>> </s> ã |
-| MWANGANYAMWANGA-3-2 | MWANGANYAMWANGA | 3 | w~enji | w <s> <<~>> </s> e n dʒ i |
-| NDEBELEZIMBABWE-15-1 | NDEBELEZIMBABWE | 15 | Nl~ane | ŋ l <s> <<~>> </s> ɐ n e |
-| NDEBELEZIMBABWE-15-2 | NDEBELEZIMBABWE | 15 | Nl~i5ane | ŋ l <s> <<~>> </s> i ɲ ɐ n e |
-| NGANASAN2-32-1 | NGANASAN2 | 32 | TS~u7 | c ʃ <s> <<~>> </s> u ʔ |
-| NGANASAN2-43-1 | NGANASAN2 | 43 | TS~imy~i | c ʃ <s> <<~>> </s> i mʲ i |
-| NGANASAN2-49-1 | NGANASAN2 | 49 | TS~ayb3 | c ʃ <s> <<~>> </s> ɐ j b ə |
-| NGANASAN2-59-1 | NGANASAN2 | 59 | TS~en3dy~i | c ʃ <s> <<~>> </s> e n ə dʲ i |
-| NGANASAN2-67-1 | NGANASAN2 | 67 | to5dy~iayTS~is3 | t o ɲ dʲ i ɐ j c ʃ <s> <<~>> </s> i s ə |
-| NGANASAN2-73-1 | NGANASAN2 | 73 | kiTS~e83 | k i c ʃ <s> <<~>> </s> e θ ə |
-| NGANASAN2-80-1 | NGANASAN2 | 80 | TS~iri | c ʃ <s> <<~>> </s> i r i |
-| NGANASAN2-80-2 | NGANASAN2 | 80 | TS~i38u | c ʃ <s> <<~>> </s> i ə θ u |
-| NGANASAN2-94-1 | NGANASAN2 | 94 | TS~esy~iti3 | c ʃ <s> <<~>> </s> e sʲ i t i ə |
-| NORTHERNGBAGA-16-2 | NORTHERNGBAGA | 16 | y*aSe | j <s> <<*>> </s> ɐ ʃ e |
-| NORTHERNGBAGA-20-4 | NORTHERNGBAGA | 20 | y*anu | j <s> <<*>> </s> ɐ n u |
-| NORTHERNMANSI-54-1 | NORTHERNMANSI | 54 | ayuNkw~y~e | ɐ j u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-55-1 | NORTHERNMANSI | 55 | toNkw~y~e | t o ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-56-1 | NORTHERNMANSI | 56 | puruNkw~y~e | p u r u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-57-1 | NORTHERNMANSI | 57 | sunsuNkw~y~e | s u n s u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-58-1 | NORTHERNMANSI | 58 | XuluNkw~y~e | χ u l u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-59-1 | NORTHERNMANSI | 59 | waNkw~y~e | w ɐ ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-60-1 | NORTHERNMANSI | 60 | XuyuNkw~y~e | χ u j u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-61-1 | NORTHERNMANSI | 61 | sorumn patuNkw~y~e | s o r u m n + p ɐ t u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-62-1 | NORTHERNMANSI | 62 | aluNkw~y~e | ɐ l u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-63-1 | NORTHERNMANSI | 63 | uyuNkw~y~e | u j u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-64-1 | NORTHERNMANSI | 64 | tilamlaNkw~y~e | t i l ɐ m l ɐ ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-65-1 | NORTHERNMANSI | 65 | yalasaNkw~y~e | j ɐ l ɐ s ɐ ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-66-1 | NORTHERNMANSI | 66 | yoXtuNkw~y~e | j o χ t u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-67-1 | NORTHERNMANSI | 67 | XuyuNkw~y~e | χ u j u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-68-1 | NORTHERNMANSI | 68 | unluNkw~y~e | u n l u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-69-1 | NORTHERNMANSI | 69 | LuLuNkw~y~e | ʎ u ʎ u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-70-1 | NORTHERNMANSI | 70 | miNkw~y~e | m i ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-71-1 | NORTHERNMANSI | 71 | lawuNkw~y~e | l ɐ w u ŋ kʷ j <s> <<~>> </s> e |
-| NORTHERNMANSI-84-1 | NORTHERNMANSI | 84 | postuNkw~y~e | p o s t u ŋ kʷ j <s> <<~>> </s> e |
-| NZEMA2-18-1 | NZEMA2 | 18 | sul*a | s u l <s> <<*>> </s> ɐ |
-| NZEMA2-27-1 | NZEMA2 | 27 | abul*i* | ɐ b u l <s> <<*>> </s> ĩ |
+| MWANGA_NYAMWANGA-3-2 | MWANGA_NYAMWANGA | 3 | w~enji | w <s> <<~>> </s> e n dʒ i |
+| MWAN_2-17-1 | MWAN_2 | 17 | gd"w~E* | g d’ w <s> <<~>> </s> ã |
+| NDEBELE_ZIMBABWE-15-1 | NDEBELE_ZIMBABWE | 15 | Nl~ane | ŋ l <s> <<~>> </s> ɐ n e |
+| NDEBELE_ZIMBABWE-15-2 | NDEBELE_ZIMBABWE | 15 | Nl~i5ane | ŋ l <s> <<~>> </s> i ɲ ɐ n e |
+| NGANASAN_2-32-1 | NGANASAN_2 | 32 | TS~u7 | c ʃ <s> <<~>> </s> u ʔ |
+| NGANASAN_2-43-1 | NGANASAN_2 | 43 | TS~imy~i | c ʃ <s> <<~>> </s> i mʲ i |
+| NGANASAN_2-49-1 | NGANASAN_2 | 49 | TS~ayb3 | c ʃ <s> <<~>> </s> ɐ j b ə |
+| NGANASAN_2-59-1 | NGANASAN_2 | 59 | TS~en3dy~i | c ʃ <s> <<~>> </s> e n ə dʲ i |
+| NGANASAN_2-67-1 | NGANASAN_2 | 67 | to5dy~iayTS~is3 | t o ɲ dʲ i ɐ j c ʃ <s> <<~>> </s> i s ə |
+| NGANASAN_2-73-1 | NGANASAN_2 | 73 | kiTS~e83 | k i c ʃ <s> <<~>> </s> e θ ə |
+| NGANASAN_2-80-1 | NGANASAN_2 | 80 | TS~iri | c ʃ <s> <<~>> </s> i r i |
+| NGANASAN_2-80-2 | NGANASAN_2 | 80 | TS~i38u | c ʃ <s> <<~>> </s> i ə θ u |
+| NGANASAN_2-94-1 | NGANASAN_2 | 94 | TS~esy~iti3 | c ʃ <s> <<~>> </s> e sʲ i t i ə |
+| NORTHERN_GBAGA-16-2 | NORTHERN_GBAGA | 16 | y*aSe | j <s> <<*>> </s> ɐ ʃ e |
+| NORTHERN_GBAGA-20-4 | NORTHERN_GBAGA | 20 | y*anu | j <s> <<*>> </s> ɐ n u |
+| NORTHERN_MANSI-54-1 | NORTHERN_MANSI | 54 | ayuNkw~y~e | ɐ j u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-55-1 | NORTHERN_MANSI | 55 | toNkw~y~e | t o ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-56-1 | NORTHERN_MANSI | 56 | puruNkw~y~e | p u r u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-57-1 | NORTHERN_MANSI | 57 | sunsuNkw~y~e | s u n s u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-58-1 | NORTHERN_MANSI | 58 | XuluNkw~y~e | χ u l u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-59-1 | NORTHERN_MANSI | 59 | waNkw~y~e | w ɐ ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-60-1 | NORTHERN_MANSI | 60 | XuyuNkw~y~e | χ u j u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-61-1 | NORTHERN_MANSI | 61 | sorumn patuNkw~y~e | s o r u m n + p ɐ t u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-62-1 | NORTHERN_MANSI | 62 | aluNkw~y~e | ɐ l u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-63-1 | NORTHERN_MANSI | 63 | uyuNkw~y~e | u j u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-64-1 | NORTHERN_MANSI | 64 | tilamlaNkw~y~e | t i l ɐ m l ɐ ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-65-1 | NORTHERN_MANSI | 65 | yalasaNkw~y~e | j ɐ l ɐ s ɐ ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-66-1 | NORTHERN_MANSI | 66 | yoXtuNkw~y~e | j o χ t u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-67-1 | NORTHERN_MANSI | 67 | XuyuNkw~y~e | χ u j u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-68-1 | NORTHERN_MANSI | 68 | unluNkw~y~e | u n l u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-69-1 | NORTHERN_MANSI | 69 | LuLuNkw~y~e | ʎ u ʎ u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-70-1 | NORTHERN_MANSI | 70 | miNkw~y~e | m i ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-71-1 | NORTHERN_MANSI | 71 | lawuNkw~y~e | l ɐ w u ŋ kʷ j <s> <<~>> </s> e |
+| NORTHERN_MANSI-84-1 | NORTHERN_MANSI | 84 | postuNkw~y~e | p o s t u ŋ kʷ j <s> <<~>> </s> e |
+| NZEMA_2-18-1 | NZEMA_2 | 18 | sul*a | s u l <s> <<*>> </s> ɐ |
+| NZEMA_2-27-1 | NZEMA_2 | 27 | abul*i* | ɐ b u l <s> <<*>> </s> ĩ |
 
 (100 rows)
 
