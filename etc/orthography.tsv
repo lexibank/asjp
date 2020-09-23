@@ -2,6 +2,33 @@ Grapheme	FREQUENCY	SCA	CODEPOINTS	EXAMPLES	IPA
 ^	307369			N;NN;N;aN;am	NULL
 $	308640			N;NN;N;aN;am	NULL
 -	2			-;-	NULL
+ttS~"					tʃ’ː
+y*					j̃
+tw~"					t’ʷ
+kw~"					k’ʷ
+Sw~"					ʃ’ʷ
+w*					w̃
+^w~					w
+l*					l̃
+tL~"					t lʼ
+r*					r̃
+TS~					cʃ
+^h~					h
+t3bT~on					t ə b c o n
+wp~					ʷp
+wb~					ʷb
+wN~					ʷŋ
+wq~					ʷq
+s"y~					s’ʲ
+vy~"					v’ʲ
+y~					j
+y*E*					j̃ ã
+tS~h~					tʃʰ
+Nl~					ŋ l
+q""					qʼ
+uh*					ũ h
+g"w~					g’ʷ
+d"w~					d’ʷ
 ^yz$	0	I S	U+005E U+0079 U+007A U+0024		i z
 ^yz~$	1	I S	U+005E U+0079 U+007A U+007E U+0024	yz~	i z
 ^sw*$	1	S Y	U+005E U+0073 U+0077 U+002A U+0024	sw*	s ũ
