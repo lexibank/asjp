@@ -70,6 +70,31 @@ class Dataset(pylexibank.Dataset):
 
         iso2gl = {l.iso: l.id for l in self.glottolog.languoids() if l.iso}
 
+        # Correct glottocodes (mapping, retired ones, etc.)
+        iso2gl.update({
+            'gtu' : 'aghu1254', # from aghu1256, AGHU_THARRNGGALA
+            'xss' : 'kott1239', # from assa1266, ASSAN
+            'bbz' : 'char1283', # from baba1273, BABALIA_CREOLE_ARABIC (mapping to a dialect of
+                                # Chadian Arabic, as per SIL documentation)
+            'bcb' : 'bain1259', # from bain1260, BAYNUNK_GUJAXER*
+            'bic' : 'biso1243', # from bika1251, BIKARU*
+            'bvp' : 'khan1274', # from bika1247, BUMANG
+            'geg' : 'kuga1239', # from geng1243, GENGLE
+            'ihi' : 'emai1241', # from ihie1238, IHIEE
+            'kav' : 'kana1291', # from nucl1668, KATUKINA
+            'kym' : 'gbay1278', # from kpat1244, KPATILI_2
+            'mct' : 'eton1253', # from meng1263, MENGISA
+            'nxu' : "kaur1271", # from nara1265, NARAU
+            'nmj' : "gund1247", # from ngom1265, NGOMBE_2
+            'nom' : "cash1251", # from noca1240, NOCAMAN
+            'otk' : "oldu1238", # from oldt1247, OLD_TURKIC
+            'rui' : "nden1248", # from rufi1234, RUFIJI
+            'sxm' : "somr1240", # from samr1245, SAMRE
+            'xin' : "xinc1242", # from xinc1247, mapping to what is by far the most plausible source
+                                # for Lehmann 1920 (all other varieties were extinct, and the
+                                # alternative one is dormant and close enough)
+        })
+
         lids = set()
         for doculect in sorted(asjp.iter_doculects(), key=lambda dl: dl.id):
             lid = slug(doculect.id)
@@ -81,12 +106,31 @@ class Dataset(pylexibank.Dataset):
                 args.writer.add_sources(Source(
                     'misc', str(src.id), author=src.author, year=src.year, title=src.title_etc))
 
+            # Obtain the glottocode mapping and fix it for cases with multiple mappings
+            glottocode = iso2gl.get(doculect.code_iso)
+            if lid == "LENCA_EL_SALVADOR":
+                glottocode = "lenc1243"
+            elif lid == "LENCA_HONDURAS":
+                glottocode = "lenc1242"
+            elif lid == "DANANSHAN_HMONG":
+                glottocode = "hmon1332"
+            elif lid == "SHIMENKAN_HMONG":
+                glottocode = "smal1236"
+            elif lid == "SUYONG_HMONG":
+                glottocode = "larg1235"
+            elif lid == "URADHI_ANGKAMUTHI":
+                glottocode = "angg1238"
+            elif lid == "URADHI_ATAMPAYA":
+                glottocode = "atam1239"
+            elif lid == "URADHI_YADHAYKENU":
+                glottocode = "yadh1237"
+
             args.writer.add_language(
                 ID=lid,
                 Name=doculect.id,
                 ISO639P3code=doculect.code_iso
                 if re.fullmatch('[a-z]{3}', doculect.code_iso or '') else None,
-                Glottocode=iso2gl.get(doculect.code_iso),
+                Glottocode=glottocode,
                 Latitude=doculect.latitude,
                 Longitude=doculect.longitude,
                 classification_wals=doculect.classification_wals,

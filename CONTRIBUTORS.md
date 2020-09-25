@@ -39,4 +39,4 @@ Tessa de Mol-van Valen | | | DataCollector
 Yuzhu Liang | | | DataCollector
 Yue Sun | | | DataCollector
 Robert Forkel | @xrotwang | patron, code | Author
-Tiago Tresoldi | @tresoldi | profile | Author
+Tiago Tresoldi | @tresoldi | profile, language mapping refinement | Author
