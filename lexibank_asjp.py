@@ -144,6 +144,7 @@ class Dataset(pylexibank.Dataset):
                 transcribers=' and '.join(
                     sorted([tr.name for tr in asjp.transcriber(doculect) or []])),
             )
+            args.writer.add_languages()
             for synset in sorted(doculect.synsets, key=lambda ss: ss.meaning_id):
                 for word in synset.words:
                     args.writer.add_form(

@@ -25,8 +25,8 @@ contain 40-item word lists of all the world's languages.
 ![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 98%](https://img.shields.io/badge/Source-98%25-green.svg "Source: 98%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 9,788
 - **Concepts:** 100
@@ -35,11 +35,13 @@ contain 40-item word lists of all the world's languages.
 - **Synonymy:** 1.11
 - **Invalid lexemes:** 0
 - **Tokens:** 1,852,883
-- **Segments:** 332 (0 BIPA errors, 0 CTLS sound class errors, 332 CLTS modified)
+- **Segments:** 332 (3 BIPA errors, 3 CTLS sound class errors, 326 CLTS modified)
 - **Inventory size (avg):** 23.75
 
 ## Possible Improvements:
 
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - TAENSA [taen1234](http://glottolog.org/resource/languoid/id/taen1234)
 
 
 - Entries missing sources: 10635/445359 (2.39%)
