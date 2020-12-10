@@ -191,7 +191,7 @@
 | ʃʼ | 16 | ✓ | ✓ |
 | ʰm | 16 | ✓ | ✓ |
 | ⁿʔ | 16 | ✓ | ✓ |
-| cʃ | 15 | ? | ? |
+| cʃ | 15 | ✓ | ✓ |
 | dʒʲ | 15 | ✓ | ✓ |
 | dⁿ | 15 | ✓ | ✓ |
 | h’ | 15 | ✓ | ✓ |
@@ -278,7 +278,7 @@
 | fʼ | 2 | ✓ | ✓ |
 | k’ʷ | 2 | ✓ | ✓ |
 | mː | 2 | ✓ | ✓ |
-| pʃ | 2 | ? | ? |
+| pʃ | 2 | ✓ | ✓ |
 | x’ʷ | 2 | ✓ | ✓ |
 | ǃ’ʷ | 2 | ✓ | ✓ |
 | ɐ̃ˀ | 2 | ✓ | ✓ |
@@ -303,7 +303,7 @@
 | l’ʷ | 1 | ✓ | ✓ |
 | n̪ʰ | 1 | ✓ | ✓ |
 | pfʼ | 1 | ✓ | ✓ |
-| pχʼ | 1 | ? | ? |
+| pχʼ | 1 | ✓ | ✓ |
 | p’ʲ | 1 | ✓ | ✓ |
 | sː | 1 | ✓ | ✓ |
 | s’ʲ | 1 | ✓ | ✓ |
@@ -354,26 +354,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------|:---------------|----------:|:----------------|:---------------------------------|
-| AGUL-25-2 | AGUL | 25 | p"X~aZ | <s> pχʼ </s> ɐ ʒ |
-| KPAN-34-1 | KPAN | 34 | pS~i | <s> pʃ </s> i |
-| NGANASAN_2-32-1 | NGANASAN_2 | 32 | TS~u7 | <s> cʃ </s> u ʔ |
-| NGANASAN_2-43-1 | NGANASAN_2 | 43 | TS~imy~i | <s> cʃ </s> i mʲ i |
-| NGANASAN_2-49-1 | NGANASAN_2 | 49 | TS~ayb3 | <s> cʃ </s> ɐ j b ə |
-| NGANASAN_2-59-1 | NGANASAN_2 | 59 | TS~en3dy~i | <s> cʃ </s> e n ə dʲ i |
-| NGANASAN_2-67-1 | NGANASAN_2 | 67 | to5dy~iayTS~is3 | t o ɲ dʲ i ɐ j <s> cʃ </s> i s ə |
-| NGANASAN_2-73-1 | NGANASAN_2 | 73 | kiTS~e83 | k i <s> cʃ </s> e θ ə |
-| NGANASAN_2-80-1 | NGANASAN_2 | 80 | TS~iri | <s> cʃ </s> i r i |
-| NGANASAN_2-80-2 | NGANASAN_2 | 80 | TS~i38u | <s> cʃ </s> i ə θ u |
-| NGANASAN_2-94-1 | NGANASAN_2 | 94 | TS~esy~iti3 | <s> cʃ </s> e sʲ i t i ə |
-| NORTHERN_SOTHO-21-1 | NORTHERN_SOTHO | 21 | pS~a | <s> pʃ </s> ɐ |
-| SKOLT_SAAMI_2-35-2 | SKOLT_SAAMI_2 | 35 | piatcy~iTS~ | p i ɐ t tsʲ i <s> cʃ </s> |
-| SKOLT_SAAMI_2-48-1 | SKOLT_SAAMI_2 | 48 | TS~i3tta | <s> cʃ </s> i ə t t ɐ |
-| SKOLT_SAAMI_2-6-1 | SKOLT_SAAMI_2 | 6 | TS~ia | <s> cʃ </s> i ɐ |
-| SKOLT_SAAMI_2-64-1 | SKOLT_SAAMI_2 | 64 | TS~Ery~ddy~Ed | <s> cʃ </s> a rʲ d dʲ a d |
-| SKOLT_SAAMI_2-77-1 | SKOLT_SAAMI_2 | 77 | TS~Eady~CCSy~3 | <s> cʃ </s> a ɐ dʲ tʃ tʃ ʃʲ ə |
-| SKOLT_SAAMI_2-99-1 | SKOLT_SAAMI_2 | 99 | koSTS~Es | k o ʃ <s> cʃ </s> a s |
+|------|------------|-----------|--------|------------|
 
-(18 rows)
+(0 rows)
 
 
