@@ -1,0 +1,389 @@
+ID	Name	Glottocode	Glottolog_Name	ISO639P3code	Macroarea	Latitude	Longitude	Family	classification_wals	classification_ethnologue	classification_glottolog	recently_extinct	long_extinct	year_of_extinction	code_wals	code_iso	transcribers
+ADILABAD_GONDI	ADILABAD_GONDI	sout2711		wsg		19	81		Dra.SOUTH-CENTRAL_DRAVIDIAN	Dravidian,South-Central,Gondi-Kui,Gondi	Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi	False	False		gon	wsg	Ann-Katrin Wett
+ALLENTIAC	ALLENTIAC	alle1238	Allentiac	qbt		-33.48	-68.1		Hur.HUARPE	Huarpe	Huarpean	True	False	1750		qbt	Matthias Pache
+AMAM	AMAM	amam1246	Amam			-7.9	146.92		TNG.GOILALAN	Trans-NewGuinea,SoutheastPapuan,Goilalan,Kunimaipa	Goilalan,Weric	False	False			am0	Matthew S. Dryer
+ANDOQUERO	ANDOQUERO	ando1254	Andoquero			-0.67	-72.31		Hui.UNCLASSIFIED_HUITOTOAN	Witotoan	Huitotoan,UnclassifiedHuitotoan	True	False			an0	Matthew S. Dryer
+ARAMAIC_ANCIENT	ARAMAIC_ANCIENT					35	37		AA.SEMITIC	Afro-Asiatic,Semitic,Central,Aramaic	Afro-Asiatic,Semitic,WestSemitic,CentralSemitic,NorthwestSemitic,Aramaic	False	True				Viveka Velupillai
+BALADE	BALADE	bala1316	Balade			-20.25	164.2		An.OCEANIC	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,NewCaledonian,Northern,ExtremeNorthern	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,SouthernMelanesian,NewCaledonian,ExtremeNorthernNewCaledonian,Nyalayu	False	False			ba0	Matthew S. Dryer
+BANKALA	BANKALA			jjr		9.5	10.5		NC.BANTOID	Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,Jarawan,Nigerian	Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,Jarawan,NigerianJarawan	False	False		jar	jjr	André Müller
+BARRANBIYA	BARRANBIYA	barr1252	Barranbinya			-30.1	145.93		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan,SoutheasternPama-Nyungan,NewSouthWalesPama-Nyungan,Muruwaric	True	False				Julia Bischoffberger
+BIGAMBAL	BIGAMBAL	biga1237	Bigambal			-28.6	150.35		PN.EAST_QUEENSLAND_BORDER	Australian,Pama-Nyungan	Pama-Nyungan,EastQueenslandBorderPamaNyungan,Yugambalic,Yugambal-Bigambal	True	False				Julia Bischoffberger
+BIRRDHAWAL	BIRRDHAWAL	gana1268	Birrdhawal			-37.05	148.93		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+CAMBERRA_LANGUAGE	CAMBERRA_LANGUAGE	sout2770				-35.31	149.12		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+CARIAY	CARIAY	cari1280	Cariay			-0.26	-65.11		Arw.INLAND_NORTHERN_ARAWAKAN	Maipurean,Northern,UpperAmazon,Unclassified	Arawakan,NorthernMaipuran,Negro-Roraima,Bahuanaic	True	False			ca0	Søren Wichmann
+CARIB_1665	CARIB_1665	vinc1243				13.13	-61.22		Arw.CARIBBEAN_ARAWAKAN	Maipurean	Arawakan	True	False	1665			Cecil H. Brown
+CHALON	CHALON	chal1270	Chalon			36.37	-121.15		Pen.COSTANOAN	Miwok-Costanoan,Costanoan	Miwok-Costanoan,Costanoan,NorthernCostanoan	True	False			ch0	Matthew S. Dryer
+CHEMAKUM	CHEMAKUM	chim1310	Chimakum			47.91	-123.14		Chk.CHIMAKUAN	Chimakuan	Chimakuan	True	False				Matthew S. Dryer
+CHOLTI	CHOLTI	chol1283	Cholti	qjt		15.5	-89		May.MAYAN	Mayan,Yucatecan-CoreMayan,CoreMayan,Cholan-Tzeltalan,Cholan,Chol-Chontal	Mayan,CoreMayan,WesternMayan,Cholan-Tzeltalan,Cholan,Chorti-Cholti	True	False	1695		qjt	Cecil H. Brown
+COERUNA	COERUNA	coer1236	Coeruna			-1.9	-65.55		Hui.UNCLASSIFIED_HUITOTOAN	Witotoan	Huitotoan,UnclassifiedHuitotoan	True	False				Julia Bischoffberger and Matthew S. Dryer
+COLAC	COLAC	cola1237	Colac			-38.2	143.3		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan,Kulin	Pama-Nyungan,SoutheasternPama-Nyungan,VictorianPama-Nyungan,Kulin-Bunganditj,Kulin	True	False			cx0	Zarina Molochieva
+COLAN	COLAN					-5	-81.06		Tla.TALLAN		Tallan	True	False				Julia Bischoffberger
+COMMON_TOCHARIAN	COMMON_TOCHARIAN	tokh1243	Tokharian B			41.65	82.9		IE.TOCHARIAN	Indo-European,Tokharian	Indo-European,Tokharian	True	False	850			Viveka Velupillai
+CUICA	CUICA	timo1237	Timote-Cuica	qpj		9	-70.5		TC.TIMOTE-CUICA	Timote-Cuica	Timote-Cuica	True	False			qpj	Matthias Urban
+CUITLATEC	CUITLATEC	cuit1236	Cuitlatec	qpb		17.5	-101		Cui.CUITLATEC	Cuitlatec	Cuitlatec	True	False	1965		qpb	Cecil H. Brown
+DARAGA	DARAGA	alba1269	Inland-Buhi-Daraga Bikol	rbl		13.17	123.5		An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,GreaterCentralPhilippine,CentralPhilippine,Bikol,Inland	Austronesian,NuclearAustronesian,Malayo-Polynesian,GreaterCentralPhilippine,CentralPhilippine,Bikol,InlandBikol	False	False			rbl	Ann-Katrin Wett
+DHUDHUROA	DHUDHUROA	dhud1236	Dhudhuroa			-35.56	144.18		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan,SoutheasternPama-Nyungan,VictorianPama-Nyungan,EasternVictoria,Dhudhuroa-Pallanganmiddang	True	False				Julia Bischoffberger
+DHUWAL	DHUWAL	dhuw1249	Dhuwal	dwu		-12.67	136.75		PN.WESTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan,Yuulngu,Dhuwal	Pama-Nyungan,Yuulngu,SouthernYolngu,Southern-EasternYolngu,Dhuwal-Dhuwala,WesternDhuwal-Dhuwala	False	False		dda	dwu	
+DJADJALA	DJADJALA			dja		-35.82	142.03		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan,Kulin	Pama-Nyungan	True	False			dja	Viveka Velupillai
+DJAPU	DJAPU			dwu		-12.67	136		PN.WESTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan,Yuulngu,Dhuwal	Pama-Nyungan,Yuulngu,SouthernYolngu,Southern-EasternYolngu,Dhuwal-Dhuwala,WesternDhuwal-Dhuwala	False	False		djp	dwu	André Müller
+DORASQUE	DORASQUE	dora1242	Dorasque	qbn		7	-83		Chi.DORASKE	Chibchan	Chibchan,CoreChibchan,IsthmicChibchan,Doracic	True	False			qbn	Cecil H. Brown
+DOTHRAKI	DOTHRAKI					33.77	-118.2		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+FINALLIG	FINALLIG	fina1242	Finallig	ebk		17.08	121.17		An.NORTHERN_LUZON	Austronesian,Malayo-Polynesian,NorthernLuzon,Meso-Cordilleran,South-CentralCordilleran,CentralCordilleran,NorthCentralCordilleran,NuclearCordilleran,Bontok-Kankanay,Bontok	Austronesian,NuclearAustronesian,Malayo-Polynesian,NorthernLuzon,Meso-Cordilleran,South-CentralCordilleran,CentralCordilleran,NorthCentralCordilleran,NuclearCordilleran,Bontok-Kankanay,Bontok	False	False			ebk	Sebastian Sauppe
+GANDANGARA	GANDANGARA					-33.7	150.3		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+GUACHI	GUACHI	guac1239	Guachi	qfk		-19.43	-56.34		Gch.GUACHI	Guaykuruan	Guachi	True	False			qfk	Zarina Molochieva
+GUAMO	GUAMO	guam1236	Guamo	qax		8	-69.5		Gmo.GUAMO	Guamo	Guamo	True	False			qax	Matthias Urban
+GUARANI_ANTIGO	GUARANI_ANTIGO					-26	-56		Tup.TUPI-GUARANI	Tupian,Tup\'i-Guaran\'i,Guaran\'i,Guaran\'i	Tupian,Maweti-Guarani,Aweti-Guarani,Tupi-Guarani,Tupi-GuaraniSubgroupI	True	False	1699			Pamela Brown
+GUINAU	GUINAU	guin1258	Guinau			4.78	-64.62		Arw.INLAND_NORTHERN_ARAWAKAN	Maipurean,Northern,UpperAmazon,CentralUpperAmazon,Bare	Arawakan,NorthernMaipuran,InlandNorthernMaipuran,AltoNegro	True	False			gu0	
+GUYAMBAL	GUYAMBAL	guya1250	Guyambal			-29.1	151		PN.EAST_QUEENSLAND_BORDER	Australian,Pama-Nyungan	Pama-Nyungan,EastQueenslandBorderPamaNyungan,Yugambalic	True	False				Julia Bischoffberger
+GWARA	GWARA	gwar1240	Gwara			9.47	7.98		NC.PLATOID	Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Plateau	Atlantic-Congo,Volta-Congo,Benue-Congo,Benue-CongoPlateau,WesternBenue-CongoPlateau,NorthwesternBenue-CongoPlateau,Koroic	False	False				Viveka Velupillai
+HELSINKI_STADIN_SLANGI	HELSINKI_STADIN_SLANGI					60.17	24.95		Oth.SPEECH_REGISTER		SpeechRegister	False	False				Viveka Velupillai
+HOAN	HOAN					-23.92	24.95		Kxa.JU-KUNG	Kx'a,!Kung	Kxa	False	False			ho0	André Müller
+IDO	IDO	idoo1234	Ido			52.37	4.89		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+INTERLINGUA	INTERLINGUA	inte1239	Interlingua (International Auxiliary Language Association)			40.43	74		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+IRANUN	IRANUN	iran1262	Iranun	ilm		6.35	116.43		An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,GreaterCentralPhilippine,Danao,Maranao-Iranon	Austronesian,NuclearAustronesian,Malayo-Polynesian,GreaterCentralPhilippine,Danaw	False	False			ilm	André Müller
+JARAWA_2	JARAWA_2	jara1263	Jarawa (Nigeria)	jjr		9.65	10.1		NC.BANTOID	Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,Jarawan,Nigerian	Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,Jarawan,NigerianJarawan	False	False		jar	jjr	Guillaume Segerer and Søren Wichmann
+JARAWA_3	JARAWA_3	jara1236	Jarawa (Nigeria)	jjr		9.65	10.1		NC.BANTOID	Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,Jarawan,Nigerian	Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,Jarawan,NigerianJarawan	False	False		jar	jjr	Guillaume Segerer and Søren Wichmann
+JIRINGAYN	JIRINGAYN	sout2711				-36.67	149.83		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+KAERA	KAERA	kaer1234	Kaera			-8.4	124.15		TAP.GREATER_ALOR	Trans-NewGuinea,West,Timor-Alor-Pantar,Alor-Pantar,Pantar	Timor-Alor-Pantar,Alor-Pantar	False	False			ke0	Søren Wichmann and Viveka Velupillai
+KAERA_2	KAERA_2	kaer1234	Kaera			-8.4	124.15		TAP.GREATER_ALOR	Trans-NewGuinea,West,Timor-Alor-Pantar,Alor-Pantar,Pantar	Timor-Alor-Pantar,Alor-Pantar	False	False			ke0	
+KATHLAMET	KATHLAMET	kath1235	Kathlamet			46.2	-123.38		Pen.CHINOOKAN	Chinookan,UpperChinookan	Chinookan,UpperChinookan	True	False	1940		ka0	Matthew S. Dryer
+KAWA	KAWA					-8.33	124.42		TAP.GREATER_ALOR	Trans-NewGuinea,West,Timor-Alor-Pantar	Timor-Alor-Pantar,Alor-Pantar	False	False				Søren Wichmann and Viveka Velupillai
+KERAMIN	KERAMIN					-34.08	141.9		PN.NORTHERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+KHAMNIGAN_MONGOL	KHAMNIGAN_MONGOL	kham1281	Khamnigan Mongol			49	117		Alt.MONGOLIC	Mongolic,Eastern	Mongolic,EasternMongolic	False	False				André Müller
+KITANEMUK	KITANEMUK					34.89	-118.68		UA.CALIFORNIA_UTO-AZTECAN	Uto-Aztecan,NorthernUto-Aztecan,Takic	Uto-Aztecan,NorthernUto-Aztecan,CalifornianUto-Aztecan,Cupan	True	False	1945		qe8	Ann-Katrin Wett
+KLINGON	KLINGON	klin1234	Klingon			34.1	-118.33		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+KROTMAG_KLINGON	KROTMAG_KLINGON					34.1	-118.33		Oth.ARTIFICIAL		ArtificialLanguage	False	False				
+LATE_EGYPTIAN	LATE_EGYPTIAN					29.85	31.25		AA.EGYPTIAN-COPTIC	Afro-Asiatic,Egyptian	Afro-Asiatic,Egyptian	False	True				
+LOJBAN	LOJBAN	lojb1234	Lojban			38.53	77.02		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+MAIPURE	MAIPURE	maip1247	Maipure-Avane	qij		5.5	-67.5		Arw.INLAND_NORTHERN_ARAWAKAN	Maipurean,Northern,UpperAmazon	Arawakan,NorthernMaipuran,Maipure-Avane	True	False	1780		qij	Viveka Velupillai
+MBOANDEM	MBOANDEM					5.42	8.67		Oth.ARTIFICIAL	Constructedlanguage	ArtificialLanguage	False	False				Viveka Velupillai
+MIDDLE_EGYPTIAN	MIDDLE_EGYPTIAN					25.7	32.65		AA.EGYPTIAN-COPTIC	Afro-Asiatic,Egyptian	Afro-Asiatic,Egyptian	False	True				
+MILLCAYAC	MILLCAYAC	mill1237	Millcayac	qgb		-31	-68		Hur.HUARPE	Huarpe	Huarpean	True	False	1750		qgb	Matthias Pache
+MIRRIPU_TIMOTE	MIRRIPU_TIMOTE	timo1237	Timote-Cuica	qsm		8.46	-71.19		TC.TIMOTE-CUICA	Timote-Cuica	Timote-Cuica	True	False			qsm	
+MOMI_YADIM	MOMI_YADIM					8.64	12.27		NC.ADAMAWA	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Adamawa-Ubangi,Adamawa,Leko-Nimbari,Duru,Voko-Dowayo,Vere-Dowayo,Vere-Gimme,Vere	Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Cameroun-Ubangian,CentralAdamawa,SambaDuru,NorthernSambaDuru,Vere-Gimme,Vere	False	False			ve0	Matthew S. Dryer
+MORIKE	MORIKE	mori1273	Morike			-5.63	-73.13		Arw.YANESHA	Maipurean,Southern,Western	Arawakan,WesternMaipuran,Chamicuro-Morike	False	False			mo0	Matthew S. Dryer
+MORSKA_KLINGON	MORSKA_KLINGON					34.1	-118.33		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+MULAO_KADAI	MULAO_KADAI	gela1246	Gelao Mulao			26.68	107.8		TK.KADAI	Tai-Kadai,Kra,WesternKra	Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,NorthernGelao	False	False			mu0	Sebastian Sauppe
+NABIT	NABIT	nabi1240	Nabit			10.86	-0.67		NC.GUR	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Gur,Central,Northern,Oti-Volta,Western,Northwest	Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Gur,CentralGur,NorthernCentralGur,Bwamu-Oti-Volta,Oti-Volta,NuclearOti-Volta,Gurma-Yom-Oti-VoltaOccidental,Oti-VoltaOccidental,NuclearOti-VoltaOccidental,NorthwestOti-Volta,Mossi-Farefare,Farefareic	False	False			na0	Matthew S. Dryer
+NAHUATL_ACAXOCHITLAN	NAHUATL_ACAXOCHITLAN					20.17	-98.2		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_AMILCINGO_ZACUALPAN	NAHUATL_AMILCINGO_ZACUALPAN					18.8	-98.77		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_AXOCHIAPAN	NAHUATL_AXOCHIAPAN					18.5	-98.77		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_AYOTOXCO	NAHUATL_AYOTOXCO					20.1	-97.4		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_CHICHIQUILA	NAHUATL_CHICHIQUILA					19.17	-97.02		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_CHIGNAUTLA	NAHUATL_CHIGNAUTLA					19.82	-97.37		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_CHILOCOYO_HUEHUETLA	NAHUATL_CHILOCOYO_HUEHUETLA					20.12	-97.62		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_CHINANCAHUATL_ZACUALTIPAN	NAHUATL_CHINANCAHUATL_ZACUALTIPAN					20.63	-98.58		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_COYOTEPEC	NAHUATL_COYOTEPEC	coyo1236	Coyotepec Popoloca			19.77	-99.2		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_CUAMELC0_TIANGUISTENGO	NAHUATL_CUAMELC0_TIANGUISTENGO					20.72	-98.62		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_CUATLAMAYAN_ANTONIO_SANTOS	NAHUATL_CUATLAMAYAN_ANTONIO_SANTOS					20.8	-98.65		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_HUEYAPAN_TETELA_DEL_VOLCAN	NAHUATL_HUEYAPAN_TETELA_DEL_VOLCAN					18.87	-98.67		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				André Müller
+NAHUATL_HUEYATI_YAHUALICA	NAHUATL_HUEYATI_YAHUALICA					20.93	-98.4		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,HuastecaNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_IXHUATLAN_DE_MADERO	NAHUATL_IXHUATLAN_DE_MADERO					20.68	-98.02		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,HuastecaNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_IXTACAMAXTITLAN	NAHUATL_IXTACAMAXTITLAN					19.62	-97.82		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_JALATLACO	NAHUATL_JALATLACO					19.18	-99.42		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,Tehuacan-ZongolicaNahuatl,Tehuacanic	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_JICOCINGO_ZACATLAN	NAHUATL_JICOCINGO_ZACATLAN					19.92	-97.97		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,Tehuacan-ZongolicaNahuatl,Tehuacanic	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_LAS_BALSAS	NAHUATL_LAS_BALSAS					20.7	-97.78		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_LA_REFORMA_TEPEHUACAN_DE_GUERRERO	NAHUATL_LA_REFORMA_TEPEHUACAN_DE_GUERRERO					21	-98.83		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,HuastecaNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_MONTEGRANDE_PLATON_SANCHEZ	NAHUATL_MONTEGRANDE_PLATON_SANCHEZ					21.27	-98.37		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_QUETZALAPA_AZOYU	NAHUATL_QUETZALAPA_AZOYU					18.3	-99.2		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,WesternPeriphery-NorthGuerreroNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_REYES_DE_VALLARTA_TUZAMAPAN	NAHUATL_REYES_DE_VALLARTA_TUZAMAPAN					20.1	-97.52		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_SANTA_ANA_TLACOTENCO	NAHUATL_SANTA_ANA_TLACOTENCO					19.18	-99.02		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,Tehuacan-ZongolicaNahuatl,Tehuacanic	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_SANTA_MARIA_TEOPOXCO	NAHUATL_SANTA_MARIA_TEOPOXCO					18.17	-96.95		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_SAN_FRANCISCO_TLALNEPANTLA	NAHUATL_SAN_FRANCISCO_TLALNEPANTLA					19.18	-99.12		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,CentralNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_SAN_JERONINO_AMANALCO	NAHUATL_SAN_JERONINO_AMANALCO					19.52	-98.75		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_SAN_PEDRO_JICORA	NAHUATL_SAN_PEDRO_JICORA					22.42	-104.5		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,WesternPeriphery-NorthGuerreroNahuatl,WesternPeripheryNahuatl,DurangoNahuatl	False	False				Søren Wichmann
+NAHUATL_TLALNEPANTLA_TAMAZUNCHALE	NAHUATL_TLALNEPANTLA_TAMAZUNCHALE					21.27	-98.77		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,HuastecaNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_XAALITLA_TEPECUAUILCO	NAHUATL_XAALITLA_TEPECUAUILCO					18.02	-99.53		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_XALATZALA_TLAPA	NAHUATL_XALATZALA_TLAPA					17.55	-98.53		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,WesternPeriphery-NorthGuerreroNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_XALPATLAHUAC	NAHUATL_XALPATLAHUAC					17	-98.62		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,WesternPeriphery-NorthGuerreroNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_XILITLA	NAHUATL_XILITLA					21.33	-98.97		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl,HuastecaNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_XOCHIATIPAN	NAHUATL_XOCHIATIPAN					21.02	-98.97		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_XOXOCOTLA_PUENTE_DE_IXTLA	NAHUATL_XOXOCOTLA_PUENTE_DE_IXTLA					18.67	-99.25		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NAHUATL_ZAHUASTIPAN_SAN_AUGUSTIN_METZQUITITLAN	NAHUATL_ZAHUASTIPAN_SAN_AUGUSTIN_METZQUITITLAN					20.62	-98.57		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl	False	False				Pamela Brown and Søren Wichmann
+NATI	NATI	nati1244	Nati			-16.45	167.5		An.OCEANIC	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,NorthandCentralVanuatu,NortheastVanuatu-BanksIslands,MalekulaCoastal	Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,NorthandCentralVanuatu,CentralVanuatu,Malakula,PeripheralWesternMalakula	False	False				André Müller
+NAVI	NAVI					40.67	-73.94		Oth.ARTIFICIAL	Constructedlanguage	ArtificialLanguage	False	False				André Müller
+NESE	NESE	nese1235	Nese			-15.9	167.18		An.OCEANIC	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,NorthandCentralVanuatu,NortheastVanuatu-BanksIslands,MalekulaCoastal	Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,NorthandCentralVanuatu,CentralVanuatu,Malakula,EasternMalakulalinkage,NorthernMalakula,NorthCoastMalakula	False	False				André Müller
+NGBAKA_PENDI	NGBAKA_PENDI	ngba1284	Ngbaka Ma’bo			4	18.5		NC.UBANGI	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Adamawa-Ubangi,Ubangi,Sere-Ngbaka-Mba,Ngbaka-Mba,Ngbaka,Western,Bwaka	Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Adamawa-Ubangi,Ubangi,Sere-Ngbaka-Mba,Ngbaka-Mba,Mundu-Baka,WesternMundu-Baka,RiverWesternMundu-Baka,Bwaka	False	False			pe0	Søren Wichmann and Viveka Velupillai
+NINATIC	NINATIC								Oth.ARTIFICIAL		ArtificialLanguage	False	False				Søren Wichmann
+NORTH_BASTAR_GONDI	NORTH_BASTAR_GONDI	sout2711	Southern Gondi	esg		20	81		Dra.SOUTH-CENTRAL_DRAVIDIAN	Dravidian,South-Central,Gondi-Kui,Gondi	Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi	False	False		gon	esg	Ann-Katrin Wett
+NOVOSLOVIENSKI_JEZYK	NOVOSLOVIENSKI_JEZYK								Oth.ARTIFICIAL		ArtificialLanguage	False	False				
+OAS	OAS			fbl		13.17	123.5		An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,GreaterCentralPhilippine,CentralPhilippine,Bikol,Inland	Austronesian,NuclearAustronesian,Malayo-Polynesian,GreaterCentralPhilippine,CentralPhilippine,Bikol,InlandBikol	False	False			fbl	Ann-Katrin Wett
+OGADEN_ARABIC	OGADEN_ARABIC					7.28	44.3		AA.SEMITIC	Afro-Asiatic,Semitic,Central,South,Arabic	Afro-Asiatic,Semitic,WestSemitic,CentralSemitic,Arabian,Arabic,ArabianPeninsulaArabic	False	False				André Müller
+OLD_LOW_FRANCONIAN	OLD_LOW_FRANCONIAN	oldd1237	Old Dutch-Old Frankish			53.26	6.74		IE.GERMANIC	Indo-European,Germanic,West	Indo-European,Germanic,NorthwestGermanic,WestGermanic	False	True				
+OLD_OR_MIDDLE_JAVANESE	OLD_OR_MIDDLE_JAVANESE	kawi1241	Kawi			-7	111		An.JAVANESE	Austronesian,Malayo-Polynesian,Javanese	Austronesian,NuclearAustronesian,Malayo-Polynesian,Javanesic	False	True				
+OMEO	OMEO					-37.1	147.6		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+OTOMACO	OTOMACO	otom1301	Otomaco	qpg		7	-68		Oto.OTOMACO	Otomaco	Otomaco	True	False			qpg	Matthias Urban
+PALEWYAMI	PALEWYAMI	pale1254	Palewyami Yokuts			35.56	-119.07		Pen.YOKUTS	Yokutsan	Yokutsan	True	False				Matthew S. Dryer
+PAUWI_2	PAUWI_2	pauw1243	Pauwi			-1.65	137.8		An.CENTRAL_MALAYO-POLYNESIAN	LowerMamberamo	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,GreaterSHWNG,SouthHalmahera-WestNewGuinea,LowerMamberamo,Yoke-Pauwi	False	False			pa0	Matthew S. Dryer
+PAUWI_3	PAUWI_3	pauw1243	Pauwi			-1.65	137.8		An.CENTRAL_MALAYO-POLYNESIAN	LowerMamberamo	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,GreaterSHWNG,SouthHalmahera-WestNewGuinea,LowerMamberamo,Yoke-Pauwi	False	False			pa0	Matthew S. Dryer
+PAYAGUA	PAYAGUA	paya1236	Payagua	qho		-25.69	-57.85		Pay.PAYAGUA	Guaykuruan	Payagua	True	False	1900		qho	
+POCHUTLA_NAHUATL	POCHUTLA_NAHUATL					15.75	-96.5		UA.AZTECAN	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl	Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,CentralNahuatl	False	False			nx0	André Müller
+PROTO_AGAW	PROTO_AGAW					12.92	37.86		AA.CENTRAL_CUSHITIC			False	True				André Müller
+PROTO_AINU	PROTO_AINU					42.9	143		Ain.AINU			False	True				Søren Wichmann
+PROTO_ALGIC	PROTO_ALGIC					42.67	-73.5		Alg.ALGIC			False	True				Søren Wichmann
+PROTO_ALOR_PANTAR	PROTO_ALOR_PANTAR								TAP.GREATER_ALOR			False	True				
+PROTO_ARAWAKAN	PROTO_ARAWAKAN								Arw.ARAWAKAN			False	True				Cecil H. Brown
+PROTO_ASMAT	PROTO_ASMAT					-5.5	138.83		TNG.ASMAT-KAMORO			False	True				Viveka Velupillai
+PROTO_ATAYALIC	PROTO_ATAYALIC								An.ATAYALIC			False	True				Julia Bischoffberger
+PROTO_AUSTRONESIAN	PROTO_AUSTRONESIAN					-5	150		An.AUSTRONESIAN			False	True				André Müller
+PROTO_AUSTRONESIAN_2	PROTO_AUSTRONESIAN_2					-9.67	-124.5		An.AUSTRONESIAN			False	True				André Müller
+PROTO_AUSTRONESIAN_3	PROTO_AUSTRONESIAN_3					-5	150		An.AUSTRONESIAN			False	True				Ann-Katrin Wett
+PROTO_AUSTRONESIAN_4	PROTO_AUSTRONESIAN_4								An.AUSTRONESIAN			False	True				Julia Bischoffberger
+PROTO_AUSTRONESIAN_5	PROTO_AUSTRONESIAN_5								An.AUSTRONESIAN			False	True				Julia Bischoffberger
+PROTO_AUSTRO_THAI	PROTO_AUSTRO_THAI								AuT.AUSTRO-THAI			False	True				
+PROTO_AYMARAN	PROTO_AYMARAN					-16.5	-69.5		Aym.AYMARAN			False	True				Julia Bischoffberger
+PROTO_BANTU	PROTO_BANTU								NC.BANTOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_BANTU_1	PROTO_BANTU_1								NC.BANTOID			False	True				Ann-Katrin Wett
+PROTO_BANTU_2	PROTO_BANTU_2								NC.BANTOID			False	True				Ann-Katrin Wett
+PROTO_BANTU_3	PROTO_BANTU_3								NC.BANTOID			False	True				Ann-Katrin Wett
+PROTO_BENUE_CONGO	PROTO_BENUE_CONGO								NC.PROTO_BENUE_CONGO			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_BISAYAN	PROTO_BISAYAN								An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,CentralPhilippine,Bisayan		False	True				Julia Bischoffberger
+PROTO_BIU_MANDARA	PROTO_BIU_MANDARA					11	14		AA.BIU-MANDARA			False	True				
+PROTO_BODO	PROTO_BODO					25.83	91.75		ST.BODO-GARO			False	True				André Müller
+PROTO_BORAN	PROTO_BORAN								Hui.BORAN	Witotoan,Boran		False	True				Cecil H. Brown
+PROTO_BUNGKU_TOLAKI	PROTO_BUNGKU_TOLAKI								An.CELEBIC			False	True				
+PROTO_CARIBAN	PROTO_CARIBAN					-0.5	-60.5		Car.CARIBAN			False	True				
+PROTO_CELTIC	PROTO_CELTIC								IE.CELTIC			False	True				Julia Bischoffberger
+PROTO_CENTRAL_EASTERN_MALAYO_POLYNESIAN	PROTO_CENTRAL_EASTERN_MALAYO_POLYNESIAN					-2.08	146.95		An.AUSTRONESIAN			False	True				André Müller
+PROTO_CENTRAL_GUR	PROTO_CENTRAL_GUR								NC.GUR			False	True				Julia Bischoffberger
+PROTO_CENTRAL_GUR_2	PROTO_CENTRAL_GUR_2								NC.GUR	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Gur,Central	Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Gur,CentralGur	False	True				Guillaume Segerer and Søren Wichmann
+PROTO_CENTRAL_JUKUNOID	PROTO_CENTRAL_JUKUNOID								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_CENTRAL_KHOISAN	PROTO_CENTRAL_KHOISAN								KK.KHOE-KWADI			False	True				Julia Bischoffberger
+PROTO_CENTRAL_MALAYO_POLYNESIAN	PROTO_CENTRAL_MALAYO_POLYNESIAN					-3.13	129.5		An.CENTRAL_MALAYO-POLYNESIAN			False	True				
+PROTO_CENTRAL_MALAYO_POLYNESIAN_2	PROTO_CENTRAL_MALAYO_POLYNESIAN_2					-3.13	129.5		An.CENTRAL_MALAYO-POLYNESIAN	Austronesian,Malayo-Polynesian,Central-Eastern,CentralMalayo-Polynesian		False	True				Julia Bischoffberger
+PROTO_CENTRAL_MANDE	PROTO_CENTRAL_MANDE					10.5	-8.28		Man.WESTERN_MANDE			False	True				André Müller
+PROTO_CENTRAL_PACIFIC	PROTO_CENTRAL_PACIFIC								An.OCEANIC	Austronesian,Malayo-Polynesian,Central-Eastern,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific		False	True				Julia Bischoffberger
+PROTO_CHADIC	PROTO_CHADIC								AA.CHADIC			False	True				Julia Bischoffberger
+PROTO_CHAMIC	PROTO_CHAMIC								An.MALAYO-SUMBAWAN	Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Chamic		False	True				Viveka Velupillai
+PROTO_CHAMIC_2	PROTO_CHAMIC_2								An.MALAYO-SUMBAWAN	Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Chamic		False	True				Julia Bischoffberger
+PROTO_CHAPAKURAN	PROTO_CHAPAKURAN								CW.CHAPACURA-WANHAM			False	True				Søren Wichmann and Viveka Velupillai
+PROTO_CHATINO	PROTO_CHATINO					17.07	-96.72		OM.ZAPOTECAN	Otomanguean,Zapotecan,Chatino		False	True				Viveka Velupillai
+PROTO_CHIBCHAN	PROTO_CHIBCHAN								Chi.CHIBCHAN			False	True				Cecil H. Brown
+PROTO_CHIMAKUAN	PROTO_CHIMAKUAN								Chk.CHIMAKUAN			False	True				Julia Bischoffberger
+PROTO_CHOLAN	PROTO_CHOLAN					15.55	-89.05		May.MAYAN			False	True				Cecil H. Brown
+PROTO_CHUKOTKO_KAMCHATKAN	PROTO_CHUKOTKO_KAMCHATKAN					56.5	160		CK.CK			False	True				
+PROTO_CHUMASHAN	PROTO_CHUMASHAN								Chu.CHUMASH			False	True				Cecil H. Brown
+PROTO_CUSHITIC	PROTO_CUSHITIC								AA.CUSHITIC	Afro-Asiatic,Cushitic		False	True				Julia Bischoffberger
+PROTO_DAJU	PROTO_DAJU					13	25		ESu.DAJU			False	True				Julia Bischoffberger
+PROTO_EASTERN_HMONG	PROTO_EASTERN_HMONG					26.13	106.65		HM.HMONG-MIEN			False	True				
+PROTO_EASTERN_MAKU	PROTO_EASTERN_MAKU					1	-70		Nad.NADAHUP			False	True				
+PROTO_EASTERN_NILOTIC	PROTO_EASTERN_NILOTIC								ESu.NILOTIC			False	True				
+PROTO_EAST_CUSHITIC	PROTO_EAST_CUSHITIC								AA.EAST_CUSHITIC	Afro-Asiatic,Cushitic,East		False	True				Julia Bischoffberger
+PROTO_EAST_KATUIC	PROTO_EAST_KATUIC								AuA.KATUIC			False	True				
+PROTO_EAST_KHOE	PROTO_EAST_KHOE								KK.KHOE-KWADI			False	True				Julia Bischoffberger
+PROTO_EAST_MINDANO	PROTO_EAST_MINDANO								An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,Philippine		False	True				Julia Bischoffberger
+PROTO_EDOID	PROTO_EDOID								NC.EDOID			False	True				Julia Bischoffberger
+PROTO_EDOID_2	PROTO_EDOID_2								NC.EDOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_ESKIMOAN	PROTO_ESKIMOAN								EA.ESKIMO	Eskimo-Aleut,Eskimo		False	True				Cecil H. Brown
+PROTO_ESKIMO_ALEUT	PROTO_ESKIMO_ALEUT								EA.EA			False	True				
+PROTO_GBAYA	PROTO_GBAYA					7	20		NC.UBANGI			False	True				Julia Bischoffberger
+PROTO_GBAYA_2	PROTO_GBAYA_2								NC.UBANGI			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_GE	PROTO_GE								MGe.GE-KAINGANG			False	True				Cecil H. Brown
+PROTO_GERMANIC	PROTO_GERMANIC					57	12		IE.GERMANIC			False	True				Julia Bischoffberger
+PROTO_GREATER_QANJOBALAN	PROTO_GREATER_QANJOBALAN					15.38	-91.72		May.MAYAN			False	True				Cecil H. Brown
+PROTO_GREATER_QUICHEAN	PROTO_GREATER_QUICHEAN					14.84	-90.84		May.MAYAN			False	True				Cecil H. Brown
+PROTO_GREATER_TZELTALAN	PROTO_GREATER_TZELTALAN					15.58	-89.08		May.MAYAN			False	True				Cecil H. Brown
+PROTO_GUAHIBAN	PROTO_GUAHIBAN								Gua.GUAHIBAN			False	True				Cecil H. Brown
+PROTO_HEIBAN	PROTO_HEIBAN								Krd.HEIBAN	Niger-Congo,Kordofanian,Heiban		False	True				Julia Bischoffberger
+PROTO_HIGHLAND_EAST_CUSHITIC	PROTO_HIGHLAND_EAST_CUSHITIC					7.05	38.44		AA.HIGHLAND_EAST_CUSHITIC			False	True				
+PROTO_HINDKO	PROTO_HINDKO					34	72.5		IE.INDIC			False	True				Viveka Velupillai
+PROTO_HLAI	PROTO_HLAI								TK.HLAI	Tai-Kadai,Hlai		False	True				Julia Bischoffberger
+PROTO_HLAI_2	PROTO_HLAI_2								TK.HLAI	Tai-Kadai,Hlai		False	True				Julia Bischoffberger
+PROTO_HMONG	PROTO_HMONG					27	105		HM.HMONG-MIEN			False	True				André Müller
+PROTO_HMONG_MIEN	PROTO_HMONG_MIEN								HM.HMONG-MIEN			False	True				
+PROTO_HUASTECAN	PROTO_HUASTECAN					15.55	-92.3		May.MAYAN			False	True				Cecil H. Brown
+PROTO_HUAVEAN	PROTO_HUAVEAN								Hua.HUAVEAN			False	True				Julia Bischoffberger
+PROTO_IJOID	PROTO_IJOID					4.5	6.5		Ijo.IJOID			False	True				Viveka Velupillai
+PROTO_INDO_EUROPEAN	PROTO_INDO_EUROPEAN					43	35		IE.PIE			False	True				
+PROTO_INDO_EUROPEAN_2	PROTO_INDO_EUROPEAN_2					43	35		IE.PIE			False	True				
+PROTO_INDO_EUROPEAN_3	PROTO_INDO_EUROPEAN_3					43	35		IE.PIE			False	True				Julia Bischoffberger
+PROTO_IROQUOIAN	PROTO_IROQUOIAN								Iro.IROQUOIAN			False	True				Cecil H. Brown
+PROTO_IU_MIEN	PROTO_IU_MIEN					24.55	108.55		HM.HMONG-MIEN			False	True				
+PROTO_JABUTI	PROTO_JABUTI								Jab.JABUTI			False	True				Ann-Katrin Wett and Cecil H. Brown
+PROTO_JICAQUE	PROTO_JICAQUE								Tol.TOL			False	True				Julia Bischoffberger
+PROTO_JIVAROAN	PROTO_JIVAROAN					-5	-78		Jiv.JIVAROAN			False	True				Julia Bischoffberger
+PROTO_JUKUNOID	PROTO_JUKUNOID								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_JUKUN_MBEMBE	PROTO_JUKUN_MBEMBE								NC.JUKONOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_JUKUN_MBEMBE_WURBO	PROTO_JUKUN_MBEMBE_WURBO								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_KADAI	PROTO_KADAI					22.12	105.52		TK.KADAI			False	True				André Müller
+PROTO_KALAPUYA	PROTO_KALAPUYA								Kal.KALAPUYAN			False	True				Cecil H. Brown
+PROTO_KAM_SUI	PROTO_KAM_SUI								TK.KAM-TAI	Tai-Kadai,Kam-Tai,Kam-Sui		False	True				Julia Bischoffberger
+PROTO_KAM_SUI_2	PROTO_KAM_SUI_2								TK.KAM-TAI	Tai-Kadai,Kam-Tai,Kam-Sui		False	True				Julia Bischoffberger
+PROTO_KAREN	PROTO_KAREN								ST.KAREN			False	True				Julia Bischoffberger
+PROTO_KARTVELIAN	PROTO_KARTVELIAN					43	42.5		Krt.KARTVELIAN	Kartvelian		False	True				Julia Bischoffberger
+PROTO_KARTVELIAN_2	PROTO_KARTVELIAN_2					43	45		Krt.KARTVELIAN			False	True				Julia Bischoffberger
+PROTO_KAWAPANAN	PROTO_KAWAPANAN								Cah.CAHUAPANAN			False	True				Cecil H. Brown
+PROTO_KHOE	PROTO_KHOE								KK.KHOE-KWADI			False	True				Julia Bischoffberger
+PROTO_KIM_MUN	PROTO_KIM_MUN					23.18	105.55		HM.HMONG-MIEN			False	True				
+PROTO_KOIARIAN	PROTO_KOIARIAN								TNG.KOIARIAN	Trans-NewGuinea,SoutheastPapuan,Koiarian		False	True				Julia Bischoffberger
+PROTO_KPAN_ICEN	PROTO_KPAN_ICEN								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_KRA	PROTO_KRA								TK.KADAI	Tai-Kadai,Kadai		False	True				Julia Bischoffberger
+PROTO_KULIAK	PROTO_KULIAK								ESu.KULIAK			False	True				Ann-Katrin Wett
+PROTO_LAKKJA	PROTO_LAKKJA					24.11	110.11		TK.KAM-TAI	Tai-Kadai,Kam-Tai,Kam-Sui,Lakkja		False	True				Julia Bischoffberger
+PROTO_LAMPUNG	PROTO_LAMPUNG					-5.45	104.95		An.LAMPUNGIC			False	True				Viveka Velupillai
+PROTO_LEZGIAN	PROTO_LEZGIAN								NDa.LEZGIC	NorthCaucasian,EastCaucasian,Lezgic		False	True				Julia Bischoffberger
+PROTO_LI	PROTO_LI								TK.HLAI	Tai-Kadai,Hlai		False	True				Julia Bischoffberger
+PROTO_LOLO_BURMESE	PROTO_LOLO_BURMESE								ST.BURMESE-LOLO	Sino-Tibetan,Tibeto-Burman,Lolo-Burmese		False	True				
+PROTO_LOLO_BURMESE_2	PROTO_LOLO_BURMESE_2								ST.BURMESE-LOLO	Sino-Tibetan,Tibeto-Burman,Lolo-Burmese		False	True				Julia Bischoffberger
+PROTO_LOTUKO_MAA	PROTO_LOTUKO_MAA								ESu.NILOTIC			False	True				
+PROTO_LOWER_CROSS	PROTO_LOWER_CROSS					5	8		NC.CROSS_RIVER			False	True				Viveka Velupillai
+PROTO_LOWER_CROSS_2	PROTO_LOWER_CROSS_2								NC.CROSS_RIVER			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_MAA	PROTO_MAA					0	36		ESu.NILOTIC	Nilo-Saharan,EasternSudanic,Nilotic,Eastern,Lotuxo-Teso,Lotuxo-Maa,Ongamo-Maa		False	True				Viveka Velupillai
+PROTO_MAIDUAN	PROTO_MAIDUAN								Pen.MAIDUAN			False	True				Cecil H. Brown
+PROTO_MAJI	PROTO_MAJI								AA.DIZOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_MALAYIC	PROTO_MALAYIC								An.MALAYO-SUMBAWAN	Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Malayic		False	True				Julia Bischoffberger
+PROTO_MALAYO_POLYNESIAN	PROTO_MALAYO_POLYNESIAN					-9	124		An.AUSTRONESIAN			False	True				
+PROTO_MALAYO_POLYNESIAN_2	PROTO_MALAYO_POLYNESIAN_2					-9	124		An.AUSTRONESIAN			False	True				
+PROTO_MALAYO_POLYNESIAN_3	PROTO_MALAYO_POLYNESIAN_3					-9	124		An.AUSTRONESIAN			False	True				
+PROTO_MAMEAN	PROTO_MAMEAN					15.55	-91.05		May.MAYAN			False	True				Cecil H. Brown
+PROTO_MANDEKAN	PROTO_MANDEKAN								Man.WESTERN_MANDE			False	True				Julia Bischoffberger
+PROTO_MANJAKU	PROTO_MANJAKU								NC.NORTHERN_ATLANTIC			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_MANOBO	PROTO_MANOBO								An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,Manobo		False	True				Viveka Velupillai
+PROTO_MATACOAN	PROTO_MATACOAN								Mat.MATACOAN			False	True				Cecil H. Brown
+PROTO_MAYA	PROTO_MAYA								May.MAYAN			False	True				
+PROTO_MAYAN	PROTO_MAYAN					17	-89.83		May.MAYAN			False	True				Cecil H. Brown
+PROTO_MAZATEC	PROTO_MAZATEC					17.7	-96.87		OM.POPOLOCAN			False	True				Pamela Brown
+PROTO_MBEMBE	PROTO_MBEMBE								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_MICRONESIAN	PROTO_MICRONESIAN					6.92	158.15		An.OCEANIC			False	True				André Müller
+PROTO_MIEN	PROTO_MIEN					22.12	106.6		HM.HMONG-MIEN			False	True				André Müller
+PROTO_MINAHASAN	PROTO_MINAHASAN					1.25	124.78		An.MINAHASAN			False	True				André Müller
+PROTO_MIWOK	PROTO_MIWOK								Pen.MIWOK			False	True				Cecil H. Brown
+PROTO_MIXE_ZOQUE	PROTO_MIXE_ZOQUE					16.5	-94.17		MZ.MIXE-ZOQUE			False	True				
+PROTO_MNONG	PROTO_MNONG								AuA.BAHNARIC			False	True				Ann-Katrin Wett
+PROTO_MON_KHMER	PROTO_MON_KHMER								AuA.MON-KHMER	Austro-Asiatic,Mon-Khmer		False	True				
+PROTO_MUSKOGEAN	PROTO_MUSKOGEAN								Mus.MUSKOGEAN			False	True				Cecil H. Brown
+PROTO_NAMBIQUARAN	PROTO_NAMBIQUARAN								Nam.NAMBIKUARAN			False	True				Cecil H. Brown
+PROTO_NGIRI	PROTO_NGIRI								NC.BANTOID			False	True				Ann-Katrin Wett
+PROTO_NGIRI_2	PROTO_NGIRI_2								NC.BANTOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_NILE_NUBIAN	PROTO_NILE_NUBIAN								ESu.NUBIAN			False	True				
+PROTO_NISOIC	PROTO_NISOIC								ST.BURMESE-LOLO	Sino-Tibetan,Tibeto-Burman,Lolo-Burmese,Loloish		False	True				Julia Bischoffberger
+PROTO_NORTHERN_HINDKO	PROTO_NORTHERN_HINDKO					34	73		IE.INDIC			False	True				
+PROTO_NORTHERN_IROQUOIAN	PROTO_NORTHERN_IROQUOIAN								Iro.NORTHERN_IROQUOIAN	Iroquoian,NorthernIroquoian		False	True				Cecil H. Brown
+PROTO_NORTHERN_KHOISAN	PROTO_NORTHERN_KHOISAN								Kxa.KXA			False	True				Julia Bischoffberger
+PROTO_NORTHERN_NAGA	PROTO_NORTHERN_NAGA								ST.NORTHERN_NAGA			False	True				Ann-Katrin Wett
+PROTO_NUBIAN	PROTO_NUBIAN								ESu.NUBIAN			False	True				Julia Bischoffberger
+PROTO_OCEANIC	PROTO_OCEANIC					-10	-125		An.OCEANIC			False	True				André Müller
+PROTO_OCEANIC_2	PROTO_OCEANIC_2					-10	-125		An.OCEANIC			False	True				Julia Bischoffberger
+PROTO_OCEANIC_3	PROTO_OCEANIC_3					-10	-125		An.OCEANIC			False	True				Julia Bischoffberger
+PROTO_ONGAMO_MAA	PROTO_ONGAMO_MAA					0	36		ESu.NILOTIC	Nilo-Saharan,EasternSudanic,Nilotic,Eastern,Lotuxo-Teso,Lotuxo-Maa,Ongamo-Maa		False	True				
+PROTO_ONGAN	PROTO_ONGAN								SAn.SOUTH_ANDAMANESE			False	True				André Müller
+PROTO_OTI_VOLTA	PROTO_OTI_VOLTA								NC.GUR			False	True				Julia Bischoffberger
+PROTO_OTI_VOLTA_ORIENTAL	PROTO_OTI_VOLTA_ORIENTAL								NC.GUR	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Gur,Central,Northern,Oti-Volta		False	True				Julia Bischoffberger
+PROTO_OTO_MANGUEAN	PROTO_OTO_MANGUEAN								OM.OM	Otomanguean		False	True				
+PROTO_PALAWAN	PROTO_PALAWAN					8.67	117.3		An.GREATER_CENTRAL_PHILIPPINE	Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,Palawanic		False	True				Ann-Katrin Wett
+PROTO_PANO	PROTO_PANO					-10	-65		Pan.PANOAN			False	True				Viveka Velupillai
+PROTO_PANO_TACANAN	PROTO_PANO_TACANAN								PT.PANO-TACANAN			False	True				
+PROTO_PHILIPPINE	PROTO_PHILIPPINE								An.AUSTRONESIAN			False	True				Ann-Katrin Wett
+PROTO_PHILIPPINE_2	PROTO_PHILIPPINE_2								An.AUSTRONESIAN	Austronesian,Malayo-Polynesian,Philippine		False	True				Julia Bischoffberger
+PROTO_POLYNESIAN	PROTO_POLYNESIAN					-17.5	-173.5		An.OCEANIC			False	True				Viveka Velupillai
+PROTO_POLYNESIAN_2	PROTO_POLYNESIAN_2					-17.5	-173.5		An.OCEANIC	Austronesian,Malayo-Polynesian,Central-Eastern,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian		False	True				Julia Bischoffberger
+PROTO_POPOTECAN	PROTO_POPOTECAN								OM.POPOTECAN			False	True				Julia Bischoffberger
+PROTO_PUYUMA	PROTO_PUYUMA					22.61	121		An.PUYUMA	Austronesian,Puyuma		False	True				Julia Bischoffberger
+PROTO_QUECHUA	PROTO_QUECHUA					-10.5	-77		Que.QUECHUAN			False	True				
+PROTO_RUKAI	PROTO_RUKAI								An.RUKAI	Austronesian,Rukai		False	True				Julia Bischoffberger
+PROTO_SAHAPTIAN	PROTO_SAHAPTIAN								Pen.SAHAPTIAN			False	True				Cecil H. Brown
+PROTO_SALISHAN	PROTO_SALISHAN								Sal.SALISHAN			False	True				Cecil H. Brown
+PROTO_SAM	PROTO_SAM					2.33	37.98		AA.LOWLAND_EAST_CUSHITIC			False	True				Julia Bischoffberger
+PROTO_SAMOJEDISCH	PROTO_SAMOJEDISCH								Ura.SAMOYEDIC			False	True				
+PROTO_SANGIRIC	PROTO_SANGIRIC								An.SANGIRIC			False	True				Ann-Katrin Wett
+PROTO_SBB	PROTO_SBB								CSu.MORU-MADI			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_SEKO	PROTO_SEKO								An.SOUTH_SULAWESI	Austronesian,Malayo-Polynesian,SouthSulawesi,Seko		False	True				Julia Bischoffberger
+PROTO_SEMITIC	PROTO_SEMITIC								AA.SEMITIC			False	True				Julia Bischoffberger
+PROTO_SINO_TIBETAN	PROTO_SINO_TIBETAN								ST.ST			False	True				
+PROTO_SINO_TIBETAN_2	PROTO_SINO_TIBETAN_2								ST.ST	Sino-Tibetan		False	True				
+PROTO_SIOUAN	PROTO_SIOUAN								Sio.SIOUAN			False	True				Cecil H. Brown
+PROTO_SOUTHERNWESTERN_TAI	PROTO_SOUTHERNWESTERN_TAI								TK.KAM-TAI	Tai-Kadai,Kam-Tai,Be-Tai,Tai-Sek,Tai,Southwestern		False	True				
+PROTO_SOUTHERN_HINDKO	PROTO_SOUTHERN_HINDKO					34	72		IE.INDIC			False	True				
+PROTO_SOUTHERN_MINDANAO	PROTO_SOUTHERN_MINDANAO					7.5	126		An.BILIC			False	True				André Müller
+PROTO_SOUTHERN_NILOTIC	PROTO_SOUTHERN_NILOTIC								ESu.NILOTIC	Nilo-Saharan,EasternSudanic,Nilotic,Southern		False	True				
+PROTO_SOUTHWESTERN_MANDE	PROTO_SOUTHWESTERN_MANDE					8.14	-10.31		Man.WESTERN_MANDE			False	True				André Müller
+PROTO_SOUTH_BAHNARIC	PROTO_SOUTH_BAHNARIC								AuA.BAHNARIC			False	True				Ann-Katrin Wett
+PROTO_SOUTH_CUSHITIC	PROTO_SOUTH_CUSHITIC								AA.SOUTHERN_CUSHITIC	Afro-Asiatic,Cushitic,South		False	True				Julia Bischoffberger
+PROTO_SOUTH_EAST_MINDANAO	PROTO_SOUTH_EAST_MINDANAO								An.GREATER_CENTRAL_PHILIPPINE			False	True				
+PROTO_SOUTH_SULAWESI	PROTO_SOUTH_SULAWESI								An.SOUTH_SULAWESI			False	True				
+PROTO_SUMBA_HAWU	PROTO_SUMBA_HAWU								An.CENTRAL_MALAYO-POLYNESIAN	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,Sumba-Hawu,Sumba		False	True				
+PROTO_TACANAN	PROTO_TACANAN								Tac.TACANAN			False	True				Cecil H. Brown
+PROTO_TACANAN_2	PROTO_TACANAN_2								Tac.TACANAN			False	True				
+PROTO_TAI	PROTO_TAI								TK.KAM-TAI	Tai-Kadai,Kam-Tai,Be-Tai,Tai-Sek,Tai		False	True				Julia Bischoffberger
+PROTO_TALODI	PROTO_TALODI								Krd.TALODI	Niger-Congo,Kordofanian,Talodi		False	True				Julia Bischoffberger
+PROTO_TANI	PROTO_TANI					28	94		ST.TANI			False	True				Søren Wichmann and Viveka Velupillai
+PROTO_TEPIMAN	PROTO_TEPIMAN								UA.TEPIMAN			False	True				Ann-Katrin Wett
+PROTO_TESO_LOTUKO_MAA	PROTO_TESO_LOTUKO_MAA								ESu.NILOTIC			False	True				
+PROTO_THARU	PROTO_THARU								IE.INDIC			False	True				Ann-Katrin Wett
+PROTO_TIBETO_BURMAN	PROTO_TIBETO_BURMAN					27.99	86.93		ST.TIBETO-BURMAN			False	True				Ann-Katrin Wett
+PROTO_TIBETO_BURMAN_2	PROTO_TIBETO_BURMAN_2					27.99	86.93		ST.TIBETO-BURMAN	Sino-Tibetan,Tibeto-Burman		False	True				
+PROTO_TOGO	PROTO_TOGO					8	1		NC.KWA			False	True				Viveka Velupillai
+PROTO_TOGO_RESTSPRACHEN	PROTO_TOGO_RESTSPRACHEN								NC.KWA			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_TOTONACAN	PROTO_TOTONACAN								Tot.TOTONACAN			False	True				Cecil H. Brown
+PROTO_TOTO_ZOQUEAN	PROTO_TOTO_ZOQUEAN								TZ.TZ			False	True				
+PROTO_TRANS_NEW_GUINEA	PROTO_TRANS_NEW_GUINEA								TNG.TRANS-NEW_GUINEA			False	True				
+PROTO_TRUKIC	PROTO_TRUKIC					7.84	144.36		An.OCEANIC			False	True				André Müller
+PROTO_TRUKIC_2	PROTO_TRUKIC_2								An.OCEANIC			False	True				
+PROTO_TSOUIC	PROTO_TSOUIC					23.22	120.78		An.TSOU	Austronesian,Tsouic		False	True				Julia Bischoffberger
+PROTO_TUCANOAN	PROTO_TUCANOAN								Tuc.TUCANOAN			False	True				Cecil H. Brown
+PROTO_TUPI_GUARANI	PROTO_TUPI_GUARANI					-12.5	-47.5		Tup.TUPI-GUARANI			False	True				
+PROTO_TZELTALAN	PROTO_TZELTALAN					16.66	-93.65		May.MAYAN			False	True				Cecil H. Brown
+PROTO_UKAAN	PROTO_UKAAN					7.75	6.05		NC.UKAAN			False	True				Viveka Velupillai
+PROTO_UPPER_CROSS	PROTO_UPPER_CROSS								NC.CROSS_RIVER			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_URALIC	PROTO_URALIC					60	60		Ura.URALIC			False	True				Julia Bischoffberger
+PROTO_URALIC_2	PROTO_URALIC_2								Ura.URALIC			False	True				Ann-Katrin Wett
+PROTO_UTIAN	PROTO_UTIAN								Pen.MIWOK-COSTANOAN			False	True				Julia Bischoffberger
+PROTO_UTO_AZTECAN	PROTO_UTO_AZTECAN								UA.UA			False	True				
+PROTO_VIET_MUONG	PROTO_VIET_MUONG								AuA.VIET-MUONG			False	True				
+PROTO_WAKASHAN	PROTO_WAKASHAN					48.67	-124.75		Wak.WAKASHAN			False	True				Søren Wichmann
+PROTO_WESTERN_HMONG	PROTO_WESTERN_HMONG					23.83	104.5		HM.HMONG-MIEN			False	True				
+PROTO_WESTERN_PUNJABI	PROTO_WESTERN_PUNJABI					33	72.5		IE.INDIC			False	True				
+PROTO_WESTERN_TIBETAN	PROTO_WESTERN_TIBETAN					34.56	76.67		ST.BODIC			False	True				
+PROTO_WEST_A_HMONG	PROTO_WEST_A_HMONG					21.67	104		HM.HMONG-MIEN			False	True				
+PROTO_WEST_BAHNARIC	PROTO_WEST_BAHNARIC								AuA.BAHNARIC			False	True				
+PROTO_WEST_KHOE	PROTO_WEST_KHOE								KK.KHOE-KWADI			False	True				Julia Bischoffberger
+PROTO_WEST_RIFT	PROTO_WEST_RIFT								AA.SOUTHERN_CUSHITIC	Afro-Asiatic,Cushitic,South		False	True				Julia Bischoffberger
+PROTO_WINTUN	PROTO_WINTUN					41	-122.5		Pen.WINTUAN			False	True				Cecil H. Brown
+PROTO_WITOTO_OCAINA	PROTO_WITOTO_OCAINA								Hui.HUITOTO	Witotoan,Witoto		False	True				
+PROTO_WURBO	PROTO_WURBO								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_YENISEIAN	PROTO_YENISEIAN					70	85		Yen.YENISEIAN			False	True				Julia Bischoffberger
+PROTO_YOKUTS	PROTO_YOKUTS								Pen.YOKUTS			False	True				Julia Bischoffberger
+PROTO_YUCATECAN_MAYAN	PROTO_YUCATECAN_MAYAN					20.05	-89.05		May.MAYAN			False	True				Cecil H. Brown
+PROTO_YUKUBEN_KUTEP	PROTO_YUKUBEN_KUTEP								NC.JUKUNOID			False	True				Guillaume Segerer and Søren Wichmann
+PROTO_YUMAN	PROTO_YUMAN								Hok.YUMAN			False	True				Cecil H. Brown
+PROTO_ZAPOTECAN	PROTO_ZAPOTECAN								OM.ZAPOTECAN	Otomanguean,Zapotecan		False	True				Julia Bischoffberger
+PROTO_ZHUANG_TAI	PROTO_ZHUANG_TAI								TK.KAM-TAI	Tai-Kadai,Kam-Tai,Be-Tai,Tai-Sek,Tai		False	True				Julia Bischoffberger
+QUENYA	QUENYA	quen1234	Quenya			50.72	-1.88		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+SARDINIAN	SARDINIAN	sard1257	Sardinian			40	9		IE.ROMANCE	Indo-European,Italic,Romance,Southern,Sardinian	Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian	False	False				Julia Bischoffberger
+SAR_INDONESIA	SAR_INDONESIA	sarr1247	Sar (Indonesia)			-8.33	124.42		TAP.GREATER_ALOR	Trans-NewGuinea,West,Timor-Alor-Pantar,Alor-Pantar	Timor-Alor-Pantar,Alor-Pantar,Teiwa-Sar	False	False			sa0	
+SECHURA	SECHURA	sech1236	Sechuran			-5.55	-80.85		Sch.SECHURA		Sechuran	True	False				Matthias Urban
+SINDARIN	SINDARIN	sind1281		sjn		51.75	-1.26		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+SITI	SITI	siti1241	Siti			9.17	-2.75		NC.GUR	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Gur,Central,Southern,Grusi,Western	Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Gur,CentralGur,SouthernCentralGur,Grusi,East-WestGrusi,WesternGrusi	False	False			si0	Matthew S. Dryer
+SITI_2	SITI_2	siti1241	Siti			9.17	-2.75		NC.GUR	Niger-Congo,Atlantic-Congo,Volta-Congo,North,Gur,Central,Southern,Grusi,Western	Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Gur,CentralGur,SouthernCentralGur,Grusi,East-WestGrusi,WesternGrusi	False	False			si0	Matthew S. Dryer
+SITU	SITU	situ1238	Situ			31.59	102.66		ST.RGYALRONG	Sino-Tibetan,Tibeto-Burman,NortheasternTibeto-Burman,rGyalrongic	Sino-Tibetan,Burmo-Qiangic,Na-Qiangic,Qiangic,Gyalrongic,CoreGyalrong,Situ	False	False			tz0	Matthew S. Dryer
+SLOVIANSKI	SLOVIANSKI	inte1263	Interslavic zonal constructed language						Oth.ARTIFICIAL		ArtificialLanguage	False	False				
+SLOVIO	SLOVIO					17.1	48.13		Oth.ARTIFICIAL		ArtificialLanguage	False	False				
+SLOVIO_2	SLOVIO_2					17.1	48.13		Oth.ARTIFICIAL		ArtificialLanguage	False	False				
+SOLRESOL	SOLRESOL					43.93	2.15		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+SOLTEC	SOLTEC	solt1234	Soltec			16.54	-96.96		OM.ZAPOTECAN	Otomanguean,EasternOtomanguean,Popolocan-Zapotecan,Zapotecan,Zapotec	Otomanguean,EasternOtomanguean,Popoloca-Zapotecan,Zapotecan,Zapotec	True	False			so0	Matthew S. Dryer
+SOUTHERN_GONDI	SOUTHERN_GONDI	sout2711	Southern Gondi	wsg		18.75	80.2		Dra.SOUTH-CENTRAL_DRAVIDIAN	Dravidian,South-Central,Gondi-Kui,Gondi	Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi	False	False		gon	wsg	Ann-Katrin Wett
+SOUTHERN_GONDI_2	SOUTHERN_GONDI_2	sout2711	Southern Gondi	wsg		19	81		Dra.SOUTH-CENTRAL_DRAVIDIAN	Dravidian,South-Central,Gondi-Kui,Gondi	Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi	False	False		gon	wsg	Ann-Katrin Wett
+SOUTH_EASTERN_GONDI	SOUTH_EASTERN_GONDI					19	81		Dra.SOUTH-CENTRAL_DRAVIDIAN	Dravidian,South-Central,Gondi-Kui,Gondi	Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi	False	False		gon	esg	Ann-Katrin Wett
+SUMARARU	SUMARARU	suma1274	Sumararu			-2.92	141.5		Sko.SERRA_HILLS	Skou,Skou-Serra-Piore,SerraHills,Rawo-MainSerra,MainSerra	Sko,Skou-Serra-Piore,SerraHills,Rawo-MainSerra,MainSerra	False	False			su0	André Müller and Mark Donohue
+TAENSA	TAENSA	taen1234	Taensa						Oth.FAKE		Spurious	False	False				Cecil H. Brown
+TAHITIAN_18TH_CENTURY	TAHITIAN_18TH_CENTURY	tahi1242	Tahitian			-17.67	-149.45		An.OCEANIC	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian,Nuclear,East,Central,Tahitic	Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,Polynesian,NuclearPolynesian,NorthernOutlierPolynesian-EastPolynesian,SolomonsNorthernOutlierPolynesian-EastPolynesian,CentralNorthernOutlierPolynesian-EastPolynesian,EastPolynesian,CentralEasternPolynesian,Tahitian-Austral	False	True				
+TAKEV_KLINGON	TAKEV_KLINGON	klin1234	Klingon	tlh		34.1	-118.33		Oth.ARTIFICIAL		ArtificialLanguage	False	False				
+TANDA_PNG	TANDA_PNG	tand1259	Tanda			5.74	146.61		TNG.FINISTERRE-HUON	Trans-NewGuinea,Finisterre-Huon,Finisterre,Warup	Nuclear_Trans_New_Guinea,Finisterre-Huon,Finisterre-Saruwaged,Warup	False	False			ta0	Matthew S. Dryer
+TAPARITA	TAPARITA	tapa1262	Taparita	qlf		7	-69		Oto.OTOMACO	Otomaco	Otomaco	True	False			qlf	Matthias Urban
+TAPE	TAPE	mara1399	Maragus	mrs		-16.12	167.42		An.OCEANIC	Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,NorthandCentralVanuatu,NortheastVanuatu-BanksIslands,MalekulaCoastal	Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,NorthandCentralVanuatu,CentralVanuatu,Malakula	False	False				Ann-Katrin Wett
+THAWA	THAWA	sout2771	Southern Coastal Yuin	xtv		-37.07	149.9		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+TOKI_PONA	TOKI_PONA					46.12	-64.8		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+TOTONAC_COATEPEC	TOTONAC_COATEPEC	toto1252	Totonac			19.5	-97		Tot.TOTONACAN	Totonacan,Totonac	Totonacan,Totonac	False	False				Cecil H. Brown
+TOTONAC_OLINTLA	TOTONAC_OLINTLA	toto1252	Totonac			20.01	-97.68		Tot.TOTONACAN	Totonacan,Totonac	Totonacan,Totonac	False	False				
+TOTONAC_OZELONACAXTLA	TOTONAC_OZELONACAXTLA	toto1252	Totonac			20.07	-97.62		Tot.TOTONACAN	Totonacan,Totonac	Totonacan,Totonac,CentralTotonacan,Lowland-SierraCentralTotonacan,LowlandCentralTotonacan	False	False				David Beck
+TOTONAC_TEJERIA	TOTONAC_TEJERIA	toto1252	Totonac			20.52	-97.88		Tot.TOTONACAN	Totonacan,Totonac	Totonacan,Totonac	False	False				
+TULAMNI	TULAMNI	tula1254	Tulamni			35.22	-119.24		Pen.YOKUTS	Yokutsan	Yokutsan,GeneralYokuts	True	False				Matthew S. Dryer
+TZOTZIL_ZINACANTAN_1600	TZOTZIL_ZINACANTAN_1600	tzot1259	Tzotzil			16.75	-92.7		May.MAYAN	Mayan,Yucatecan-CoreMayan,CoreMayan,Cholan-Tzeltalan,Tzeltalan,Tzotzil	Mayan,CoreMayan,WesternMayan,Cholan-Tzeltalan,Tzeltalan	True	False	1600			
+ULTERIOR_MIXE_C	ULTERIOR_MIXE_C	ulte1235	Ulterior-Mixe			17.22	-96.03		MZ.MIXE-ZOQUE	Mixe-Zoquean,Mixean,OaxacaMixean	Mixe-Zoque,Mixe,OaxacaMixe	False	False				
+VOLAPUK	VOLAPUK	vola1234	Volapük	vol		47.43	9.1		Oth.ARTIFICIAL		ArtificialLanguage	False	False				André Müller
+WAGU	WAGU	wagu1234	Wagu			-4.38	142.73		Sep.SEPIK_HILL	Sepik,SepikHill,Bahinemo	Sepik,SepikHill,CentralSepikHill,Bahinemic	False	False			wa0	Matthew S. Dryer
+WARRNAMBOOL	WARRNAMBOOL	warr1257	Warrnambool	gjm		-38.15	142.3		PN.SOUTHEASTERN_PAMA-NYUNGAN	Australian,Pama-Nyungan,Kulin	Pama-Nyungan,SoutheasternPama-Nyungan,VictorianPama-Nyungan,Kulin-Bunganditj,Warrnambool-Bunganditj	True	False		wrb	wx0	Zarina Molochieva
+WIKCHAMNI	WIKCHAMNI	wikc1234	Wikchamni			36.05	-118.77		Pen.YOKUTS	Yokutsan	Yokutsan,GeneralYokuts,NimYokuts	True	False				Matthew S. Dryer
+YAWDANCHI	YAWDANCHI	yawd1234	Yawdanchi			36.05	-118.77		Pen.YOKUTS	Yokutsan	Yokutsan,GeneralYokuts,NimYokuts	True	False				Matthew S. Dryer
+YITHA_YITHA	YITHA_YITHA	lowe1403	Lower Darling-Lower Lachlan			-33.89	144.22		PN.NORTHERN_PAMA-NYUNGAN	Australian,Pama-Nyungan	Pama-Nyungan	True	False				Julia Bischoffberger
+ZAPOTEC_1578	ZAPOTEC_1578	zapo1437	Zapotec	zap		17.05	-96.72		OM.ZAPOTECAN	Otomanguean,EasternOtomanguean,Popolocan-Zapotecan,Zapotecan,Zapotec	Otomanguean,EasternOtomanguean,Popoloca-Zapotecan,Zapotecan,Zapotec	True	False	1578			Cecil H. Brown

@@ -40,6 +40,8 @@ contain 40-item word lists of all the world's languages.
 
 ## Possible Improvements:
 
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - TAENSA [taen1234](http://glottolog.org/resource/languoid/id/taen1234)
 
 
 - Entries missing sources: 10635/445359 (2.39%)
