@@ -120,31 +120,31 @@ PAUWI_3,PAUWI_3,pauw1243,Pauwi,,Papunesia,-1.65,137.8,Austronesian,An.CENTRAL_MA
 PAYAGUA,PAYAGUA,paya1236,Payagua,qho,South America,-25.69,-57.85,,Pay.PAYAGUA,Guaykuruan,Payagua,True,False,1900,,qho,
 POCHUTLA_NAHUATL,POCHUTLA_NAHUATL,,,,,15.75,-96.5,,UA.AZTECAN,"Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl","Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,WesternNahuatl,CentralNahuatl",False,False,,,nx0,André Müller
 PROTO_AGAW,PROTO_AGAW,,,,,12.92,37.86,,AA.CENTRAL_CUSHITIC,,,False,True,,,,André Müller
-PROTO_AINU,PROTO_AINU,,,,,42.9,143,,Ain.AINU,,,False,True,,,,Søren Wichmann
-PROTO_ALGIC,PROTO_ALGIC,,,,,42.67,-73.5,,Alg.ALGIC,,,False,True,,,,Søren Wichmann
-PROTO_ALOR_PANTAR,PROTO_ALOR_PANTAR,,,,,,,,TAP.GREATER_ALOR,,,False,True,,,,
-PROTO_ARAWAKAN,PROTO_ARAWAKAN,,,,,,,,Arw.ARAWAKAN,,,False,True,,,,Cecil H. Brown
-PROTO_ASMAT,PROTO_ASMAT,,,,,-5.5,138.83,,TNG.ASMAT-KAMORO,,,False,True,,,,Viveka Velupillai
-PROTO_ATAYALIC,PROTO_ATAYALIC,,,,,,,,An.ATAYALIC,,,False,True,,,,Julia Bischoffberger
-PROTO_AUSTRONESIAN,PROTO_AUSTRONESIAN,,,,,-5,150,,An.AUSTRONESIAN,,,False,True,,,,André Müller
-PROTO_AUSTRONESIAN_2,PROTO_AUSTRONESIAN_2,,,,,-9.67,-124.5,,An.AUSTRONESIAN,,,False,True,,,,André Müller
-PROTO_AUSTRONESIAN_3,PROTO_AUSTRONESIAN_3,,,,,-5,150,,An.AUSTRONESIAN,,,False,True,,,,Ann-Katrin Wett
-PROTO_AUSTRONESIAN_4,PROTO_AUSTRONESIAN_4,,,,,,,,An.AUSTRONESIAN,,,False,True,,,,Julia Bischoffberger
-PROTO_AUSTRONESIAN_5,PROTO_AUSTRONESIAN_5,,,,,,,,An.AUSTRONESIAN,,,False,True,,,,Julia Bischoffberger
+PROTO_AINU,PROTO_AINU,ainu1252,Ainu,,,42.9,143,,Ain.AINU,,,False,True,,,,Søren Wichmann
+PROTO_ALGIC,PROTO_ALGIC,algi1248,Algic,,,42.67,-73.5,,Alg.ALGIC,,,False,True,,,,Søren Wichmann
+PROTO_ALOR_PANTAR,PROTO_ALOR_PANTAR,alor1249,Alor-Pantar,,,,,,TAP.GREATER_ALOR,,,False,True,,,,
+PROTO_ARAWAKAN,PROTO_ARAWAKAN,araw1281,Arawakan,,,,,,Arw.ARAWAKAN,,,False,True,,,,Cecil H. Brown
+PROTO_ASMAT,PROTO_ASMAT,asma1257,Asmat,,,-5.5,138.83,,TNG.ASMAT-KAMORO,,,False,True,,,,Viveka Velupillai
+PROTO_ATAYALIC,PROTO_ATAYALIC,atay1246,Atayalic,,,,,,An.ATAYALIC,,,False,True,,,,Julia Bischoffberger
+PROTO_AUSTRONESIAN,PROTO_AUSTRONESIAN,aust1307,Austronesian,,,-5,150,,An.AUSTRONESIAN,,,False,True,,,,André Müller
+PROTO_AUSTRONESIAN_2,PROTO_AUSTRONESIAN_2,aust1307,Austronesian,,,-9.67,-124.5,,An.AUSTRONESIAN,,,False,True,,,,André Müller
+PROTO_AUSTRONESIAN_3,PROTO_AUSTRONESIAN_3,aust1307,Austronesian,,,-5,150,,An.AUSTRONESIAN,,,False,True,,,,Ann-Katrin Wett
+PROTO_AUSTRONESIAN_4,PROTO_AUSTRONESIAN_4,aust1307,Austronesian,,,,,,An.AUSTRONESIAN,,,False,True,,,,Julia Bischoffberger
+PROTO_AUSTRONESIAN_5,PROTO_AUSTRONESIAN_5,aust1307,Austronesian,,,,,,An.AUSTRONESIAN,,,False,True,,,,Julia Bischoffberger
 PROTO_AUSTRO_THAI,PROTO_AUSTRO_THAI,,,,,,,,AuT.AUSTRO-THAI,,,False,True,,,,
-PROTO_AYMARAN,PROTO_AYMARAN,,,,,-16.5,-69.5,,Aym.AYMARAN,,,False,True,,,,Julia Bischoffberger
+PROTO_AYMARAN,PROTO_AYMARAN,ayma1253,Aymaran,,,-16.5,-69.5,,Aym.AYMARAN,,,False,True,,,,Julia Bischoffberger
 PROTO_BANTU,PROTO_BANTU,,,,,,,,NC.BANTOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_BANTU_1,PROTO_BANTU_1,,,,,,,,NC.BANTOID,,,False,True,,,,Ann-Katrin Wett
 PROTO_BANTU_2,PROTO_BANTU_2,,,,,,,,NC.BANTOID,,,False,True,,,,Ann-Katrin Wett
 PROTO_BANTU_3,PROTO_BANTU_3,,,,,,,,NC.BANTOID,,,False,True,,,,Ann-Katrin Wett
-PROTO_BENUE_CONGO,PROTO_BENUE_CONGO,,,,,,,,NC.PROTO_BENUE_CONGO,,,False,True,,,,Guillaume Segerer and Søren Wichmann
-PROTO_BISAYAN,PROTO_BISAYAN,,,,,,,,An.GREATER_CENTRAL_PHILIPPINE,"Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,CentralPhilippine,Bisayan",,False,True,,,,Julia Bischoffberger
-PROTO_BIU_MANDARA,PROTO_BIU_MANDARA,,,,,11,14,,AA.BIU-MANDARA,,,False,True,,,,
-PROTO_BODO,PROTO_BODO,,,,,25.83,91.75,,ST.BODO-GARO,,,False,True,,,,André Müller
-PROTO_BORAN,PROTO_BORAN,,,,,,,,Hui.BORAN,"Witotoan,Boran",,False,True,,,,Cecil H. Brown
-PROTO_BUNGKU_TOLAKI,PROTO_BUNGKU_TOLAKI,,,,,,,,An.CELEBIC,,,False,True,,,,
-PROTO_CARIBAN,PROTO_CARIBAN,,,,,-0.5,-60.5,,Car.CARIBAN,,,False,True,,,,
-PROTO_CELTIC,PROTO_CELTIC,,,,,,,,IE.CELTIC,,,False,True,,,,Julia Bischoffberger
+PROTO_BENUE_CONGO,PROTO_BENUE_CONGO,benu1247,Benue-Congo,,,,,,NC.PROTO_BENUE_CONGO,,,False,True,,,,Guillaume Segerer and Søren Wichmann
+PROTO_BISAYAN,PROTO_BISAYAN,bisa1268,Bisayan,,,,,,An.GREATER_CENTRAL_PHILIPPINE,"Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,CentralPhilippine,Bisayan",,False,True,,,,Julia Bischoffberger
+PROTO_BIU_MANDARA,PROTO_BIU_MANDARA,bium1280,Biu-Mandara,,,11,14,,AA.BIU-MANDARA,,,False,True,,,,
+PROTO_BODO,PROTO_BODO,bodo1279,Bodo-Garo,,,25.83,91.75,,ST.BODO-GARO,,,False,True,,,,André Müller
+PROTO_BORAN,PROTO_BORAN,bora1262,Boran,,,,,,Hui.BORAN,"Witotoan,Boran",,False,True,,,,Cecil H. Brown
+PROTO_BUNGKU_TOLAKI,PROTO_BUNGKU_TOLAKI,bung1268,Bungku-Tolaki,,,,,,An.CELEBIC,,,False,True,,,,
+PROTO_CARIBAN,PROTO_CARIBAN,cari1283,Cariban,,,-0.5,-60.5,,Car.CARIBAN,,,False,True,,,,
+PROTO_CELTIC,PROTO_CELTIC,celt1248,Celtic,,,,,,IE.CELTIC,,,False,True,,,,Julia Bischoffberger
 PROTO_CENTRAL_EASTERN_MALAYO_POLYNESIAN,PROTO_CENTRAL_EASTERN_MALAYO_POLYNESIAN,,,,,-2.08,146.95,,An.AUSTRONESIAN,,,False,True,,,,André Müller
 PROTO_CENTRAL_GUR,PROTO_CENTRAL_GUR,,,,,,,,NC.GUR,,,False,True,,,,Julia Bischoffberger
 PROTO_CENTRAL_GUR_2,PROTO_CENTRAL_GUR_2,,,,,,,,NC.GUR,"Niger-Congo,Atlantic-Congo,Volta-Congo,North,Gur,Central","Atlantic-Congo,Volta-Congo,NorthVolta-Congo,Gur,CentralGur",False,True,,,,Guillaume Segerer and Søren Wichmann
@@ -152,77 +152,77 @@ PROTO_CENTRAL_JUKUNOID,PROTO_CENTRAL_JUKUNOID,,,,,,,,NC.JUKUNOID,,,False,True,,,
 PROTO_CENTRAL_KHOISAN,PROTO_CENTRAL_KHOISAN,,,,,,,,KK.KHOE-KWADI,,,False,True,,,,Julia Bischoffberger
 PROTO_CENTRAL_MALAYO_POLYNESIAN,PROTO_CENTRAL_MALAYO_POLYNESIAN,,,,,-3.13,129.5,,An.CENTRAL_MALAYO-POLYNESIAN,,,False,True,,,,
 PROTO_CENTRAL_MALAYO_POLYNESIAN_2,PROTO_CENTRAL_MALAYO_POLYNESIAN_2,,,,,-3.13,129.5,,An.CENTRAL_MALAYO-POLYNESIAN,"Austronesian,Malayo-Polynesian,Central-Eastern,CentralMalayo-Polynesian",,False,True,,,,Julia Bischoffberger
-PROTO_CENTRAL_MANDE,PROTO_CENTRAL_MANDE,,,,,10.5,-8.28,,Man.WESTERN_MANDE,,,False,True,,,,André Müller
+PROTO_CENTRAL_MANDE,PROTO_CENTRAL_MANDE,mand1469,Mande,,,10.5,-8.28,,Man.WESTERN_MANDE,,,False,True,,,,André Müller
 PROTO_CENTRAL_PACIFIC,PROTO_CENTRAL_PACIFIC,,,,,,,,An.OCEANIC,"Austronesian,Malayo-Polynesian,Central-Eastern,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific",,False,True,,,,Julia Bischoffberger
-PROTO_CHADIC,PROTO_CHADIC,,,,,,,,AA.CHADIC,,,False,True,,,,Julia Bischoffberger
-PROTO_CHAMIC,PROTO_CHAMIC,,,,,,,,An.MALAYO-SUMBAWAN,"Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Chamic",,False,True,,,,Viveka Velupillai
-PROTO_CHAMIC_2,PROTO_CHAMIC_2,,,,,,,,An.MALAYO-SUMBAWAN,"Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Chamic",,False,True,,,,Julia Bischoffberger
+PROTO_CHADIC,PROTO_CHADIC,chad1250,Chadic,,,,,,AA.CHADIC,,,False,True,,,,Julia Bischoffberger
+PROTO_CHAMIC,PROTO_CHAMIC,cham1330,Chamic,,,,,,An.MALAYO-SUMBAWAN,"Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Chamic",,False,True,,,,Viveka Velupillai
+PROTO_CHAMIC_2,PROTO_CHAMIC_2,cham1330,Chamic,,,,,,An.MALAYO-SUMBAWAN,"Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Chamic",,False,True,,,,Julia Bischoffberger
 PROTO_CHAPAKURAN,PROTO_CHAPAKURAN,,,,,,,,CW.CHAPACURA-WANHAM,,,False,True,,,,Søren Wichmann and Viveka Velupillai
-PROTO_CHATINO,PROTO_CHATINO,,,,,17.07,-96.72,,OM.ZAPOTECAN,"Otomanguean,Zapotecan,Chatino",,False,True,,,,Viveka Velupillai
-PROTO_CHIBCHAN,PROTO_CHIBCHAN,,,,,,,,Chi.CHIBCHAN,,,False,True,,,,Cecil H. Brown
-PROTO_CHIMAKUAN,PROTO_CHIMAKUAN,,,,,,,,Chk.CHIMAKUAN,,,False,True,,,,Julia Bischoffberger
-PROTO_CHOLAN,PROTO_CHOLAN,,,,,15.55,-89.05,,May.MAYAN,,,False,True,,,,Cecil H. Brown
-PROTO_CHUKOTKO_KAMCHATKAN,PROTO_CHUKOTKO_KAMCHATKAN,,,,,56.5,160,,CK.CK,,,False,True,,,,
-PROTO_CHUMASHAN,PROTO_CHUMASHAN,,,,,,,,Chu.CHUMASH,,,False,True,,,,Cecil H. Brown
-PROTO_CUSHITIC,PROTO_CUSHITIC,,,,,,,,AA.CUSHITIC,"Afro-Asiatic,Cushitic",,False,True,,,,Julia Bischoffberger
-PROTO_DAJU,PROTO_DAJU,,,,,13,25,,ESu.DAJU,,,False,True,,,,Julia Bischoffberger
-PROTO_EASTERN_HMONG,PROTO_EASTERN_HMONG,,,,,26.13,106.65,,HM.HMONG-MIEN,,,False,True,,,,
+PROTO_CHATINO,PROTO_CHATINO,chat1268,Chatino,,,17.07,-96.72,,OM.ZAPOTECAN,"Otomanguean,Zapotecan,Chatino",,False,True,,,,Viveka Velupillai
+PROTO_CHIBCHAN,PROTO_CHIBCHAN,chib1249,Chibchan,,,,,,Chi.CHIBCHAN,,,False,True,,,,Cecil H. Brown
+PROTO_CHIMAKUAN,PROTO_CHIMAKUAN,chim1311,Chimakuan,,,,,,Chk.CHIMAKUAN,,,False,True,,,,Julia Bischoffberger
+PROTO_CHOLAN,PROTO_CHOLAN,chol1287,Cholan,,,15.55,-89.05,,May.MAYAN,,,False,True,,,,Cecil H. Brown
+PROTO_CHUKOTKO_KAMCHATKAN,PROTO_CHUKOTKO_KAMCHATKAN,chuk1271,Chukotko-Kamchatkan,,,56.5,160,,CK.CK,,,False,True,,,,
+PROTO_CHUMASHAN,PROTO_CHUMASHAN,chum1262,Chumashan,,,,,,Chu.CHUMASH,,,False,True,,,,Cecil H. Brown
+PROTO_CUSHITIC,PROTO_CUSHITIC,cush1243,Cushitic,,,,,,AA.CUSHITIC,"Afro-Asiatic,Cushitic",,False,True,,,,Julia Bischoffberger
+PROTO_DAJU,PROTO_DAJU,daju1249,Dajuic,,,13,25,,ESu.DAJU,,,False,True,,,,Julia Bischoffberger
+PROTO_EASTERN_HMONG,PROTO_EASTERN_HMONG,east2369,East Hmongic,,,26.13,106.65,,HM.HMONG-MIEN,,,False,True,,,,
 PROTO_EASTERN_MAKU,PROTO_EASTERN_MAKU,,,,,1,-70,,Nad.NADAHUP,,,False,True,,,,
 PROTO_EASTERN_NILOTIC,PROTO_EASTERN_NILOTIC,,,,,,,,ESu.NILOTIC,,,False,True,,,,
 PROTO_EAST_CUSHITIC,PROTO_EAST_CUSHITIC,,,,,,,,AA.EAST_CUSHITIC,"Afro-Asiatic,Cushitic,East",,False,True,,,,Julia Bischoffberger
 PROTO_EAST_KATUIC,PROTO_EAST_KATUIC,,,,,,,,AuA.KATUIC,,,False,True,,,,
 PROTO_EAST_KHOE,PROTO_EAST_KHOE,,,,,,,,KK.KHOE-KWADI,,,False,True,,,,Julia Bischoffberger
 PROTO_EAST_MINDANO,PROTO_EAST_MINDANO,,,,,,,,An.GREATER_CENTRAL_PHILIPPINE,"Austronesian,Malayo-Polynesian,Philippine",,False,True,,,,Julia Bischoffberger
-PROTO_EDOID,PROTO_EDOID,,,,,,,,NC.EDOID,,,False,True,,,,Julia Bischoffberger
-PROTO_EDOID_2,PROTO_EDOID_2,,,,,,,,NC.EDOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
+PROTO_EDOID,PROTO_EDOID,edoi1239,Edoid,,,,,,NC.EDOID,,,False,True,,,,Julia Bischoffberger
+PROTO_EDOID_2,PROTO_EDOID_2,edoi1239,Edoid,,,,,,NC.EDOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_ESKIMOAN,PROTO_ESKIMOAN,,,,,,,,EA.ESKIMO,"Eskimo-Aleut,Eskimo",,False,True,,,,Cecil H. Brown
-PROTO_ESKIMO_ALEUT,PROTO_ESKIMO_ALEUT,,,,,,,,EA.EA,,,False,True,,,,
+PROTO_ESKIMO_ALEUT,PROTO_ESKIMO_ALEUT,eski1264,Eskimo-Aleut,,,,,,EA.EA,,,False,True,,,,
 PROTO_GBAYA,PROTO_GBAYA,,,,,7,20,,NC.UBANGI,,,False,True,,,,Julia Bischoffberger
 PROTO_GBAYA_2,PROTO_GBAYA_2,,,,,,,,NC.UBANGI,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_GE,PROTO_GE,,,,,,,,MGe.GE-KAINGANG,,,False,True,,,,Cecil H. Brown
-PROTO_GERMANIC,PROTO_GERMANIC,,,,,57,12,,IE.GERMANIC,,,False,True,,,,Julia Bischoffberger
+PROTO_GERMANIC,PROTO_GERMANIC,germ1287,Germanic,,,57,12,,IE.GERMANIC,,,False,True,,,,Julia Bischoffberger
 PROTO_GREATER_QANJOBALAN,PROTO_GREATER_QANJOBALAN,,,,,15.38,-91.72,,May.MAYAN,,,False,True,,,,Cecil H. Brown
 PROTO_GREATER_QUICHEAN,PROTO_GREATER_QUICHEAN,,,,,14.84,-90.84,,May.MAYAN,,,False,True,,,,Cecil H. Brown
 PROTO_GREATER_TZELTALAN,PROTO_GREATER_TZELTALAN,,,,,15.58,-89.08,,May.MAYAN,,,False,True,,,,Cecil H. Brown
 PROTO_GUAHIBAN,PROTO_GUAHIBAN,,,,,,,,Gua.GUAHIBAN,,,False,True,,,,Cecil H. Brown
-PROTO_HEIBAN,PROTO_HEIBAN,,,,,,,,Krd.HEIBAN,"Niger-Congo,Kordofanian,Heiban",,False,True,,,,Julia Bischoffberger
+PROTO_HEIBAN,PROTO_HEIBAN,heib1242,Heibanic,,,,,,Krd.HEIBAN,"Niger-Congo,Kordofanian,Heiban",,False,True,,,,Julia Bischoffberger
 PROTO_HIGHLAND_EAST_CUSHITIC,PROTO_HIGHLAND_EAST_CUSHITIC,,,,,7.05,38.44,,AA.HIGHLAND_EAST_CUSHITIC,,,False,True,,,,
-PROTO_HINDKO,PROTO_HINDKO,,,,,34,72.5,,IE.INDIC,,,False,True,,,,Viveka Velupillai
-PROTO_HLAI,PROTO_HLAI,,,,,,,,TK.HLAI,"Tai-Kadai,Hlai",,False,True,,,,Julia Bischoffberger
-PROTO_HLAI_2,PROTO_HLAI_2,,,,,,,,TK.HLAI,"Tai-Kadai,Hlai",,False,True,,,,Julia Bischoffberger
-PROTO_HMONG,PROTO_HMONG,,,,,27,105,,HM.HMONG-MIEN,,,False,True,,,,André Müller
-PROTO_HMONG_MIEN,PROTO_HMONG_MIEN,,,,,,,,HM.HMONG-MIEN,,,False,True,,,,
-PROTO_HUASTECAN,PROTO_HUASTECAN,,,,,15.55,-92.3,,May.MAYAN,,,False,True,,,,Cecil H. Brown
-PROTO_HUAVEAN,PROTO_HUAVEAN,,,,,,,,Hua.HUAVEAN,,,False,True,,,,Julia Bischoffberger
-PROTO_IJOID,PROTO_IJOID,,,,,4.5,6.5,,Ijo.IJOID,,,False,True,,,,Viveka Velupillai
-PROTO_INDO_EUROPEAN,PROTO_INDO_EUROPEAN,,,,,43,35,,IE.PIE,,,False,True,,,,
-PROTO_INDO_EUROPEAN_2,PROTO_INDO_EUROPEAN_2,,,,,43,35,,IE.PIE,,,False,True,,,,
-PROTO_INDO_EUROPEAN_3,PROTO_INDO_EUROPEAN_3,,,,,43,35,,IE.PIE,,,False,True,,,,Julia Bischoffberger
-PROTO_IROQUOIAN,PROTO_IROQUOIAN,,,,,,,,Iro.IROQUOIAN,,,False,True,,,,Cecil H. Brown
+PROTO_HINDKO,PROTO_HINDKO,hind1271,Hindko,,,34,72.5,,IE.INDIC,,,False,True,,,,Viveka Velupillai
+PROTO_HLAI,PROTO_HLAI,hlai1239,Hlai,,,,,,TK.HLAI,"Tai-Kadai,Hlai",,False,True,,,,Julia Bischoffberger
+PROTO_HLAI_2,PROTO_HLAI_2,hlai1239,Hlai,,,,,,TK.HLAI,"Tai-Kadai,Hlai",,False,True,,,,Julia Bischoffberger
+PROTO_HMONG,PROTO_HMONG,hmon1337,Hmongic,,,27,105,,HM.HMONG-MIEN,,,False,True,,,,André Müller
+PROTO_HMONG_MIEN,PROTO_HMONG_MIEN,hmon1336,Hmong-Mien,,,,,,HM.HMONG-MIEN,,,False,True,,,,
+PROTO_HUASTECAN,PROTO_HUASTECAN,huas1241,Huastecan Mayan,,,15.55,-92.3,,May.MAYAN,,,False,True,,,,Cecil H. Brown
+PROTO_HUAVEAN,PROTO_HUAVEAN,huav1256,Huavean,,,,,,Hua.HUAVEAN,,,False,True,,,,Julia Bischoffberger
+PROTO_IJOID,PROTO_IJOID,ijoi1239,Ijoid,,,4.5,6.5,,Ijo.IJOID,,,False,True,,,,Viveka Velupillai
+PROTO_INDO_EUROPEAN,PROTO_INDO_EUROPEAN,indo1319,Indo-European,,,43,35,,IE.PIE,,,False,True,,,,
+PROTO_INDO_EUROPEAN_2,PROTO_INDO_EUROPEAN_2,indo1319,Indo-European,,,43,35,,IE.PIE,,,False,True,,,,
+PROTO_INDO_EUROPEAN_3,PROTO_INDO_EUROPEAN_3,indo1319,Indo-European,,,43,35,,IE.PIE,,,False,True,,,,Julia Bischoffberger
+PROTO_IROQUOIAN,PROTO_IROQUOIAN,iroq1247,Iroquoian,,,,,,Iro.IROQUOIAN,,,False,True,,,,Cecil H. Brown
 PROTO_IU_MIEN,PROTO_IU_MIEN,,,,,24.55,108.55,,HM.HMONG-MIEN,,,False,True,,,,
-PROTO_JABUTI,PROTO_JABUTI,,,,,,,,Jab.JABUTI,,,False,True,,,,Ann-Katrin Wett and Cecil H. Brown
-PROTO_JICAQUE,PROTO_JICAQUE,,,,,,,,Tol.TOL,,,False,True,,,,Julia Bischoffberger
+PROTO_JABUTI,PROTO_JABUTI,jabu1249,Jabuti,,,,,,Jab.JABUTI,,,False,True,,,,Ann-Katrin Wett and Cecil H. Brown
+PROTO_JICAQUE,PROTO_JICAQUE,jica1245,Jicaquean,,,,,,Tol.TOL,,,False,True,,,,Julia Bischoffberger
 PROTO_JIVAROAN,PROTO_JIVAROAN,,,,,-5,-78,,Jiv.JIVAROAN,,,False,True,,,,Julia Bischoffberger
-PROTO_JUKUNOID,PROTO_JUKUNOID,,,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
+PROTO_JUKUNOID,PROTO_JUKUNOID,juku1257,Jukunoid,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_JUKUN_MBEMBE,PROTO_JUKUN_MBEMBE,,,,,,,,NC.JUKONOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
-PROTO_JUKUN_MBEMBE_WURBO,PROTO_JUKUN_MBEMBE_WURBO,,,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
+PROTO_JUKUN_MBEMBE_WURBO,PROTO_JUKUN_MBEMBE_WURBO,juku1258,Jukun-Mbembe-Wurbo,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_KADAI,PROTO_KADAI,,,,,22.12,105.52,,TK.KADAI,,,False,True,,,,André Müller
-PROTO_KALAPUYA,PROTO_KALAPUYA,,,,,,,,Kal.KALAPUYAN,,,False,True,,,,Cecil H. Brown
+PROTO_KALAPUYA,PROTO_KALAPUYA,kala1402,Kalapuyan,,,,,,Kal.KALAPUYAN,,,False,True,,,,Cecil H. Brown
 PROTO_KAM_SUI,PROTO_KAM_SUI,,,,,,,,TK.KAM-TAI,"Tai-Kadai,Kam-Tai,Kam-Sui",,False,True,,,,Julia Bischoffberger
 PROTO_KAM_SUI_2,PROTO_KAM_SUI_2,,,,,,,,TK.KAM-TAI,"Tai-Kadai,Kam-Tai,Kam-Sui",,False,True,,,,Julia Bischoffberger
-PROTO_KAREN,PROTO_KAREN,,,,,,,,ST.KAREN,,,False,True,,,,Julia Bischoffberger
-PROTO_KARTVELIAN,PROTO_KARTVELIAN,,,,,43,42.5,,Krt.KARTVELIAN,Kartvelian,,False,True,,,,Julia Bischoffberger
-PROTO_KARTVELIAN_2,PROTO_KARTVELIAN_2,,,,,43,45,,Krt.KARTVELIAN,,,False,True,,,,Julia Bischoffberger
+PROTO_KAREN,PROTO_KAREN,kare1337,Karenic,,,,,,ST.KAREN,,,False,True,,,,Julia Bischoffberger
+PROTO_KARTVELIAN,PROTO_KARTVELIAN,kart1248,Kartvelian,,,43,42.5,,Krt.KARTVELIAN,Kartvelian,,False,True,,,,Julia Bischoffberger
+PROTO_KARTVELIAN_2,PROTO_KARTVELIAN_2,kart1248,Kartvelian,,,43,45,,Krt.KARTVELIAN,,,False,True,,,,Julia Bischoffberger
 PROTO_KAWAPANAN,PROTO_KAWAPANAN,,,,,,,,Cah.CAHUAPANAN,,,False,True,,,,Cecil H. Brown
-PROTO_KHOE,PROTO_KHOE,,,,,,,,KK.KHOE-KWADI,,,False,True,,,,Julia Bischoffberger
+PROTO_KHOE,PROTO_KHOE,khoe1241,Khoe,,,,,,KK.KHOE-KWADI,,,False,True,,,,Julia Bischoffberger
 PROTO_KIM_MUN,PROTO_KIM_MUN,,,,,23.18,105.55,,HM.HMONG-MIEN,,,False,True,,,,
-PROTO_KOIARIAN,PROTO_KOIARIAN,,,,,,,,TNG.KOIARIAN,"Trans-NewGuinea,SoutheastPapuan,Koiarian",,False,True,,,,Julia Bischoffberger
-PROTO_KPAN_ICEN,PROTO_KPAN_ICEN,,,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
+PROTO_KOIARIAN,PROTO_KOIARIAN,koia1260,Koiarian,,,,,,TNG.KOIARIAN,"Trans-NewGuinea,SoutheastPapuan,Koiarian",,False,True,,,,Julia Bischoffberger
+PROTO_KPAN_ICEN,PROTO_KPAN_ICEN,kpan1245,Kpan-Icen,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_KRA,PROTO_KRA,,,,,,,,TK.KADAI,"Tai-Kadai,Kadai",,False,True,,,,Julia Bischoffberger
-PROTO_KULIAK,PROTO_KULIAK,,,,,,,,ESu.KULIAK,,,False,True,,,,Ann-Katrin Wett
+PROTO_KULIAK,PROTO_KULIAK,kuli1252,Kuliak,,,,,,ESu.KULIAK,,,False,True,,,,Ann-Katrin Wett
 PROTO_LAKKJA,PROTO_LAKKJA,,,,,24.11,110.11,,TK.KAM-TAI,"Tai-Kadai,Kam-Tai,Kam-Sui,Lakkja",,False,True,,,,Julia Bischoffberger
-PROTO_LAMPUNG,PROTO_LAMPUNG,,,,,-5.45,104.95,,An.LAMPUNGIC,,,False,True,,,,Viveka Velupillai
-PROTO_LEZGIAN,PROTO_LEZGIAN,,,,,,,,NDa.LEZGIC,"NorthCaucasian,EastCaucasian,Lezgic",,False,True,,,,Julia Bischoffberger
+PROTO_LAMPUNG,PROTO_LAMPUNG,lamp1241,Lampungic,,,-5.45,104.95,,An.LAMPUNGIC,,,False,True,,,,Viveka Velupillai
+PROTO_LEZGIAN,PROTO_LEZGIAN,lezg1248,Lezgic,,,,,,NDa.LEZGIC,"NorthCaucasian,EastCaucasian,Lezgic",,False,True,,,,Julia Bischoffberger
 PROTO_LI,PROTO_LI,,,,,,,,TK.HLAI,"Tai-Kadai,Hlai",,False,True,,,,Julia Bischoffberger
 PROTO_LOLO_BURMESE,PROTO_LOLO_BURMESE,,,,,,,,ST.BURMESE-LOLO,"Sino-Tibetan,Tibeto-Burman,Lolo-Burmese",,False,True,,,,
 PROTO_LOLO_BURMESE_2,PROTO_LOLO_BURMESE_2,,,,,,,,ST.BURMESE-LOLO,"Sino-Tibetan,Tibeto-Burman,Lolo-Burmese",,False,True,,,,Julia Bischoffberger
@@ -230,39 +230,39 @@ PROTO_LOTUKO_MAA,PROTO_LOTUKO_MAA,,,,,,,,ESu.NILOTIC,,,False,True,,,,
 PROTO_LOWER_CROSS,PROTO_LOWER_CROSS,,,,,5,8,,NC.CROSS_RIVER,,,False,True,,,,Viveka Velupillai
 PROTO_LOWER_CROSS_2,PROTO_LOWER_CROSS_2,,,,,,,,NC.CROSS_RIVER,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_MAA,PROTO_MAA,,,,,0,36,,ESu.NILOTIC,"Nilo-Saharan,EasternSudanic,Nilotic,Eastern,Lotuxo-Teso,Lotuxo-Maa,Ongamo-Maa",,False,True,,,,Viveka Velupillai
-PROTO_MAIDUAN,PROTO_MAIDUAN,,,,,,,,Pen.MAIDUAN,,,False,True,,,,Cecil H. Brown
+PROTO_MAIDUAN,PROTO_MAIDUAN,maid1262,Maiduan,,,,,,Pen.MAIDUAN,,,False,True,,,,Cecil H. Brown
 PROTO_MAJI,PROTO_MAJI,,,,,,,,AA.DIZOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
-PROTO_MALAYIC,PROTO_MALAYIC,,,,,,,,An.MALAYO-SUMBAWAN,"Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Malayic",,False,True,,,,Julia Bischoffberger
+PROTO_MALAYIC,PROTO_MALAYIC,mala1538,Malayic,,,,,,An.MALAYO-SUMBAWAN,"Austronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEast,Malayic",,False,True,,,,Julia Bischoffberger
 PROTO_MALAYO_POLYNESIAN,PROTO_MALAYO_POLYNESIAN,,,,,-9,124,,An.AUSTRONESIAN,,,False,True,,,,
 PROTO_MALAYO_POLYNESIAN_2,PROTO_MALAYO_POLYNESIAN_2,,,,,-9,124,,An.AUSTRONESIAN,,,False,True,,,,
 PROTO_MALAYO_POLYNESIAN_3,PROTO_MALAYO_POLYNESIAN_3,,,,,-9,124,,An.AUSTRONESIAN,,,False,True,,,,
-PROTO_MAMEAN,PROTO_MAMEAN,,,,,15.55,-91.05,,May.MAYAN,,,False,True,,,,Cecil H. Brown
+PROTO_MAMEAN,PROTO_MAMEAN,mame1240,Mamean,,,15.55,-91.05,,May.MAYAN,,,False,True,,,,Cecil H. Brown
 PROTO_MANDEKAN,PROTO_MANDEKAN,,,,,,,,Man.WESTERN_MANDE,,,False,True,,,,Julia Bischoffberger
 PROTO_MANJAKU,PROTO_MANJAKU,,,,,,,,NC.NORTHERN_ATLANTIC,,,False,True,,,,Guillaume Segerer and Søren Wichmann
-PROTO_MANOBO,PROTO_MANOBO,,,,,,,,An.GREATER_CENTRAL_PHILIPPINE,"Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,Manobo",,False,True,,,,Viveka Velupillai
-PROTO_MATACOAN,PROTO_MATACOAN,,,,,,,,Mat.MATACOAN,,,False,True,,,,Cecil H. Brown
+PROTO_MANOBO,PROTO_MANOBO,mano1276,Manobo,,,,,,An.GREATER_CENTRAL_PHILIPPINE,"Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,Manobo",,False,True,,,,Viveka Velupillai
+PROTO_MATACOAN,PROTO_MATACOAN,mata1289,Matacoan,,,,,,Mat.MATACOAN,,,False,True,,,,Cecil H. Brown
 PROTO_MAYA,PROTO_MAYA,,,,,,,,May.MAYAN,,,False,True,,,,
-PROTO_MAYAN,PROTO_MAYAN,,,,,17,-89.83,,May.MAYAN,,,False,True,,,,Cecil H. Brown
-PROTO_MAZATEC,PROTO_MAZATEC,,,,,17.7,-96.87,,OM.POPOLOCAN,,,False,True,,,,Pamela Brown
+PROTO_MAYAN,PROTO_MAYAN,maya1287,Mayan,,,17,-89.83,,May.MAYAN,,,False,True,,,,Cecil H. Brown
+PROTO_MAZATEC,PROTO_MAZATEC,maza1295,Mazatecan,,,17.7,-96.87,,OM.POPOLOCAN,,,False,True,,,,Pamela Brown
 PROTO_MBEMBE,PROTO_MBEMBE,,,,,,,,NC.JUKUNOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_MICRONESIAN,PROTO_MICRONESIAN,,,,,6.92,158.15,,An.OCEANIC,,,False,True,,,,André Müller
-PROTO_MIEN,PROTO_MIEN,,,,,22.12,106.6,,HM.HMONG-MIEN,,,False,True,,,,André Müller
-PROTO_MINAHASAN,PROTO_MINAHASAN,,,,,1.25,124.78,,An.MINAHASAN,,,False,True,,,,André Müller
+PROTO_MIEN,PROTO_MIEN,mien1242,Mienic,,,22.12,106.6,,HM.HMONG-MIEN,,,False,True,,,,André Müller
+PROTO_MINAHASAN,PROTO_MINAHASAN,mina1272,Minahasan,,,1.25,124.78,,An.MINAHASAN,,,False,True,,,,André Müller
 PROTO_MIWOK,PROTO_MIWOK,,,,,,,,Pen.MIWOK,,,False,True,,,,Cecil H. Brown
-PROTO_MIXE_ZOQUE,PROTO_MIXE_ZOQUE,,,,,16.5,-94.17,,MZ.MIXE-ZOQUE,,,False,True,,,,
-PROTO_MNONG,PROTO_MNONG,,,,,,,,AuA.BAHNARIC,,,False,True,,,,Ann-Katrin Wett
+PROTO_MIXE_ZOQUE,PROTO_MIXE_ZOQUE,mixe1284,Mixe-Zoque,,,16.5,-94.17,,MZ.MIXE-ZOQUE,,,False,True,,,,
+PROTO_MNONG,PROTO_MNONG,mnon1259,Mnong,,,,,,AuA.BAHNARIC,,,False,True,,,,Ann-Katrin Wett
 PROTO_MON_KHMER,PROTO_MON_KHMER,,,,,,,,AuA.MON-KHMER,"Austro-Asiatic,Mon-Khmer",,False,True,,,,
-PROTO_MUSKOGEAN,PROTO_MUSKOGEAN,,,,,,,,Mus.MUSKOGEAN,,,False,True,,,,Cecil H. Brown
-PROTO_NAMBIQUARAN,PROTO_NAMBIQUARAN,,,,,,,,Nam.NAMBIKUARAN,,,False,True,,,,Cecil H. Brown
-PROTO_NGIRI,PROTO_NGIRI,,,,,,,,NC.BANTOID,,,False,True,,,,Ann-Katrin Wett
-PROTO_NGIRI_2,PROTO_NGIRI_2,,,,,,,,NC.BANTOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
+PROTO_MUSKOGEAN,PROTO_MUSKOGEAN,musk1252,Muskogean,,,,,,Mus.MUSKOGEAN,,,False,True,,,,Cecil H. Brown
+PROTO_NAMBIQUARAN,PROTO_NAMBIQUARAN,namb1299,Nambiquaran,,,,,,Nam.NAMBIKUARAN,,,False,True,,,,Cecil H. Brown
+PROTO_NGIRI,PROTO_NGIRI,ngir1248,Ngiri,,,,,,NC.BANTOID,,,False,True,,,,Ann-Katrin Wett
+PROTO_NGIRI_2,PROTO_NGIRI_2,ngir1248,Ngiri,,,,,,NC.BANTOID,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_NILE_NUBIAN,PROTO_NILE_NUBIAN,,,,,,,,ESu.NUBIAN,,,False,True,,,,
 PROTO_NISOIC,PROTO_NISOIC,,,,,,,,ST.BURMESE-LOLO,"Sino-Tibetan,Tibeto-Burman,Lolo-Burmese,Loloish",,False,True,,,,Julia Bischoffberger
 PROTO_NORTHERN_HINDKO,PROTO_NORTHERN_HINDKO,,,,,34,73,,IE.INDIC,,,False,True,,,,
 PROTO_NORTHERN_IROQUOIAN,PROTO_NORTHERN_IROQUOIAN,,,,,,,,Iro.NORTHERN_IROQUOIAN,"Iroquoian,NorthernIroquoian",,False,True,,,,Cecil H. Brown
 PROTO_NORTHERN_KHOISAN,PROTO_NORTHERN_KHOISAN,,,,,,,,Kxa.KXA,,,False,True,,,,Julia Bischoffberger
 PROTO_NORTHERN_NAGA,PROTO_NORTHERN_NAGA,,,,,,,,ST.NORTHERN_NAGA,,,False,True,,,,Ann-Katrin Wett
-PROTO_NUBIAN,PROTO_NUBIAN,,,,,,,,ESu.NUBIAN,,,False,True,,,,Julia Bischoffberger
+PROTO_NUBIAN,PROTO_NUBIAN,nubi1251,Nubian,,,,,,ESu.NUBIAN,,,False,True,,,,Julia Bischoffberger
 PROTO_OCEANIC,PROTO_OCEANIC,,,,,-10,-125,,An.OCEANIC,,,False,True,,,,André Müller
 PROTO_OCEANIC_2,PROTO_OCEANIC_2,,,,,-10,-125,,An.OCEANIC,,,False,True,,,,Julia Bischoffberger
 PROTO_OCEANIC_3,PROTO_OCEANIC_3,,,,,-10,-125,,An.OCEANIC,,,False,True,,,,Julia Bischoffberger
@@ -280,19 +280,19 @@ PROTO_POLYNESIAN,PROTO_POLYNESIAN,,,,,-17.5,-173.5,,An.OCEANIC,,,False,True,,,,V
 PROTO_POLYNESIAN_2,PROTO_POLYNESIAN_2,,,,,-17.5,-173.5,,An.OCEANIC,"Austronesian,Malayo-Polynesian,Central-Eastern,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian",,False,True,,,,Julia Bischoffberger
 PROTO_POPOTECAN,PROTO_POPOTECAN,,,,,,,,OM.POPOTECAN,,,False,True,,,,Julia Bischoffberger
 PROTO_PUYUMA,PROTO_PUYUMA,,,,,22.61,121,,An.PUYUMA,"Austronesian,Puyuma",,False,True,,,,Julia Bischoffberger
-PROTO_QUECHUA,PROTO_QUECHUA,,,,,-10.5,-77,,Que.QUECHUAN,,,False,True,,,,
-PROTO_RUKAI,PROTO_RUKAI,,,,,,,,An.RUKAI,"Austronesian,Rukai",,False,True,,,,Julia Bischoffberger
+PROTO_QUECHUA,PROTO_QUECHUA,quec1387,Quechuan,,,-10.5,-77,,Que.QUECHUAN,,,False,True,,,,
+PROTO_RUKAI,PROTO_RUKAI,saha1239,Sahaptian,,,,,,An.RUKAI,"Austronesian,Rukai",,False,True,,,,Julia Bischoffberger
 PROTO_SAHAPTIAN,PROTO_SAHAPTIAN,,,,,,,,Pen.SAHAPTIAN,,,False,True,,,,Cecil H. Brown
-PROTO_SALISHAN,PROTO_SALISHAN,,,,,,,,Sal.SALISHAN,,,False,True,,,,Cecil H. Brown
+PROTO_SALISHAN,PROTO_SALISHAN,sali1255,Salishan,,,,,,Sal.SALISHAN,,,False,True,,,,Cecil H. Brown
 PROTO_SAM,PROTO_SAM,,,,,2.33,37.98,,AA.LOWLAND_EAST_CUSHITIC,,,False,True,,,,Julia Bischoffberger
 PROTO_SAMOJEDISCH,PROTO_SAMOJEDISCH,,,,,,,,Ura.SAMOYEDIC,,,False,True,,,,
-PROTO_SANGIRIC,PROTO_SANGIRIC,,,,,,,,An.SANGIRIC,,,False,True,,,,Ann-Katrin Wett
+PROTO_SANGIRIC,PROTO_SANGIRIC,sang1335,Sangiric,,,,,,An.SANGIRIC,,,False,True,,,,Ann-Katrin Wett
 PROTO_SBB,PROTO_SBB,,,,,,,,CSu.MORU-MADI,,,False,True,,,,Guillaume Segerer and Søren Wichmann
 PROTO_SEKO,PROTO_SEKO,,,,,,,,An.SOUTH_SULAWESI,"Austronesian,Malayo-Polynesian,SouthSulawesi,Seko",,False,True,,,,Julia Bischoffberger
-PROTO_SEMITIC,PROTO_SEMITIC,,,,,,,,AA.SEMITIC,,,False,True,,,,Julia Bischoffberger
-PROTO_SINO_TIBETAN,PROTO_SINO_TIBETAN,,,,,,,,ST.ST,,,False,True,,,,
-PROTO_SINO_TIBETAN_2,PROTO_SINO_TIBETAN_2,,,,,,,,ST.ST,Sino-Tibetan,,False,True,,,,
-PROTO_SIOUAN,PROTO_SIOUAN,,,,,,,,Sio.SIOUAN,,,False,True,,,,Cecil H. Brown
+PROTO_SEMITIC,PROTO_SEMITIC,semi1276,Semitic,,,,,,AA.SEMITIC,,,False,True,,,,Julia Bischoffberger
+PROTO_SINO_TIBETAN,PROTO_SINO_TIBETAN,sino1245,Sino-Tibetan,,,,,,ST.ST,,,False,True,,,,
+PROTO_SINO_TIBETAN_2,PROTO_SINO_TIBETAN_2,sino1245,Sino-Tibetan,,,,,,ST.ST,Sino-Tibetan,,False,True,,,,
+PROTO_SIOUAN,PROTO_SIOUAN,siou1252,Siouan,,,,,,Sio.SIOUAN,,,False,True,,,,Cecil H. Brown
 PROTO_SOUTHERNWESTERN_TAI,PROTO_SOUTHERNWESTERN_TAI,,,,,,,,TK.KAM-TAI,"Tai-Kadai,Kam-Tai,Be-Tai,Tai-Sek,Tai,Southwestern",,False,True,,,,
 PROTO_SOUTHERN_HINDKO,PROTO_SOUTHERN_HINDKO,,,,,34,72,,IE.INDIC,,,False,True,,,,
 PROTO_SOUTHERN_MINDANAO,PROTO_SOUTHERN_MINDANAO,,,,,7.5,126,,An.BILIC,,,False,True,,,,André Müller
