@@ -165,6 +165,14 @@
         {
             "name": "Yue Sun",
             "type": "DataCollector"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
         }
     ],
     "keywords": [
@@ -181,12 +189,6 @@
         },
         {
             "name": "Cecil H. Brown"
-        },
-        {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Tiago Tresoldi"
         }
     ],
     "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v19 from 2020",

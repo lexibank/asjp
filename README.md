@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2020. The ASJP Database (version 19).
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://asjp.clld.org
 
@@ -21,12 +21,12 @@ contain 40-item word lists of all the world's languages.
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/asjp.svg?branch=master)](https://travis-ci.org/lexibank/asjp)
+[![CLDF validation](https://github.com/lexibank/asjp/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/asjp/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 98%](https://img.shields.io/badge/Source-98%25-green.svg "Source: 98%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 9,788
 - **Concepts:** 100
@@ -35,7 +35,7 @@ contain 40-item word lists of all the world's languages.
 - **Synonymy:** 1.11
 - **Invalid lexemes:** 0
 - **Tokens:** 1,852,883
-- **Segments:** 332 (0 BIPA errors, 0 CTLS sound class errors, 332 CLTS modified)
+- **Segments:** 332 (3 BIPA errors, 3 CTLS sound class errors, 326 CLTS modified)
 - **Inventory size (avg):** 23.75
 
 ## Possible Improvements:
@@ -86,7 +86,7 @@ Qibin Ran | | | DataCollector
 Tessa de Mol-van Valen | | | DataCollector
 Yuzhu Liang | | | DataCollector
 Yue Sun | | | DataCollector
-Robert Forkel | @xrotwang | patron, code | Author
-Tiago Tresoldi | @tresoldi | profile, language mapping refinement | Author
+Robert Forkel | @xrotwang | patron, code | Other
+Tiago Tresoldi | @tresoldi | profile, language mapping refinement | Other
 
 

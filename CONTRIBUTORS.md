@@ -38,5 +38,5 @@ Qibin Ran | | | DataCollector
 Tessa de Mol-van Valen | | | DataCollector
 Yuzhu Liang | | | DataCollector
 Yue Sun | | | DataCollector
-Robert Forkel | @xrotwang | patron, code | Author
-Tiago Tresoldi | @tresoldi | profile, language mapping refinement | Author
+Robert Forkel | @xrotwang | patron, code | Other
+Tiago Tresoldi | @tresoldi | profile, language mapping refinement | Other
