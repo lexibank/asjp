@@ -1,7 +1,7 @@
 {
-    "citation": "Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2020. The ASJP Database (version 19).",
+    "citation": "Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2022. The ASJP Database (version 20).",
     "license": "CC-BY-4.0",
-    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v19 from 2020",
+    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v20 from 2022",
     "url": "https://asjp.clld.org",
     "conceptlist": "Holman-2008-100"
 }

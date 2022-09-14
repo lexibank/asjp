@@ -1,8 +1,16 @@
-# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v19 from 2020
+# CLDF dataset derived from Wichmann et al.'s "ASJP Database" v20 from 2022
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/asjp/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/asjp/actions?query=workflow%3ACLDF-validation)
 
-> Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2020. The ASJP Database (version 19).
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2022. The ASJP Database (version 20).
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -22,29 +30,27 @@ contain 40-item word lists of all the world's languages.
 
 
 [![CLDF validation](https://github.com/lexibank/asjp/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/asjp/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
+![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 98%](https://img.shields.io/badge/Source-98%25-green.svg "Source: 98%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 9,788
+- **Varieties:** 10,168
 - **Concepts:** 100
-- **Lexemes:** 445,359
-- **Sources:** 9,606
-- **Synonymy:** 1.11
+- **Lexemes:** 482,118
+- **Sources:** 9,983
+- **Synonymy:** 1.10
 - **Invalid lexemes:** 0
-- **Tokens:** 1,852,883
-- **Segments:** 332 (3 BIPA errors, 3 CTLS sound class errors, 326 CLTS modified)
-- **Inventory size (avg):** 23.75
+- **Tokens:** 2,018,181
+- **Segments:** 334 (5 BIPA errors, 5 CLTS sound class errors, 326 CLTS modified)
+- **Inventory size (avg):** 23.77
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - TAENSA [taen1234](http://glottolog.org/resource/languoid/id/taen1234)
 
 
-- Entries missing sources: 10635/445359 (2.39%)
+- Entries missing sources: 10992/482118 (2.28%)
 
 # Contributors
 
@@ -90,3 +96,10 @@ Robert Forkel | @xrotwang | patron, code | Other
 Tiago Tresoldi | @tresoldi | profile, language mapping refinement | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
