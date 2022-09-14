@@ -26,10 +26,11 @@ newick==1.3.0
 numpy==1.23.3
 openpyxl==3.0.9
 packaging==20.3
+pkg_resources==0.0.0
 pluggy==0.13.1
 purl==1.5
 py==1.10.0
--e git+https://github.com/dlce-eva/pyasjp@bc124fead374fc40cf172350f7b7e7bca9e8d8b2#egg=pyasjp
+-e git+https://github.com/dlce-eva/pyasjp@d16d658c88443ab9aadab0213c5c0c951a42aca3#egg=pyasjp
 pybtex==0.24.0
 pycldf==1.27.0
 pyclts==3.1.1
