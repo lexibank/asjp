@@ -191,8 +191,8 @@
             "name": "Cecil H. Brown"
         }
     ],
-    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v19 from 2020",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2020. The ASJP Database (version 19).</p>\n</blockquote>",
+    "title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v20 from 2022",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wichmann, S\u00f8ren, Eric W. Holman, and Cecil H. Brown (eds.). 2022. The ASJP Database (version 20).</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
