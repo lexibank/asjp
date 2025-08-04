@@ -17,9 +17,9 @@ def slug(s):
     for c in string.punctuation:
         if c != "_":
             res = res.replace(c, "")
-    res = re.sub("\s+", "", res)
+    res = re.sub(r"\s+", "", res)
     res = res.encode("ascii", "ignore").decode("ascii")
-    assert re.match("[ A-Za-z0-9_]*$", res)
+    assert re.match(r"[ A-Za-z0-9_]*$", res)
     return res
 
 
@@ -69,33 +69,6 @@ class Dataset(pylexibank.Dataset):
             )
 
         iso2gl = {l.iso: l.id for l in self.glottolog.languoids() if l.iso}
-
-        # Correct glottocodes (mapping, retired ones, etc.)
-        iso2gl.update(
-            {
-                "gtu": "aghu1254",  # from aghu1256, AGHU_THARRNGGALA
-                "xss": "kott1239",  # from assa1266, ASSAN
-                "bbz": "char1283",  # from baba1273, BABALIA_CREOLE_ARABIC (mapping to a dialect of
-                # Chadian Arabic, as per SIL documentation)
-                "bcb": "bain1259",  # from bain1260, BAYNUNK_GUJAXER*
-                "bic": "biso1243",  # from bika1251, BIKARU*
-                "bvp": "khan1274",  # from bika1247, BUMANG
-                "geg": "kuga1239",  # from geng1243, GENGLE
-                "ihi": "emai1241",  # from ihie1238, IHIEE
-                "kav": "kana1291",  # from nucl1668, KATUKINA
-                "kym": "gbay1278",  # from kpat1244, KPATILI_2
-                "mct": "eton1253",  # from meng1263, MENGISA
-                "nxu": "kaur1271",  # from nara1265, NARAU
-                "nmj": "gund1247",  # from ngom1265, NGOMBE_2
-                "nom": "cash1251",  # from noca1240, NOCAMAN
-                "otk": "oldu1238",  # from oldt1247, OLD_TURKIC
-                "rui": "nden1248",  # from rufi1234, RUFIJI
-                "sxm": "somr1240",  # from samr1245, SAMRE
-                "xin": "xinc1242",  # from xinc1247, mapping to what is by far the most plausible source
-                # for Lehmann 1920 (all other varieties were extinct, and the
-                # alternative one is dormant and close enough)
-            }
-        )
 
         lids = set()
         for doculect in sorted(asjp.iter_doculects(), key=lambda dl: dl.id):
@@ -151,7 +124,6 @@ class Dataset(pylexibank.Dataset):
                     sorted([tr.name for tr in asjp.transcriber(doculect) or []])
                 ),
             )
-            args.writer.add_languages()
             for synset in sorted(doculect.synsets, key=lambda ss: ss.meaning_id):
                 for word in synset.words:
                     args.writer.add_form(
@@ -164,3 +136,4 @@ class Dataset(pylexibank.Dataset):
                         gloss_in_source=synset.meaning,
                         Source=sorted([str(src.id) for src in sources]),
                     )
+        assert not asjp.missing_transcribers
