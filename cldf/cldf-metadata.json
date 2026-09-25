@@ -4,12 +4,10 @@
     "dc:bibliographicCitation": "Wichmann, S\u00f8ren, Eric W. Holman, Cecil H. Brown, Matthew S. Dryer, and Qibin Ran (eds.). 2025. The ASJP Database (version 21).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Holman-2008-100"
+        "https://concepticon.clld.org/contributions/Holman-2008-100"
     ],
     "dc:identifier": "https://asjp.clld.org",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Wichmann et al.'s \"ASJP Database\" v21 from 2025",
     "dcat:accessURL": "https://github.com/lexibank/asjp",
@@ -17,19 +15,19 @@
         {
             "rdf:about": "https://github.com/lexibank/asjp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v20",
+            "dc:created": "v21",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.4.0-1-gf5f8627a",
+            "dc:created": "v3.4.0",
             "dc:title": "Concepticon"
         },
         {
@@ -58,6 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "Form(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, gloss_in_source: Optional[str] = None)",
             "dc:extent": 568820,
             "tableSchema": {
                 "columns": [
@@ -165,6 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "Doculect(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, classification_wals: Optional[str] = None, classification_ethnologue: Optional[str] = None, classification_glottolog: Optional[str] = None, recently_extinct: Optional[str] = None, long_extinct: Optional[str] = None, year_of_extinction: Optional[str] = None, code_wals: Optional[str] = None, code_iso: Optional[str] = None, transcribers: Optional[str] = None)",
             "dc:extent": 11540,
             "tableSchema": {
                 "columns": [
@@ -267,6 +267,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "Essential data of a concept mapped to Concepticon.",
             "dc:extent": 100,
             "tableSchema": {
                 "columns": [
@@ -296,6 +297,72 @@
                 ]
             },
             "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:extent": 18,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
+                    },
+                    {
+                        "propertyUrl": "dc:creator",
+                        "name": "Author"
+                    },
+                    {
+                        "propertyUrl": "dc:created",
+                        "name": "Year"
+                    },
+                    {
+                        "propertyUrl": "dc:bibliographicCitation",
+                        "name": "Citation"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "media.csv"
         }
     ]
 }

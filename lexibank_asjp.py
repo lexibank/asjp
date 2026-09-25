@@ -1,11 +1,15 @@
 import re
+import shutil
 import string
 import pathlib
+import mimetypes
+import dataclasses
 import unicodedata
+from typing import Optional
 
-import attr
 from pyasjp.api import ASJP
 from pycldf.sources import Source
+from clldutils.path import md5
 
 import pylexibank
 from pyasjp.models import MEANINGS_ALL
@@ -23,22 +27,22 @@ def slug(s):
     return res
 
 
-@attr.s
+@dataclasses.dataclass
 class Doculect(pylexibank.Language):
-    classification_wals = attr.ib(default=None)
-    classification_ethnologue = attr.ib(default=None)
-    classification_glottolog = attr.ib(default=None)
-    recently_extinct = attr.ib(default=None)
-    long_extinct = attr.ib(default=None)
-    year_of_extinction = attr.ib(default=None)
-    code_wals = attr.ib(default=None)
-    code_iso = attr.ib(default=None)
-    transcribers = attr.ib(default=None)
+    classification_wals: Optional[str] = None
+    classification_ethnologue: Optional[str] = None
+    classification_glottolog: Optional[str] = None
+    recently_extinct: Optional[str] = None
+    long_extinct: Optional[str] = None
+    year_of_extinction: Optional[str] = None
+    code_wals: Optional[str] = None
+    code_iso: Optional[str] = None
+    transcribers: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class Form(pylexibank.Lexeme):
-    gloss_in_source = attr.ib(default=None)
+    gloss_in_source: Optional[str] = None
 
 
 class Dataset(pylexibank.Dataset):
@@ -47,11 +51,30 @@ class Dataset(pylexibank.Dataset):
     language_class = Doculect
     lexeme_class = Form
 
-    def cmd_download(self, args):
-        pass
-        # bibtex = bibtex.replace("}).},", "},")
-
     def cmd_makecldf(self, args):
+        args.writer.cldf.add_component(
+            'MediaTable',
+            {'name': 'Author', 'propertyUrl': 'dc:creator'},
+            {'name': 'Year', 'propertyUrl': 'dc:created'},
+            {'name': 'Citation', 'propertyUrl': 'dc:bibliographicCitation'},
+        )
+
+        media = self.cldf_dir.joinpath('media')
+        media.mkdir(exist_ok=True)
+        for row in self.etc_dir.read_csv('media.csv', dicts=True):
+            target = media / row['fname']
+            shutil.copy(self.raw_dir / 'media' / row['fname'], target)
+            args.writer.objects['MediaTable'].append(dict(
+                ID=md5(target),
+                Name=row['fname'],
+                Description=row['description'],
+                Media_Type=mimetypes.guess_type(target.name)[0],
+                Download_URL=str(target.relative_to(self.cldf_dir)),
+                Author=row['author'],
+                Year=row['year'],
+                Citation=row['citation'],
+            ))
+
         asjp = ASJP(self.raw_dir)
 
         meaning_id_lookup = {v: k for k, v in MEANINGS_ALL.items()}

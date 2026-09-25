@@ -1,0 +1,19 @@
+fname,description,author,year,citation
+AlgorithmTreeFromLabels.zip,Program for creating nexus files from classificatory language labels (version 1.0),"Bibiko, Hans-Joerg",2009,
+asjp79a.zip,Fortran program for counting segments and calculating mean word lengths in ASJP word lists (version 1.0),"Holman, Eric W.",2011,
+ASJPdates-02.zip,Program for calculating ASJP dates (version 1.1),"Holman, Eric W.",2011,
+ASJPSoftware003.zip,Programs for calculating ASJP distance matrices (version 2.1),"Holman, Eric W.",2011,
+DistanceCorrelationsProgram.zip,Program for correlating a data matrix with branch lengths of a phylogenetic tree (version 1.0),"Holman, Eric W.",2011,
+EnglishTemplate.doc,English template for contributions,,,
+geo_dist.zip,Program for calculating geographical distances applying waypoints (version 1.0),"Rama, Taraka",2011,
+Guidelines.pdf,Guidelines for contributions,,,
+mega_nexus.zip,Program for converting MEGA input files to Splitstree input files (version 1.0),"Jung, Hagen",2010,
+NewickReader.zip,The newick reader: a program for producing a distance matrix from the branch lengths in a phylogenetic tree in newick format (version 1.0),"Holman, Eric W.",2011,
+process_asjp-0.0.1.zip,a python script which is useful for generating input files from the ASJP database for use with various other programs,"Huff, Paul",,
+SpanishTemplate.doc,Spanish template for contributions,,,
+string_distances.py,Python programs for calculating different string distances (version 1.0),"Rama, Taraka",2013,
+WorldLanguageTree-001.pdf,ASJP World Language Tree of Lexical Similarity,,2009,"André Müller, Viveka Velupillai, Søren Wichmann, Cecil H. Brown, Pamela Brown, Eric W. Holman, Dik Bakker, Oleg Belyaev, Dmitri Egorov, Robert Mailhammer, Anthony Grant, and Kofi Yakpo. 2009. ASJP World Language Tree: Version 1 (April 2009)."
+WorldLanguageTree-002.pdf,ASJP World Language Tree of Lexical Similarity,,2009,"André Müller, Viveka Velupillai, Søren Wichmann, Cecil H. Brown, Pamela Brown, Eric W. Holman, Dik Bakker, Oleg Belyaev, Dmitri Egorov, Robert Mailhammer, Anthony Grant, and Kofi Yakpo. 2009. ASJP World Language Tree of Lexical Similarity: Version 2 (April 2009)."
+WorldLanguageTree-003.pdf,ASJP World Language Tree of Lexical Similarity,,2010,"Müller, André, Søren Wichmann, Viveka Velupillai, Cecil H. Brown, Pamela Brown, Sebastian Sauppe, Eric W. Holman, Dik Bakker, Johann-Mattis List, Dmitri Egorov, Oleg Belyaev, Robert Mailhammer, Matthias Urban, Helen Geyer, and Anthony Grant. 2010. ASJP World Language Tree of Lexical Similarity: Version 3 (July 2010)."
+WorldLanguageTree-004.zip,ASJP World Language Tree of Lexical Similarity,,2013,"Müller, André, Viveka Velupillai, Søren Wichmann, Cecil H. Brown, Eric W. Holman, Sebastian Sauppe, Pamela Brown, Harald Hammarström, Oleg Belyaev, Johann-Mattis List, Dik Bakker, Dmitri Egorov, Matthias Urban, Robert Mailhammer, Matthew S. Dryer, Evgenia Korovina, David Beck, Helen Geyer, Pattie Epps, Anthony Grant, and Pilar Valenzuela. 2013. ASJP World Language Trees of Lexical Similarity: Version 4 (October 2013)."
+WorldLanguageTree-005.zip,ASJP World Language Tree of Lexical Similarity,,2021,"Müller, André, Viveka Velupillai, Søren Wichmann, Cecil H. Brown, Eric W. Holman, Sebastian Sauppe, Pamela Brown, Harald Hammarström, Oleg Belyaev, Johann-Mattis List, Dik Bakker, Dmitri Egorov, Matthias Urban, Robert Mailhammer, Matthew S. Dryer, Evgenia Korovina, David Beck, Helen Geyer, Pattie Epps, Anthony Grant, and Pilar Valenzuela. 2021. ASJP World Language Trees of Lexical Similarity: Version 5 (October 2021)."

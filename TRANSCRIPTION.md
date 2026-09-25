@@ -4,7 +4,7 @@
 ## Segments
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
-|:----------|-------------:|:-------|:------------------|
+| :-----: | :--------: | :--: | :-------------: |
 | ɐ | 325088 | ✓ | ✓ |
 | i | 229466 | ✓ | ✓ |
 | u | 165364 | ✓ | ✓ |
@@ -349,7 +349,8 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-|------|------------|-----------|--------|
+| :-: | :------: | :-----: | :--: |
+| | | | |
 
 (0 rows)
 
@@ -358,7 +359,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------------------|:-------------------------------|----------:|:------------------------|:-----------------------------------------------------------|
+| :---------------------------------: | :----------------------------: | :-----: | :---------------------: | :--------------------------------------------------------: |
 | AFADE_2-95-1 | AFADE_2 | 95 | gb~"aL3 | g b <s> <<">> </s> ɐ ʎ ə |
 | AGUL-25-2 | AGUL | 25 | p"X~aZ | <s> pχʼ </s> ɐ ʒ |
 | ALYAWARRA_4-99-1 | ALYAWARRA_4 | 99 | alit5~ | ɐ l i t ɲ <s> <<~>> </s> |
@@ -423,9 +424,9 @@
 | SISHEE_2-75-1 | SISHEE_2 | 75 | rS~3 | r ʃ <s> <<~>> </s> ə |
 | SISHEE_2-77-1 | SISHEE_2 | 77 | arS~imui | ɐ r ʃ <s> <<~>> </s> i m u i |
 | SISHEE_2-95-1 | SISHEE_2 | 95 | ne nu moi5a moarS~E | n e + n u + m o i ɲ ɐ + m o ɐ r ʃ <s> <<~>> </s> a |
+| SKOLT_SAAMI_2-6-1 | SKOLT_SAAMI_2 | 6 | TS~ia | <s> cʃ </s> i ɐ |
 | SKOLT_SAAMI_2-35-2 | SKOLT_SAAMI_2 | 35 | piatcy~iTS~ | p i ɐ t tsʲ i <s> cʃ </s> |
 | SKOLT_SAAMI_2-48-1 | SKOLT_SAAMI_2 | 48 | TS~i3tta | <s> cʃ </s> i ə t t ɐ |
-| SKOLT_SAAMI_2-6-1 | SKOLT_SAAMI_2 | 6 | TS~ia | <s> cʃ </s> i ɐ |
 | SKOLT_SAAMI_2-64-1 | SKOLT_SAAMI_2 | 64 | TS~Ery~ddy~Ed | <s> cʃ </s> a rʲ d dʲ a d |
 | SKOLT_SAAMI_2-77-1 | SKOLT_SAAMI_2 | 77 | TS~Eady~CCSy~3 | <s> cʃ </s> a ɐ dʲ tʃ tʃ ʃʲ ə |
 | SKOLT_SAAMI_2-99-1 | SKOLT_SAAMI_2 | 99 | koSTS~Es | k o ʃ <s> cʃ </s> a s |

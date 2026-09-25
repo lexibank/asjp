@@ -9,7 +9,7 @@ Adapt citation in metadata.json
 
 Recreate the cldf:
 ```shell
-cldfbench lexibank.makecldf --glottolog-version v5.2 lexibank_asjp.py
+cldfbench lexibank.makecldf --glottolog-version v5.3 lexibank_asjp.py
 ```
 
 Validate:
